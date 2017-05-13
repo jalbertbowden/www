@@ -184,8 +184,29 @@ At the University of Durham has links to boundary related web sites around the w
 
 [National Fish Habitat Partnership Data Catalog (Beta v3)](https://ecosystems.usgs.gov/fishhabitat/catalog.jsp)
 
+[Geophysical Fluid Dynamics Laboratory (GFDL) Data Portal](http://data1.gfdl.noaa.gov/)  
+
+[ftp://nomads.gfdl.noaa.gov/](ftp://nomads.gfdl.noaa.gov/)  
+[Access Data - National Oceanographic Data Center](https://www.nodc.noaa.gov/access/index.html)  
+[Data (FTP) - National Oceanographic Data Center](https://data.nodc.noaa.gov/)
+[Access Data by Category - National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov/)  
+[All Marine Geology and Geophysics (MGG) ](https://www.ngdc.noaa.gov/mgg/mggd.html)  
+[National Geophysical Data Center (NGDC) Data](https://www.ngdc.noaa.gov/)  
+## Data by Discipline  
+[Bathymetry &amp; Global Relief](https://www.ngdc.noaa.gov/mgg/bathymetry/relief.html)
+<a href="/eog/" [Earth Observations from Space, Defense Meteorological Satellite Program (DMSP) archive]
+<a href="/geomag/geomag.shtml" [Geomagnetic Data, Models, &amp; Calculators]
+<a href="/mgg/mggd.html" [Marine Geology &amp; Geophysics, sea floor &amp; lakebed data]
+<a href="/hazard/hazards.shtml" [Natural Hazards - tsunamis, volcanoes, earthquakes, wildfires]
+<a href="/stp/spaceweather.html" [Space Weather, Ionospheric Data, Solar Events, Aurorae]
 
 
+National Coastal Data Development Center (NCDDC)
+National Environmental Satellite, Data, and Information Service (NESDIS
+[Geospatial Data and Services](https://maps.ngdc.noaa.gov/)
+[Marine/Ocean Data - NCDC/NOAA](https://www.ncdc.noaa.gov/data-access/marineocean-data)
+[Global Marine Data Map](https://gis.ncdc.noaa.gov/maps/ncei/marine)
+[NOAA Marine Environmental Buoy Database](https://www.nodc.noaa.gov/BUOY/)
 [Geological Survey Coastal and Marine Geoscience Data System](https://cmgds.marine.usgs.gov/)
 [Marine Geology and Geophysics Data &#124; NCEI](https://www.ngdc.noaa.gov/mgg/)
 [Data Sets - St. Petersburg Coastal and Marine Science Center](https://coastal.er.usgs.gov/data/)
@@ -194,3 +215,17 @@ At the University of Durham has links to boundary related web sites around the w
 [Topographic Maps - USGS](https://www.usgs.gov/products/maps/topo-maps)  
 [ScienceBase Geospatial Services](https://www.sciencebase.gov/about/content/sciencebase-geospatial-services)  
 [EnviroAtlas Data Download: Step 2](https://www.epa.gov/enviroatlas/enviroatlas-data-download-step-2)  
+
+[Data Services - National Oceanographic Data Center (NODC)](https://www.nodc.noaa.gov/access/services.html)  
+
+## Disasters/Emergencies  
+
+[Statistics - National Interagency Fire Center](https://www.nifc.gov/fireInfo/fireInfo_statistics.html)  
+[Natural Hazards Data, Images and Education](https://www.ngdc.noaa.gov/hazard/)
+
+[NOAA Institutional Repository](https://repository.library.noaa.gov/)  
+
+
+
+[Marine Trackline Geophysical Data](https://www.ngdc.noaa.gov/mgg/geodas/trackline.html)
+

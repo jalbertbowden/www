@@ -1,0 +1,16 @@
+https://www.filamentgroup.com/examples/rwd-table-patterns/
+https://css-tricks.com/examples/ResponsiveTables/responsive.php
+https://medium.com/mission-log/design-better-data-tables-430a30a00d8c
+https://github.com/filamentgroup/tablesaw
+https://www.filamentgroup.com/lab/responsive-design-approach-for-complex-multicolumn-data-tables.html
+https://www.sitepoint.com/responsive-data-tables-comprehensive-list-solutions/
+http://gergeo.se/RWD-Table-Patterns/
+https://ux.shopify.com/lessons-from-building-mobile-friendly-accessible-data-tables-1e05c6924eaf
+https://css-tricks.com/accessible-simple-responsive-tables/
+https://ux.stackexchange.com/questions/100786/best-approach-for-huge-data-tables-currently-using-scrolls
+https://ux.stackexchange.com/questions/80770/data-tables-in-mobile-tablet-material-design
+https://material.io/guidelines/components/data-tables.html#data-tables-interaction
+https://www.justinmind.com/blog/5-tips-to-make-your-datalists-and-grids-look-awesome/
+http://www.needlestacker.com/responsive-charts-data-tables/
+http://www.marquette.edu/its/help/telecomm/documents/MobileDeviceBestPractices.pdf
+https://docs.openscholar.harvard.edu/building-responsive-tables

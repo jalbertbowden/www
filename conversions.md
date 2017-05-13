@@ -9,6 +9,8 @@ JSON (to)
 KML to GeoJSON  
 Shapefile to GeoJSON  
 
+[Raster to Vector - QGIS](https://docs.qgis.org/2.6/en/docs/training_manual/complete_analysis/raster_to_vector.html)  
+
 [Morph GeoJSON Polygons into Rectangles](https://github.com/sebastian-meier/d3.geo2rect)  
 
 [GDAL Cheat Sheet - Cheat Sheet for GDAL/OGR Command-Line Tools](https://github.com/dwtkns/gdal-cheat-sheet)  
