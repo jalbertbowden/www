@@ -42,16 +42,15 @@ FWS
 [USFWS National Digital Library](https://digitalmedia.fws.gov/)
 [USFWS National Digital Library via Wayback Machine (2009)](https://web.archive.org/web/20090509192616/http://www.fws.gov:80/digitalmedia/)  
 
-[USFWS HQ flickr](http://www.flickr.com/photos/usfwshq)
+[CDC Healthy Places Media Resources](https://www.cdc.gov/healthyplaces/media.htm)  
+
+## Youtube
 [USFWS Youtube](http://www.youtube.com/usfws)  
-[USFWS Instagram](http://instagram.com/usfws)  
+[U.S. Departent of Health and Human Services](https://www.youtube.com/user/USGOVHHS)
+[DigitalGov.gov Youtube](https://www.youtube.com/user/howtogov)
 
-# DIA (Defense Logicistics Agency) dia.mil
-[flickr](https://www.flickr.com/photos/dlamil)  
-[Images](http://www.dla.mil/News/Images.aspx)  
 
-[NIFC National Interagency Fire Center Google Album Archive](https://get.google.com/albumarchive/106083692624922066749)  
-
+[Surgeon General Videos](https://www.surgeongeneral.gov/www.surgeongeneral.gov/videos/index.html)  
 
 # BLM  
 ## BLM Eastern States

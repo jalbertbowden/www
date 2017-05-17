@@ -124,5 +124,19 @@ YOU'VE NEVER BEEN HERE!!!
 [Collections OFW AT The U.S. National Archives > )  
 [https://www.flickr.com/photos/usnationalarchives/collections/72157620729903309/)  
 
+[Image Libraries - CDC Healthy Places](https://www.cdc.gov/healthyplaces/images.htm)  
+[Cities, Towns - American Memory Collection - Library of Congress](http://wayback.archive.org/web/20130401084009/http://memory.loc.gov/ammem/browse/ListSome.php?category=Cities,+Towns)
+
+## flickr
+[USFWS HQ flickr](http://www.flickr.com/photos/usfwshq)  
+[U.S. Dept. of Health & Human Services flickr](https://www.flickr.com/photos/hhsgov/)  
+[flickr](https://www.flickr.com/photos/dlamil)  
 
 
+## Instagram
+[USFWS Instagram](http://instagram.com/usfws)  
+
+# DIA (Defense Logicistics Agency) dia.mil
+[Images](http://www.dla.mil/News/Images.aspx)  
+
+[NIFC National Interagency Fire Center Google Album Archive](https://get.google.com/albumarchive/106083692624922066749)  

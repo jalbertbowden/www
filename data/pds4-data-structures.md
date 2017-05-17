@@ -1,0 +1,3 @@
+# [PDS4 Data Structures](http://sbndev.astro.umd.edu/wiki/PDS4_Data_Structures)  
+
+PDS4 data structures are designed for long-term archive stability and to support interdisciplinary use. Specifically, for archival science data the primary data structures are tables and arrays of 2-4 dimensions. These simple structures not only ensure long-term stability in the archive, but they are also relatively hard to mis-read, reducing the amount of end-user error resulting from misunderstood record formats. The use of these simple, standardized formats also supports inter-disciplinary use of the data, as it tends to severely limit dependence on specific software packages for working with PDS4 data.  

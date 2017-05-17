@@ -7,9 +7,7 @@ http://18f.github.io/API-All-the-X/data/individual_apis.json
 
 [18f Developer Program](https://pages.18f.gov/API-All-the-X/)
 
-Geocoding Services
-Web Application Programming Interface (API)
-https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.pdf
+[Census Geocoding Services Web Application Programming Interface (API) (PDF)](https://geocoding.geo.census.gov/geocoder/Geocoding_Services_API.pdf)  
 
 [Census API Call](http://api.census.gov/data/2010/sf1?key=dca01e32727d8297199df10ec6fdb2d91142a5c2&get=P0010001&for=state:06)  
 http://api.census.gov/data/2010/sf1?key=dca01e32727d8297199df10ec6fdb2d91142a5c2&get=P0010001&for=state:06  
@@ -26,3 +24,13 @@ If you are in need of a CSDGM editor, here are the links to several available fr
 [USGS tkme, mp, cns, xtme, and others](http://geology.usgs.gov/tools/metadata/#software)
 [USDA Forest Service Metavist (for use with the CSDGM Biological Profile)](http://www.nrs.fs.fed.us/pubs/2737)
 [XSLTs and XSDs for use with XML editors](http://www.ncddc.noaa.gov/metadata-standards/metadata-xml/)  
+
+
+## USGS  
+
+[USGS Astrogeology GitHub](https://github.com/USGS-Astrogeology)  
+[GDAL_scripts](https://github.com/USGS-Astrogeology/GDAL_scripts)  
+GDAL scripts generally written in Python.  
+[ftp://pdsimage2.wr.usgs.gov/pub/pigpen/GDAL/](ftp://pdsimage2.wr.usgs.gov/pub/pigpen/GDAL/)  
+[ftp://pdsimage2.wr.usgs.gov/pub/pigpen/atlas/](ftp://pdsimage2.wr.usgs.gov/pub/pigpen/atlas/)  
+[ftp://pdsimage2.wr.usgs.gov/pub/pigpen/Python/](ftp://pdsimage2.wr.usgs.gov/pub/pigpen/Python/)  
