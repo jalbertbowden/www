@@ -60,7 +60,25 @@ EPIC
 [Earth Observatory](http://earthobservatory.nasa.gov/)  
 [Data and Images](http://nasawavelength.org/data-and-images)  
 [How to Obtain Aerial Photographs](https://pubs.usgs.gov/fs/1999/0081/report.pdf)  
-how-to-obtain-aerial-photographs-report-usgs
+
+
+
+
+
+[Arlington National Cemetery](https://www.flickr.com/photos/arlingtoncemetery)  
+[Consumer Financial Protection Bureau](https://www.flickr.com/photos/cfpbphotos)  
+[U.S. Dept. of Housing and Urban Development (HUD)](https://www.flickr.com/photos/hudopa/)  
+[U.S. Department of Energy](https://www.flickr.com/photos/departmentofenergy)  
+[USDA National Institute of Food and Agriculture](https://www.flickr.com/photos/usda_nifa/)  
+[SEDACMaps](https://www.flickr.com/photos/54545503@N04/)  
+
+
+[U.S. Department of Interior](https://www.instagram.com/usinterior/)  
+[Arlington National Cemetery](https://www.instagram.com/arlingtonnatl/)  
+
+
+[Photo Galleries - NIEHS Superfund Research Program - Health Effects and Geochemistry of Arsenic and Manganese](http://superfund.ciesin.columbia.edu/galleries)  
+
 
 
 
@@ -80,23 +98,58 @@ how-to-obtain-aerial-photographs-report-usgs
 
 
 
+[NIH Image Gallery](https://www.flickr.com/photos/nihgov/albums)
+
+
+[Photos & Biographies - NIEHS NIH](https://www.niehs.nih.gov/news/newsroom/photos/index.cfm)  
+[Images and B-roll - NIH](https://www.nih.gov/news-events/images-b-roll)  
 
 
 
 
 
 
+[U.S. Department of Defense Current Photos](https://www.flickr.com/photos/39955793@N07/)
+
+
+
+[NOAA Ocean Exploration & Research](https://www.flickr.com/photos/oceanexplorergov)
+
+
+[https://www.flickr.com/groups/historyhappenshere/](https://www.flickr.com/groups/historyhappenshere/)  
+
+[The U.S. National Archives](https://www.flickr.com/photos/usnationalarchives)  
+
+[Collections OFW AT The U.S. National Archives > )  
+[https://www.flickr.com/photos/usnationalarchives/collections/72157620729903309/)  
+
+[Image Libraries - CDC Healthy Places](https://www.cdc.gov/healthyplaces/images.htm)  
+[Cities, Towns - American Memory Collection - Library of Congress](http://wayback.archive.org/web/20130401084009/http://memory.loc.gov/ammem/browse/ListSome.php?category=Cities,+Towns)
+
+## flickr
+[USFWS HQ flickr](http://www.flickr.com/photos/usfwshq)  
+[U.S. Dept. of Health & Human Services flickr](https://www.flickr.com/photos/hhsgov/)  
+[flickr](https://www.flickr.com/photos/dlamil)  
+[USDA](https://www.flickr.com/photos/usdagov/)
+
+
+## Instagram
+[USFWS Instagram](http://instagram.com/usfws)  
+[USDA Forest Service](https://www.instagram.com/u.s.forestservice/)
+[NOAA Ocean Exploration](https://www.instagram.com/noaaoceanexploration/)
+[Department of Defense](https://www.instagram.com/deptofdefense/)
+
+# DIA (Defense Logicistics Agency) dia.mil
+[Images](http://www.dla.mil/News/Images.aspx)  
+
+[NIFC National Interagency Fire Center Google Album Archive](https://get.google.com/albumarchive/106083692624922066749)  
 
 
 
 
 
 
-
-
-
-
-
+[Image Galleries - Hawaiian Volcano Observatory](https://volcanoes.usgs.gov/volcanoes/kilauea/kilauea_multimedia_gallery.html)
 
 
 
@@ -116,27 +169,3 @@ YOU'VE NEVER BEEN HERE!!!
 [About the FSA/OWI Color Photographs](http://www.loc.gov/pictures/collection/fsac/about.html)  
 [National Archives Citizen Archivist Flickr Group](https://www.flickr.com/groups/citizenarchivist/)  
 [USEPA Environmental-Protection-Agency](https://www.flickr.com/photos/24400159@N05/)  
-
-[https://www.flickr.com/groups/historyhappenshere/](https://www.flickr.com/groups/historyhappenshere/)  
-
-[The U.S. National Archives](https://www.flickr.com/photos/usnationalarchives)  
-
-[Collections OFW AT The U.S. National Archives > )  
-[https://www.flickr.com/photos/usnationalarchives/collections/72157620729903309/)  
-
-[Image Libraries - CDC Healthy Places](https://www.cdc.gov/healthyplaces/images.htm)  
-[Cities, Towns - American Memory Collection - Library of Congress](http://wayback.archive.org/web/20130401084009/http://memory.loc.gov/ammem/browse/ListSome.php?category=Cities,+Towns)
-
-## flickr
-[USFWS HQ flickr](http://www.flickr.com/photos/usfwshq)  
-[U.S. Dept. of Health & Human Services flickr](https://www.flickr.com/photos/hhsgov/)  
-[flickr](https://www.flickr.com/photos/dlamil)  
-
-
-## Instagram
-[USFWS Instagram](http://instagram.com/usfws)  
-
-# DIA (Defense Logicistics Agency) dia.mil
-[Images](http://www.dla.mil/News/Images.aspx)  
-
-[NIFC National Interagency Fire Center Google Album Archive](https://get.google.com/albumarchive/106083692624922066749)  

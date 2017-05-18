@@ -1,9 +1,23 @@
 # Open dotgov Media: Images, Videos, etc., Created by US Governments/Agencies/Departments in the Public Domain  
 
+[Photo & Video Chronology - Hawaiian Volcano Observatory](https://volcanoes.usgs.gov/volcanoes/kilauea/multimedia_chronology.html?newSearch=true&display=custom&volcano=1&resultsPerPage=20)
+[Videos - Hawaiian Volcano Observatory](https://volcanoes.usgs.gov/volcanoes/kilauea/multimedia_videos.html)
+
 ## NASA  
 
 [NASA Image and Video Library](https://images.nasa.gov/)  
 
+## [DOD Videos](https://www.defense.gov/Videos/)  
+[Defense.TV](http://defensetv.com/)  
+[DVIDS - Defense Video Imagery Distribution System](https://www.dvidshub.net/)  
+
+
+
+[USDA Forest Service](https://www.youtube.com/user/usdaForestService)
+
+
+United States Circuit Courts for the Ninth Circuit
+[Live Video Streaming Oral Arguments](https://www.ca9.uscourts.gov/media/live_oral_arguments.php)
 
 ## USFS  
 
@@ -48,6 +62,52 @@ FWS
 [USFWS Youtube](http://www.youtube.com/usfws)  
 [U.S. Departent of Health and Human Services](https://www.youtube.com/user/USGOVHHS)
 [DigitalGov.gov Youtube](https://www.youtube.com/user/howtogov)
+[Department of Defense](https://www.youtube.com/deptofdefense)
+[NIH](https://www.youtube.com/user/nihod)  
+[NIH4Health](https://www.youtube.com/channel/UCPMDUu4PqQMc0wr8KEM4w7g)
+[USFoodandDrugAdmin](https://www.youtube.com/user/USFoodandDrugAdmin)  
+[HRSA.gov](https://www.youtube.com/user/HRSAtube)  
+[CDC](https://www.youtube.com/user/CDCStreamingHealth)  
+[NOAA ESRL](https://www.youtube.com/user/NOAAESRL)
+[USDA](https://www.youtube.com/user/usda)  
+[Africa Soil Information Service](http://africasoils.net/)  
+[U.S. Department of Energy](https://www.youtube.com/user/USdepartmentofenergy)  
+[U.S. Department of State](https://www.youtube.com/user/statevideo)  
+[HUD](https://www.youtube.com/user/HUDchannel)  
+[MakingHomeAffordable.gov](https://www.youtube.com/user/MakingHomeAffordable)  
+[U.S. Department of Treasury](https://www.youtube.com/user/USTreasGov)  
+[USA.gov](https://www.youtube.com/user/USGovernment)  
+[GoviernoUSA.gov](https://www.youtube.com/user/GobiernoUSA)  
+[Kids.gov](https://www.youtube.com/user/kidsgov)  
+[White House](https://www.youtube.com/user/whitehouse)
+
+[AHRQ Health TV](https://www.youtube.com/user/AHRQHealthTV)  
+[AHRG Data Resources Channel](https://www.youtube.com/channel/UCJmb52Theg1h0_FgGM5pCEg)  
+[AHRQ Patient Safety](https://www.youtube.com/user/ahrqpatientsafety)  
+[AHRQ Primary Care](https://www.youtube.com/user/AHRQprimarycare)  
+[AHRQ Health IT](https://www.youtube.com/user/AHRQHealthIT)  
+[AHRQ Effectiveness](https://www.youtube.com/user/AHRQeffectiveness)  
+[AHRQ en español](https://www.youtube.com/user/AHRQespanol)  
+[AHRQ Innovations](https://www.youtube.com/user/ahrqinnovations)  
+
+
+[EPA](https://www.youtube.com/user/USEPAgov)  
+[US Department of Interior](https://www.youtube.com/user/USInterior)  
+[DOD](https://www.youtube.com/user/DODvClips)  
+[USDA](https://www.youtube.com/user/usda)  
+[USDA Food Safetyvhttps://www.youtube.com/user/USDAFoodSafety)  
+[USDA Food and Nutrition Service](https://www.youtube.com/user/USDAfoodandnutrition)  
+[USDA NIFA (National Institute of Food and Agriculture)](https://www.youtube.com/user/usdaagscience)
+[USDA APHIS](https://www.youtube.com/user/USDAAPHIS)
+[NFSMI at Ole Miss](https://www.youtube.com/user/NFSMIatOleMiss)
+National Food Service Management Institute, USDA, Ole Miss, The University of Mississippi
+[NIHOD](https://www.youtube.com/user/NIHOD)  
+[StopBullyingGov](https://www.youtube.com/user/StopBullyingGov)  
+[NASA Socioeconomic Data and Applications Center (SEDAC) Channel](https://www.youtube.com/channel/UCjUjAvV7M04SxxpM5wq4fMw)  
+[Arlington National Cemetery](https://www.youtube.com/channel/UCdviiwqQHHUePZglBHXFvPw)  
+[Video Galleries - NIEHS Superfund Research Program - Health Effects and Geochemistry of Arsenic and Manganese](http://superfund.ciesin.columbia.edu/all_videos_list)  
+
+
 
 
 [Surgeon General Videos](https://www.surgeongeneral.gov/www.surgeongeneral.gov/videos/index.html)  

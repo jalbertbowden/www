@@ -1,6 +1,9 @@
 # Feeds - U.S. Government Feeds: Atom, RSS, XML, etc.   
 
+## DOD  
+[Department of Defense RSS Feeds](https://www.defense.gov/News/RSS/)  
 
+[Subscribe to RSS Feeds - United States Circuit Courts for the Ninth Circuit](https://www.ca9.uscourts.gov/rss/)
 
 ## Guidelines.gov NGC - National Guidelines Clearinghouse  
 [RSS](https://www.guideline.gov/Home/Rss)  
