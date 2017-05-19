@@ -1,11 +1,10 @@
-
+# YouTube  
 
 [https://www.thinkwithgoogle.com/platforms/video/leaderboards/youtube-leaderboard-mar-2016.html](https://www.thinkwithgoogle.com/platforms/video/leaderboards/youtube-leaderboard-mar-2016.html)  
 
 
 [YouTube Ads Leaderboard](https://www.thinkwithgoogle.com/platforms/video/leaderboards/)  
 [YouTube Ads Trending](https://www.thinkwithgoogle.com/platforms/video/trending/)  
-[YouTube Ads Insights]()  
 
 
 
