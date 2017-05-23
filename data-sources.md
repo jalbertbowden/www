@@ -225,7 +225,13 @@ National Environmental Satellite, Data, and Information Service (NESDIS
 
 [NOAA Institutional Repository](https://repository.library.noaa.gov/)  
 
+[Litterbase - Online Portal for Marine Litter](http://litterbase.awi.de/)  
+Species / genera were classified using the <a href="http://www.marinespecies.org/" target="_blank">World Register of Marine Species</a>  and assigned to habitats using e.g. <a href="http://www.sealifebase.org/" target="_blank">SeaLifeBase</a>  and <a href="http://www.fishbase.org/home.htm" target="_blank">FishBase</a>. Seals and seabirds were assigned to beach and surface, whales to pelagic and surface, turtles to beach, surface and pelagic environments. Organisms from flotsam were classified as benthic; bacteria and lower taxa were not assigned to any habitat. Values are shown by clicking on pie charts.  
+http://maps.awi.de/map/map.html?cu=Litter_and_microplastic_distribution
 
+[Ecological Marine Unit Explorer](https://livingatlas.arcgis.com/emu/)
+map will display information about ecological marine units based on a clustering analysis that was preformed against NOAA’s World Ocean Atlas Data. 
+[World Ocean Atlas 2013 Version 2](https://www.nodc.noaa.gov/OC5/woa13/)
 
 [Marine Trackline Geophysical Data](https://www.ngdc.noaa.gov/mgg/geodas/trackline.html)
 [Data Analysis & Documentation - OPM](https://www.opm.gov/Data/index.aspx)  
@@ -233,8 +239,33 @@ National Environmental Satellite, Data, and Information Service (NESDIS
 [Standards Incorporated by Reference (SIBR) Database Regulatory SIBR (R-SIBR)](https://standards.gov/sibr/query/index.cfm?fuseaction=rsibr.regulatory_sibr)  
 [Standards Incorporated by Reference (SIBR) Database Regulatory SIBR (P-SIBR) Statistics](https://standards.gov/sibr/query/index.cfm?fuseaction=rsibr.total_regulatory_sibr)
 
+[Lincoln Institute for Land Policy keeps a great standardized database on municipal fiscal health](http://datatoolkits.lincolninst.edu/subcenters/fiscally-standardized-cities/)  
+
+[Existing-Home Sales Data by State](http://economistsoutlook.blogs.realtor.org/2015/08/24/existing-home-sales-data-by-state/)
+
+
 
 ## CMS.gov  
 
 [Research, Statistics, Data, & Systems](https://www.cms.gov/Research-Statistics-Data-and-Systems/Research-Statistics-Data-and-Systems.html)  
+[Data and Mapping](https://www.richmondfed.org/community_development/resource_centers/data_mapping)  
+
+[Research & Data - Federal Reserve Bank of Philadelphia](https://www.philadelphiafed.org/research-and-data)
+[Community Development's Data & Tools - Federal Reserve Bank of Atlanta](https://www.frbatlanta.org/community-development/data-and-tools)
+[Data/Research - FedCommunities](https://www.fedcommunities.org/data)
+[Tools - FedCommunities](https://www.fedcommunities.org/tools)
+[Federal Reserve System Data](https://www.federalreserve.gov/data.htm)
+[Data Download Program](https://www.federalreserve.gov/datadownload/)
+[Statistical Release Calendar - Federal Reserve System](https://www.federalreserve.gov/data/releaseschedule.htm)
+[Federal Reserve Statistical Releases](https://fraser.stlouisfed.org/theme/101)  
+
+
+
+
+Global Food Prices Database (WFP)
+The Global Food Prices Database has data on food prices (e.g., beans, rice, fish, and sugar) for 76 countries and some 1,500 markets. The dataset includes around 500,000 records and is updated monthly. The data goes back as far as 1992 for a few countries, although most of the price trends start in 2000-2002.
+https://data.humdata.org/dataset/wfp-food-prices
+
+[HDX - The Humanitarian Data Exchange](https://data.humdata.org/)
+
 
