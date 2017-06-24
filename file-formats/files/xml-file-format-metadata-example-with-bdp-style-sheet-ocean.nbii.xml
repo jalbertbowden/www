@@ -1,0 +1,384 @@
+<?xml version="1.0" ?>
+<?xml-stylesheet href='NBII_classic.xsl' type='text/xsl'?>
+<metadata>
+ <idinfo>
+ <citation>
+ <citeinfo>
+  <origin>Schweitzer, Peter N.</origin> 
+  <pubdate>1993</pubdate> 
+  <title>Modern Average Global Sea-Surface Temperature</title> 
+  <edition>1</edition> 
+  <geoform>remote-sensing image</geoform> 
+ <serinfo>
+  <sername>U.S. Geological Survey Digital Data Series</sername> 
+  <issue>DDS-10</issue> 
+  </serinfo>
+ <pubinfo>
+  <pubplace>Reston, Virginia</pubplace> 
+  <publish>U.S. Geological Survey</publish> 
+  </pubinfo>
+  <onlink>http://geochange.er.usgs.gov/pub/magsst/magsst.html</onlink> 
+  </citeinfo>
+  </citation>
+ <descript>
+  <abstract>The data contained in this data set are derived from the NOAA Advanced Very High Resolution Radiometer Multichannel Sea Surface Temperature data (AVHRR MCSST), which are obtainable from the Distributed Active Archive Center at the Jet Propulsion Laboratory (JPL) in Pasadena, Calif. The JPL tapes contain weekly images of SST from October 1981 through December 1990 in nine regions of the world ocean: North Atlantic, Eastern North Atlantic, South Atlantic, Agulhas, Indian, Southeast Pacific, Southwest Pacific, Northeast Pacific, and Northwest Pacific. This data set represents the results of calculations carried out on the NOAA data and also contains the source code of the programs that made the calculations. The objective was to derive the average sea-surface temperature of each month and week throughout the whole 10-year series, meaning, for example, that data from January of each year would be averaged together. The result is 12 monthly and 52 weekly images for each of the oceanic regions. Averaging the images in this way tends to reduce the number of grid cells that lack valid data and to suppress interannual variability.</abstract> 
+  <purpose>The purpose of this data set is to provide paleoclimate researchers with a tool for estimating the average seasonal variation in sea-surface temperature (SST) throughout the modern world ocean and for estimating the modern monthly and weekly sea-surface temperature at any given oceanic location. It is expected that these data will be compared with temperature estimates derived from geological proxy measures such as faunal census analyses and stable isotopic analyses. The results can then be used to constrain general circulation models of climate change.</purpose> 
+  <supplinf>As ancillary data, the ETOPO5 global gridded elevation and bathymetry data (Edwards, 1989) were interpolated to the resolution of the SST data; the interpolated topographic data are included. The images are provided in three formats: a modified form of run-length encoding (MRLE), Graphics Interchange Format (GIF), and Macintosh PICT format. Also included in the data set are programs that can retrieve seasonal temperature profiles at user-specified locations and that can decompress the data files. These nongraphical SST retrieval programs are provided in versions for UNIX, MS-DOS, and Macintosh computers. Graphical browse utilities are included for users of UNIX with the X Window System, 80386- based PC's, and Macintosh computers.</supplinf> 
+  </descript>
+ <timeperd>
+ <timeinfo>
+ <rngdates>
+  <begdate>19811001</begdate> 
+  <enddate>19891231</enddate> 
+  </rngdates>
+  </timeinfo>
+  <current>Smith, E., 1991, A user's guide to the NOAA Advanced Very High Resolution Radiometer Multichannel Sea Surface Temperature data set produced by the University of Miami/Rosenstiel School of Marine and Atmospheric Science: Distributed by the Distributed Active Archive Center, Jet Propulsion Laboratory, Pasadena, California. 10 p.</current> 
+  </timeperd>
+ <status>
+  <progress>Complete</progress> 
+  <update>Irregular</update> 
+  </status>
+ <spdom>
+ <bounding>
+  <westbc>-180.0</westbc> 
+  <eastbc>180.0</eastbc> 
+  <northbc>72.0</northbc> 
+  <southbc>-66.0</southbc> 
+  </bounding>
+  </spdom>
+ <keywords>
+ <theme>
+  <themekt>None</themekt> 
+  <themekey>Oceanography</themekey> 
+  <themekey>Sea Surface Temperature</themekey> 
+  </theme>
+ <place>
+  <placekt>None</placekt> 
+  <placekey>North Atlantic Ocean</placekey> 
+  <placekey>South Atlantic Ocean</placekey> 
+  <placekey>Indian Ocean</placekey> 
+  <placekey>Pacific Ocean</placekey> 
+  <placekey>Mediterranean Sea</placekey> 
+  </place>
+ <temporal>
+  <tempkt>None</tempkt> 
+  <tempkey>Present</tempkey> 
+  </temporal>
+  </keywords>
+  <accconst>none</accconst> 
+  <useconst>none</useconst> 
+ <ptcontac>
+ <cntinfo>
+ <cntperp>
+  <cntper>Peter N. Schweitzer</cntper> 
+  </cntperp>
+ <cntaddr>
+  <addrtype>mailing address</addrtype> 
+  <address>Mail Stop 955 National Center U.S. Geological Survey 12201 Sunrise Valley Drive</address> 
+  <city>Reston</city> 
+  <state>VA</state> 
+  <postal>22092</postal> 
+  <country>USA</country> 
+  </cntaddr>
+  <cntvoice>(703) 648-6533</cntvoice> 
+  <cntfax>(703) 648-6647</cntfax> 
+  <cntemail>pschweitzer@usgs.gov</cntemail> 
+  </cntinfo>
+  </ptcontac>
+ <browse>
+  <browsen>m_augna.gif</browsen> 
+  <browsed>August sea-surface temperature in the Western North Atlantic Ocean. This file is available electronically using the URL http://geochange.er.usgs.gov/pub/magsst/cdrom/core/raw/na/gif/m_augna.gif</browsed> 
+  <browset>GIF</browset> 
+  </browse>
+ <browse>
+  <browsen>m_augnae.gif</browsen> 
+  <browsed>August sea-surface temperature in the Eastern North Atlantic Ocean. This file is available electronically using the URL http://geochange.er.usgs.gov/pub/magsst/cdrom/core/raw/nae/gif/m_augnae.gif</browsed> 
+  <browset>GIF</browset> 
+  </browse>
+ <browse>
+  <browsen>m_augsa.gif</browsen> 
+  <browsed>August sea-surface temperature in the South Atlantic Ocean. This file is available electronically using the URL http://geochange.er.usgs.gov/pub/magsst/cdrom/core/raw/sa/gif/m_augsa.gif</browsed> 
+  <browset>GIF</browset> 
+  </browse>
+ <browse>
+  <browsen>m_augag.gif</browsen> 
+  <browsed>August sea-surface temperature in the Southeastern Atlantic and Southwestern Indian Oceans. This file is available electronically using the URL http://geochange.er.usgs.gov/pub/magsst/cdrom/core/raw/ag/gif/m_augag.gif</browsed> 
+  <browset>GIF</browset> 
+  </browse>
+ <browse>
+  <browsen>m_augio.gif</browsen> 
+  <browsed>August sea-surface temperature in the Indian Ocean. This file is available electronically using the URL http://geochange.er.usgs.gov/pub/magsst/cdrom/core/raw/io/gif/m_augio.gif</browsed> 
+  <browset>GIF</browset> 
+  </browse>
+ <browse>
+  <browsen>m_augnep.gif</browsen> 
+  <browsed>August sea-surface temperature in the Northeast Pacific Ocean. This file is available electronically using the URL http://geochange.er.usgs.gov/pub/magsst/cdrom/core/raw/nep/gif/m_augnep.gif</browsed> 
+  <browset>GIF</browset> 
+  </browse>
+ <browse>
+  <browsen>m_augnwp.gif</browsen> 
+  <browsed>August sea-surface temperature in the Northwest Pacific Ocean. This file is available electronically using the URL http://geochange.er.usgs.gov/pub/magsst/cdrom/core/raw/nwp/gif/m_augnwp.gif</browsed> 
+  <browset>GIF</browset> 
+  </browse>
+ <browse>
+  <browsen>m_augsep.gif</browsen> 
+  <browsed>August sea-surface temperature in the Southeast Pacific Ocean. This file is available electronically using the URL http://geochange.er.usgs.gov/pub/magsst/cdrom/core/raw/sep/gif/m_augsep.gif</browsed> 
+  <browset>GIF</browset> 
+  </browse>
+ <browse>
+  <browsen>m_augswp.gif</browsen> 
+  <browsed>August sea-surface temperature in the Southwest Pacific Ocean. This file is available electronically using the URL http://geochange.er.usgs.gov/pub/magsst/cdrom/core/raw/swp/gif/m_augswp.gif</browsed> 
+  <browset>GIF</browset> 
+  </browse>
+  <native>This data set is provided on a single CD-ROM in ISO 9660 format with Macintosh-compatible HFS directory information as well. The data set was developed on a Data General AViiON computer system running DG/UX version 5.4.2R01 (UNIX); additional software products provided on the CD-ROM were developed on a Macintosh IIci and on an IBM-compatible personal computer made by ZEOS, Inc., running an Intel 80486 DX microprocessor.</native> 
+ <crossref>
+ <citeinfo>
+  <origin>U.S. Geological Survey</origin> 
+  <origin>Peter N. Schweitzer (comp.)</origin> 
+  <pubdate>1995</pubdate> 
+  <title>Monthly Average Polar Sea-Ice Concentration</title> 
+  <geoform>remote-sensing image</geoform> 
+ <serinfo>
+  <sername>U.S. Geological Survey Digital Data Series</sername> 
+  <issue>DDS-27</issue> 
+  </serinfo>
+  <onlink>ftp://geochange.er.usgs.gov/pub/sea_ice</onlink> 
+  <onlink>http://geochange.er.usgs.gov/pub/sea_ice/README.html</onlink> 
+  </citeinfo>
+  </crossref>
+  </idinfo>
+ <dataqual>
+ <attracc>
+ <attraccr>Calculation of sea-surface temperature values from AVHRR data is described extensively in the references and in the user's guides of the source data products.</attraccr> 
+  </attracc>
+  <logic>Included in the data set are the UNIX shell scripts and makefiles that were used to derive the averages and create the tables and images. Source code is provided for all programs written by the author.</logic> 
+  <complete>Included in the data set is a table enumerating the days for which sea-surface temperature data were available in the source material. In general, images were available every week during the time period from 811001 through 891231.</complete> 
+ <posacc>
+ <horizpa>
+  <horizpar>The grid provided in the source data (supplied by PO.DAAC) is described in the user's guide of the source product.</horizpar> 
+  </horizpa>
+  </posacc>
+ <lineage>
+ <srcinfo>
+ <srccite>
+ <citeinfo>
+  <origin>Jet Propulsion Laboratory</origin> 
+  <pubdate>1991</pubdate> 
+  <title>NOAA Advanced Very High Resolution Radiometer Multichannel Sea Surface Temperature data set produced by the University of Miami/Rosenstiel School of Marine and Atmospheric Science:</title> 
+  <geoform>remote-sensing image</geoform> 
+  <othercit>Distributed by the Distributed Active Archive Center, Jet Propulsion Laboratory, Pasadena, California. User's guide is 10 pages. The data are distributed on 9 nin-track tapes in VAX Backup format.</othercit> 
+  </citeinfo>
+  </srccite>
+  <typesrc>Nine-track tape</typesrc> 
+ <srctime>
+ <timeinfo>
+ <rngdates>
+  <begdate>19811001</begdate> 
+  <enddate>19891231</enddate> 
+  </rngdates>
+  </timeinfo>
+  <srccurr>Smith, E., 1991, A user's guide to the NOAA Advanced Very High Resolution Radiometer Multichannel Sea Surface Temperature data set produced by the University of Miami/Rosenstiel School of Marine and Atmospheric Science: Distributed by the Distributed Active Archive Center, Jet Propulsion Laboratory, Pasadena, California. 10 p.</srccurr> 
+  </srctime>
+  <srccitea>AVHRR MCSST</srccitea> 
+  <srccontr>The source data set provides 467 weekly images of each of nine regions of the world oceans; these weekly files were averaged in the present data set to produce monthly composite images.</srccontr> 
+  </srcinfo>
+ <procstep>
+  <procdesc>Calculate monthly averages and composite monthly averages. The Bourne shell script do_avgs describes the manner in which the program average was used to calculate the monthly and composite monthly average sea ice concentration files. The program average is given a list of sea ice concentration data files in HDF format. For each grid cell in the images, it calculates the arithmetic average of the corresponding cell in the input files, and writes the average image into a new file. This program is run once for each month of each year represented in the original data to yield monthly averages. Then the composite monthly averages are calculated using the monthly averages for each year.</procdesc> 
+  <procdate>1993</procdate> 
+  </procstep>
+ <procstep>
+  <procdesc>Create GIF and PICT images of monthly and composite monthly averages. The Bourne shell script do_imgs converts the monthly average and composite monthly average files into GIF and PICT images. This script uses two programs from the freely available PbmPlus toolkit developed by Jeff Poskanzer.</procdesc> 
+  <procdate>1993</procdate> 
+  </procstep>
+ <procstep>
+  <procdesc>Regrid ETOPO5 elevation and bathymetry data to fit sea ice concentration grid. The ETOPO5 global gridded elevation and bathymetry data set describes world topography on a grid whose cells measure 5 minutes of latitude by 5 minutes of longitude. Since the ice concentration data are given in an azimuthal equidistant projection, the elevation of cells in the ice concentration grid must be determined by appropriately sampling or interpolating the ETOPO5 data. Because the ETOPO5 grid is finer than the ice concentration grid, a sampling algorithm was combined with a spatial averaging scheme to derive the desired elevation data. The program that implements this algorithm is called topo.c; its strategy is to find the ice grid cell coordinates of the center of each ETOPO5 cell, and calculate the average depth of all of the ETOPO5 cells that fall within an ice grid cell. The results are two 16-bit images with big- endian byte ordering in which each signed 16-bit word describes the average depth or elevation in meters (sea level is zero) of a cell in the ice concentration grid. Along with the 16-bit depth data files, displayable images are created using depthppm.c in portable pixmap format, and from that intermediate stage, GIF and PICT images are created using the PbmPlus toolkit. Depthppm reduces the complexity of the depth data by assigning one color to a range of depths. The relationship between depth ranges and colors is given in the source code file depthppm.c. The Bourne shell script do_topo carries out these operations.</procdesc> 
+  <procdate>1993</procdate> 
+  </procstep>
+  </lineage>
+  </dataqual>
+ <spdoinfo>
+  <direct>Raster</direct> 
+ <rastinfo>
+  <rasttype>Pixel</rasttype> 
+  <rowcount>512</rowcount> 
+  <colcount>512</colcount> 
+  </rastinfo>
+  </spdoinfo>
+ <spref>
+ <horizsys>
+ <geograph>
+  <latres>0.01757812</latres> 
+  <longres>0.01757812</longres> 
+  <geogunit>Decimal degrees</geogunit> 
+  </geograph>
+  </horizsys>
+  </spref>
+ <eainfo>
+ <detailed>
+ <enttyp>
+  <enttypl>Sea-surface temperature grid cell</enttypl> 
+  <enttypd>Any of the one-byte data elements in the sea surface temperature files</enttypd> 
+  <enttypds>self-evident</enttypds> 
+  </enttyp>
+ <attr>
+  <attrlabl>Sea-surface temperature grid cell value</attrlabl> 
+  <attrdef>The average temperature, in degrees Celsius, of the ocean surface water in the location indicated by the pixel.</attrdef> 
+  <attrdefs>Smith, E., 1991, A user's guide to the NOAA Advanced Very High Resolution Radiometer Multichannel Sea Surface Temperature data set produced by the University of Miami/ Rosenstiel School of Marine and Atmospheric Science: Distributed by the Distributed Active Archive Center, Jet Propulsion Laboratory, Pasadena, California. 10 p.</attrdefs> 
+ <attrdomv>
+ <rdom>
+  <rdommin>0</rdommin> 
+  <rdommax>250</rdommax> 
+  <attrunit>Degrees Celsius (calculated from the pixel value by the formula T = -2.1 + 0.2 * p where p is the pixel value.</attrunit> 
+  <attrmres>1</attrmres> 
+  </rdom>
+  </attrdomv>
+ <attrdomv>
+ <edom>
+  <edomv>252</edomv> 
+  <edomvd>Missing data</edomvd> 
+  <edomvds>AVHRR MCSST</edomvds> 
+  </edom>
+  </attrdomv>
+ <attrdomv>
+ <edom>
+  <edomv>255</edomv> 
+  <edomvd>Land area</edomvd> 
+  <edomvds>AVHRR MCSST</edomvds> 
+  </edom>
+  </attrdomv>
+  </attr>
+  </detailed>
+ <detailed>
+ <enttyp>
+  <enttypl>ETOPO5 grid cell</enttypl> 
+  <enttypd>Any of the two-byte data elements in the files etopo5.na, etopo5.sa, etopo5.nae, etopo5.ag, etopo5.io, etopo5.nep, etopo5.nwp, etopo5.sep, and etopo5.swp.</enttypd> 
+  <enttypds>self-evident</enttypds> 
+  </enttyp>
+ <attr>
+  <attrlabl>ETOPO5 grid cell value</attrlabl> 
+  <attrdef>Height of the land surface or depth of the sea floor, relative to mean sea level.</attrdef> 
+  <attrdefs>NOAA/NGDC. 1992. Integrated Global Elevation and Bathymetry. Digital Data. NOAA/NGDC/WDC-A, Boulder, Colorado. Digital raster data on a 5-minute geographic (lat/long) 2160x4320 grid. In: Global Ecosystems Database Version 1.0: Disc A. Boulder, CO: NOAA National Geophysical Data Center. 1 independent single-attribute spatial layer on CD-ROM. 18.6 MB. [First published in 1989.]</attrdefs> 
+ <attrdomv>
+ <rdom>
+  <rdommin>-10783</rdommin> 
+  <rdommax>8000</rdommax> 
+  <attrunit>meters</attrunit> 
+  <attrmres>1</attrmres> 
+  </rdom>
+  </attrdomv>
+  </attr>
+  </detailed>
+  </eainfo>
+ <distinfo>
+ <distrib>
+ <cntinfo>
+ <cntperp>
+  <cntper>Peter N. Schweitzer</cntper> 
+  </cntperp>
+ <cntaddr>
+  <addrtype>mailing address</addrtype> 
+  <address>Mail Stop 955 National Center U.S. Geological Survey 12201 Sunrise Valley Drive</address> 
+  <city>Reston</city> 
+  <state>VA</state> 
+  <postal>22092</postal> 
+  <country>USA</country> 
+  </cntaddr>
+  <cntvoice>(703) 648-6533</cntvoice> 
+  <cntfax>(703) 648-6647</cntfax> 
+  <cntemail>pschweitzer@usgs.gov</cntemail> 
+  </cntinfo>
+  </distrib>
+  <resdesc>U.S. Geological Survey Digital Data Series DDS-10</resdesc> 
+  <distliab>Although all data and software published on this CD-ROM have been used by the USGS, no warranty, expressed or implied, is made by the USGS as to the accuracy of the data and related materials or the functioning of the software. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by the USGS in the use of these data, software, or related materials.</distliab> 
+ <stdorder>
+ <digform>
+ <digtinfo>
+  <formname>MRLE</formname> 
+  <formcont>Sea-Surface Temperature</formcont> 
+  <filedec>Binary images compressed with modified RLE</filedec> 
+  </digtinfo>
+ <digtopt>
+ <onlinopt>
+ <computer>
+ <networka>
+  <networkr>ftp://geochange.er.usgs.gov/pub/magsst/</networkr> 
+  </networka>
+  </computer>
+  <oncomp>Data General AViiON 6220 system running DG/UX version 5.4.2R01 (UNIX)</oncomp> 
+  </onlinopt>
+  </digtopt>
+  </digform>
+ <digform>
+ <digtinfo>
+  <formname>BIL</formname> 
+  <formcont>Elevation and bathymetry</formcont> 
+  <transize>214 megabytes</transize> 
+  </digtinfo>
+ <digtopt>
+ <onlinopt>
+ <computer>
+ <networka>
+  <networkr>ftp://geochange.er.usgs.gov/pub/magsst/</networkr> 
+  </networka>
+  </computer>
+  <oncomp>Data General AViiON 6220 system running DG/UX version 5.4.2R01 (UNIX)</oncomp> 
+  </onlinopt>
+  </digtopt>
+  </digform>
+  <fees>none</fees> 
+  </stdorder>
+ <stdorder>
+ <digform>
+ <digtinfo>
+  <formname>MRLE</formname> 
+  <formcont>Sea-Surface Temperature</formcont> 
+  <filedec>Binary images compressed with modified RLE</filedec> 
+  </digtinfo>
+ <digtopt>
+ <offoptn>
+  <offmedia>CD-ROM</offmedia> 
+  <recfmt>ISO 9660 with Apple HFS extensions</recfmt> 
+  </offoptn>
+  </digtopt>
+  </digform>
+ <digform>
+ <digtinfo>
+  <formname>BIL</formname> 
+  <formcont>Elevation and bathymetry</formcont> 
+  <transize>214 megabytes</transize> 
+  </digtinfo>
+ <digtopt>
+ <offoptn>
+  <offmedia>CD-ROM</offmedia> 
+  <recfmt>ISO 9660 with Apple HFS extensions</recfmt> 
+  </offoptn>
+  </digtopt>
+  </digform>
+  <fees>$32.00</fees> 
+  <ordering>Contact address below: Book and Open-File Report Sales U.S. Geological Survey Denver Federal Center Box 25286 Denver, CO 80225-0286</ordering> 
+  </stdorder>
+  </distinfo>
+ <metainfo>
+  <metd>19950512</metd> 
+ <metc>
+ <cntinfo>
+ <cntperp>
+  <cntper>Peter N. Schweitzer</cntper> 
+  </cntperp>
+ <cntaddr>
+  <addrtype>mailing address</addrtype> 
+  <address>Mail Stop 955 National Center U.S. Geological Survey 12201 Sunrise Valley Drive</address> 
+  <city>Reston</city> 
+  <state>VA</state> 
+  <postal>22092</postal> 
+  <country>USA</country> 
+  </cntaddr>
+  <cntvoice>(703) 648-6533</cntvoice> 
+  <cntfax>(703) 648-6647</cntfax> 
+  <cntemail>pschweitzer@usgs.gov</cntemail> 
+  </cntinfo>
+  </metc>
+  <metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn> 
+  <metstdv>FGDC-STD-001-1998</metstdv> 
+  </metainfo>
+  </metadata>

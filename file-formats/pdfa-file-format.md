@@ -1,0 +1,5 @@
+# PDF/A PDF Archive  
+
+The Portable Document Format (PDF) has become a commonly used file format for representing electronic documents independent of the operating system, hardware, or software used to create them. This format was created by Adobe and was released as an open standard in 2008.
+An additional file format PDF/A was developed specifically for long-term archiving of electronic documents. Adobe Acrobat reader can still be used to view these files. This format is a subset of PDF, because it is just a PDF file that leaves out features not suited for long-term archiving. As a result, PDF/A documents are 100% contained. This also means that PDF/A documents are typically larger than their PDF counterparts because more information needs to be embedded in the document.  
+[PDF - Forest Service Research Data Archive](https://www.fs.usda.gov/rds/archive/UsingFormats/PDF)
