@@ -1,0 +1,48 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Update Series Data</title>
+    <script type="text/javascript" src="js/jquery-1.9.1.js"></script>
+    <script type="text/javascript" src="js/highcharts.js"></script>
+    <script type="text/javascript">
+        $(function () {
+            var json = [
+				{
+					"key": "Apples",
+					"value": "4"
+				}, 
+				{
+					"key": "Pears",
+					"value": "7"
+				}, 
+				{
+					"key": "Bananas",
+					"value": "9"
+				}
+			];
+			var processed_json = new Array();
+			$.map(json, function(obj, i) {
+				processed_json.push([obj.key, parseInt(obj.value)]);
+			});
+
+
+			$('#container').highcharts({
+				chart: {
+					type: 'column'
+				},
+				xAxis: {
+					type: "category"
+				},
+				series: [{
+					data: processed_json
+				}]
+			});
+		});
+    </script>
+</head>
+<body>
+    <div id="container" style="height: 300px"></div>
+</body>
+</html>
