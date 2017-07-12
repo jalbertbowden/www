@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 680px; height: 460px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		title: {
+			text: 'Global Smartphone Sales in 2013'
+		},
+		subtitle: {
+			text: 'Source: Gartner'
+		},
+		xAxis: {
+			categories: ["Q1'13", "Q2'13", "Q3'13"]
+		},
+		yAxis: {
+			title: {
+				text: 'Units (in millions)'
+			}
+		},
+		series: [{
+			name: 'Android',
+			type: 'column',
+			data: [156.19, 177.9, 205.02]
+		}, {
+			name: 'iOS',
+			type: 'column',
+			data: [38.33, 31.9, 30.33]
+		}, {
+			name: 'Microsoft',
+			type: 'column',
+			data: [5.99, 7.41, 8.91]
+		}, {
+			name: 'Total',
+			type: 'line',
+			data: [200.51, 217.21, 244.26]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

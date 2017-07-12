@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/modules/funnel.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'funnel',
+			marginLeft: -10
+		},
+		title: {
+			text: 'Representing a Typical Sales Project'
+		},
+		plotOptions: {
+			series: {
+				neckWidth: '25%',
+				neckHeight: '35%'
+			}
+		},
+		series: [{
+			name: 'Budget',
+			data: [
+				['Website visits', 56147],
+				['User subscriptions', 21045],
+				['Quote requests', 10423],
+				['Invoiced', 8750],
+				['Final sales', 8459]
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

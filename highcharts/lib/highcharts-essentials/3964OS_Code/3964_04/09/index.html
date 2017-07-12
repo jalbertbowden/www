@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'scatter'
+		},
+		title: {
+			text: 'Earthquake Statistics'
+		},
+		subtitle: {
+			text: 'Data Source: <a href="http://www.scsn.org/2010sierraelmayor.html">SCSN</a>'
+		},
+		xAxis: {
+			title: {
+				text: 'Depth'
+			}
+		},
+		yAxis: {
+			title: {
+				text: 'Magnitude'
+			},
+			min: 3
+		},
+		tooltip: {
+			pointFormat: 'Depth: <strong>{point.x} Km</strong> <br />Magnitude: <strong>{point.y}</strong>'
+		},
+		series: [{
+			name: 'Calexico',
+			data: [[10, 4.8], [22.6, 4.2], [6, 4.3], [10, 4.2], [10, 4.0], [5.6, 4.0], [10, 4.0], [10, 4.0], [10, 7.2], [10, 5.5], [10, 5.4], [10, 5.4], [10, 5.3], [10, 4.8], [10, 4.7], [10, 4.7], [6, 4.6], [10, 4.6], [10, 4.5], [10, 4.5], [10, 4.5]]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

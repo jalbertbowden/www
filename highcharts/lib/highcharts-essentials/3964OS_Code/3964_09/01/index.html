@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="climate_data" style="width: 850px; height: 450px;"></div>
+
+	<input type="file" id="csv_file">
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/papaparse.min.js"></script>
+<script>
+(function() {
+
+	//Initializing basic chart configuration object
+	var chartConfigOptions = {
+		title: {
+			text: 'Climate Data for Chicago - July 2014'
+		},
+		subtitle: {
+			text: '<a href="http://www.ncdc.noaa.gov" target="_blank">NCDC</a>',
+			useHTML: true
+		},
+		chart: {
+			type: 'line'
+		},
+		tooltip: {
+			valueSuffix: '&deg;F',
+			useHTML: true
+		},
+		plotOptions: {
+			line: {
+				pointStart: Date.UTC(2014, 06, 01, 00, 00, 00),
+				pointInterval: 3600 * 1000 * 24
+			}
+		},
+		xAxis: {
+			title: {
+				text: 'Date'
+			},
+			type: 'datetime'
+		},
+		yAxis: {
+			title: {
+				text: 'Temperature in &deg;F',
+				useHTML: true
+			}
+		},
+		series: []
+	};
+
+
+	//Initializing an empty variable for file DOM object
+	var file = '';
+
+
+	//Beginning the process as soon as the file loads
+	$( '#csv_file' ).on( 'change', function( e ) {
+
+		//Getting the file DOM object
+		file = e.target.files[0];
+
+		//Checking if Highcharts has been initialized previously on the same container
+		if ( $( '#climate_data' ).highcharts() ) {
+			$( '#climate_data' ).highcharts().destroy();
+		}
+
+		//Parsing the CSV file
+		Papa.parse( file, {
+			header: true,
+			complete: function( results ) {
+
+				//Looping through the headers
+				for ( var i in results.meta.fields ) {
+
+					var name = results.meta.fields[i];
+
+					//Initializing an empty series object
+					chartConfigOptions.series[i] = {};
+
+					//Giving the series a name
+					chartConfigOptions.series[i].name = name;
+
+					//Initializing an empty array for holding series data
+					chartConfigOptions.series[i].data = [];
+
+					//Looping through all the records and pushing records with similar header into an array
+					for ( var j in results.data ) {
+						//The current data point
+						var currentDataPoint = results.data[j][name];
+
+						//Making sure that the data point is an integer, not a string
+						currentDataPoint = parseInt( currentDataPoint );
+
+						//Pushing the data point to the 'data' array of the current series
+						chartConfigOptions.series[i].data.push( currentDataPoint );
+					}
+				}
+
+				//Finally, nitializing the chart
+				$( '#climate_data' ).highcharts( chartConfigOptions );
+			}
+		});
+	});
+
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="energy_consumption" style="width: 600px; height: 450px;"></div>
+
+	<button data-action="resize_container">Resize</button>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/drilldown.js"></script>
+<script>
+(function() {
+
+	var chart = $( '#energy_consumption' ).highcharts({
+		title: {
+			text: 'Energy Consumption in 2013'
+		},
+		xAxis: {
+			type: 'category',
+			title: {
+				text: 'Continents'
+			}
+		},
+		yAxis: {
+			title: {
+				text: 'Million Metric Tons of Oil Equivalent'
+			}
+		},
+		series: [{
+			name: 'Energy Consumption',
+			type: 'column',
+			data:  [{
+				id: 'north-america',
+				name: 'North America',
+				y: 2786.7
+			}, {
+				id: 'asia',
+				name: 'Asia',
+				y: 5594
+			}, {
+				id: 'europe',
+				name: 'Europe',
+				y: 1286.1
+			}]
+		}]
+	});
+
+	//Resizing the container
+	var chart = $( '#energy_consumption' ).highcharts();
+	$( '[data-action="resize_container"]' ).on( 'click', function( e ) {
+		$( '#energy_consumption' ).css({
+			width: 400,
+			height: 375
+		});
+		chart.reflow();
+	});
+
+})();
+</script>
+</body>
+</html>

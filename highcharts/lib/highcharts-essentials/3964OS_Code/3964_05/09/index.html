@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 800px; height: 500px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-more.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			polar: true
+		},
+		title: {
+			text: 'Fuel Consumption by Type for the Year 2012'
+		},
+		subtitle: {
+			text: 'Source: <a href="http://bp.com">BP</a>',
+			useHTML: true
+		},
+		pane: {
+			startAngle: 0,
+			endAngle: 360
+		},
+		xAxis: {
+			categories: ['Oil', 'Natural Gas', 'Coal', 'Nuclear Energy', 'Hydroelectricity', 'Renewable']
+		},
+		yAxis: {
+			title: {
+				text: 'MMT'
+			}
+		},
+		series: [{
+			name: 'EU',
+			type: 'column',
+			data: [618.8, 399.7, 293.4, 199.9, 76.1, 97.7]
+		},{
+			name: 'U.S.',
+			type: 'line',
+			data: [819.9, 654, 437.4, 183.2, 63.2, 50.7]
+		}, {
+			name: 'China',
+			type: 'area',
+			data: [483.7, 129.5, 1873.3, 22, 194.8, 31.9]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

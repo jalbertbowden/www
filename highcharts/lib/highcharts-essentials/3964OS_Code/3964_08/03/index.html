@@ -1,0 +1,106 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="energy_consumption" style="width: 600px; height: 450px;"></div>
+
+	<button data-action="add_europe">Add Europe Data Point</button>
+	<button data-action="add_pie">Add Pie Series</button>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/drilldown.js"></script>
+<script>
+(function() {
+
+	$( '#energy_consumption' ).highcharts({
+		title: {
+			text: 'Energy Consumption in 2013'
+		},
+		xAxis: {
+			type: 'category',
+			title: {
+				text: 'Continents'
+			}
+		},
+		yAxis: {
+			title: {
+				text: 'Million Metric Tons of Oil Equivalent'
+			}
+		},
+		series: [{
+			name: 'Energy Consumption',
+			type: 'column',
+			data:  [{
+				id: 'north-america',
+				name: 'North America',
+				y: 2786.7
+			}, {
+				id: 'asia',
+				name: 'Asia',
+				y: 5594
+			}]
+		}]
+	});
+
+
+	//Adding a data point on button click
+	var chart = $( '#energy_consumption' ).highcharts(),
+		addEuropeBtn = $( '[data-action="add_europe"]' );
+
+	addEuropeBtn.on( 'click', function( e ) {
+		//checking if the data point already exists
+		if ( ! chart.get( 'europe' ) ) {
+			chart.series[0].addPoint({
+				id: 'europe',
+				name: 'Europe',
+				y: 1286.1
+			});
+		}
+	});
+
+
+	//Adding a series dynamically
+	var addPieSeriesBtn = $( '[data-action="add_pie"]' ),
+		pieSeriesData = [];
+
+	addPieSeriesBtn.on( 'click', function( e ) {
+
+		if ( ! chart.get( 'percentage' ) ) {
+			for ( var i in chart.series[0].data ) {
+				pieSeriesData.push( [chart.series[0].data[i].name, chart.series[0].data[i].y] );
+			}
+				
+			var pieSeries = {
+				name: 'Percentage',
+				id: 'percentage',
+				type: 'pie',
+				data: pieSeriesData,
+				center: ['80%', '25%'],
+				size: 200,
+				tooltip: {
+					enabled: false
+				},
+				dataLabels: {
+					color: '#fff',
+					distance: -45,
+					y: -10,
+					useHTML: true,
+					formatter: function() {
+						return this.point.name + '<br />' + this.percentage.toFixed( 2 ) + '%';
+					}
+				}
+			};
+			chart.setSize( 800, 450 );
+			chart.addSeries( pieSeries );
+		}
+	});
+
+})();
+</script>
+</body>
+</html>

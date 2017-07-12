@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'line'
+		},
+		title: {
+			text: 'Hourly Temperature Data for Pittsburgh, PA'
+		},
+		subtitle: {
+			text: 'Source: <a href="http://www.noaa.gov/">National Weather Service Forecast Office</a>',
+			useHTML: true
+		},
+		xAxis: {
+			type: 'datetime',
+			tickInterval: 3600 * 1000 * 3,
+			dateTimeLabelFormats: {
+				day: '%I %p',
+				hour: '%I %p'
+			}
+		},
+		yAxis: {
+			title: {
+				text: 'Temperature (&deg;F)',
+				useHTML: true
+			}
+		},
+		series: [{
+			name: 'Temperature',
+			pointStart: Date.UTC(2013, 00, 01, 00, 00, 00),
+			pointInterval: 3600 * 1000, //one hour (in milliseconds)
+			data: [32, 32, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 28, 27, 27, 26, 25, 24, 23, 22]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

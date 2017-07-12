@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/modules/funnel.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'pyramid',
+			marginLeft: -10
+		},
+		title: {
+			text: 'Budget of London 2012 Olympics'
+		},
+		series: [{
+			name: 'Budget',
+			data: [
+				['Venues', 4607],
+				['Olympic Village', 1919],
+				['CT operations', 1776],
+				['Other projects', 1421],
+				['Transport projects', 1392],
+				['Anticipated final costs', 1311],
+				['Legacy projects', 1298],
+				['Olympic parkland', 1204],
+				['Police', 943],
+				['Venue security', 869],
+				['Government bodies', 696],
+				['Contingency fund', 157],
+				['Ceremonies', 126]
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

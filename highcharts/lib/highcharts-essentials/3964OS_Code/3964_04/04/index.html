@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'area'
+		},
+		title: {
+			text: 'Iron Ore Production'
+		},
+		xAxis: {
+			tickmarkPlacement: 'on',
+			categories: [2010, 2011, 2012, 2013]
+		},
+		yAxis: {
+			title: {
+				text: 'Revenue in billion USD'
+			}
+		},
+		plotOptions: {
+			area: {
+				stacking: 'normal'
+			}
+		},
+		series: [{
+			name: 'China',
+			data: [1070, 1330, 1310, 1320]
+		}, {
+			name: 'Australia',
+			data: [433, 488, 521, 530]
+		}, {
+			name: 'Brazil',
+			data: [370, 373, 398, 398]
+		}, {
+			name: 'India',
+			data: [230, 240, 144, 150]
+		}, {
+			name: 'Russia',
+			data: [101, 100, 105, 102]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

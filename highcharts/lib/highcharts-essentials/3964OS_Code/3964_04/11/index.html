@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-more.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'bubble'
+		},
+		title: {
+			text: 'Life Expectancy, Fertility Rate and Population'
+		},
+		xAxis: {
+			title: {
+				text: 'Life Expectancy'
+			}
+		},
+		yAxis: {
+			title: {
+				text: 'Fertility Rate'
+			}
+		},
+		tooltip: {
+			headerFormat: '<b>{point.key}</b><br />',
+			pointFormat: 'Life Expectancy: <strong>{point.x} </strong> <br />Fertility Rate: <strong>{point.y} </strong> <br />Population: <strong>{point.z} </strong>'
+		},
+		series: [{
+			name: 'North America',
+			data: [
+				{name: 'USA', x:78.09, y:2.05, z:307007000}, 
+				{name: 'Canada', x:80.66, y:1.67, z:33739900}
+			]
+		}, {
+			name: 'Europe',
+			data: [
+				{name: 'Russia', x:68.6, y:1.54, z:141850000}, 
+				{name: 'Germany', x:79.84, y:1.36, z:81902307}, 
+				{name: 'Great Britian', x:80.05, y:2, z:61801570}, 
+				{name: 'Denmark', x:78.6, y:1.84, z:5523095}
+			]
+		}, {
+			name: 'Middle East',
+			data: [
+				{name: 'Iraq', x:68.09, y:4.77, z:31090763}, 
+				{name: 'Egypt', x:72.73, y:2.78, z:79716203}, 
+				{name: 'Iran', x:72.49, y:1.7, z:73137148}
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

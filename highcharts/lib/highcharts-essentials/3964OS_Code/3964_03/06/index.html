@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+
+	<table id="vehicle_data">
+		<thead>
+			<tr>
+				<th></th>
+				<th>Cars</th>
+				<th>Commercial Vehicles</th>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<th>2008</th>
+				<td>1446619</td>
+				<td>202896</td>
+			</tr>
+			<tr>
+				<th>2009</th>
+				<td>999460</td>
+				<td>90679</td>
+			</tr>
+			<tr>
+				<th>2010</th>
+				<td>1270444</td>
+				<td>123019</td>
+			</tr>
+			<tr>
+				<th>2011</th>
+				<td>1343810</td>
+				<td>120189</td>
+			</tr>
+			<tr>
+				<th>2012</th>
+				<td>1464906</td>
+				<td>112039</td>
+			</tr>
+		</tbody>
+	</table>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/data.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'line'
+		},
+		title: {
+			text: 'Vehicles Manufactured in the UK'
+		},
+		subtitle: {
+			text: 'Source: <a href="http://www.oica.net/">OICA</a>',
+			useHTML: true
+		},
+		data: {
+			table: document.getElementById( 'vehicle_data' )
+		}
+	});
+
+})();
+</script>
+</body>
+</html>

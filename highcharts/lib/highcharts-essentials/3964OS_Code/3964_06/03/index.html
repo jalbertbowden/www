@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 550px; height: 550px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-more.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'gauge',
+			plotBackgroundImage: 'img/blackorchid.png',
+			alignTicks: false
+		},
+		title: {
+			text: 'Speedometer'
+		},
+		pane: {
+			startAngle: -150,
+			endAngle: 150,
+			background: [{
+				backgroundColor: 'none',
+				borderColor: 'none'
+			}]
+		},
+		yAxis: [{
+			min: 0,
+			max: 220,
+			offset: -110,
+			labels: {
+				style: {
+					color: '#fff'
+				}
+			},
+			lineColor: '#e63820',
+			lineWidth: 0,
+			tickColor: '#e63820',
+			tickWidth: 3,
+			tickLength: 12,
+			minorTickColor: '#e63820',
+			minorTickWidth: 3,
+			minorTickLength: 6,
+			minorTickInterval: 10
+		}, {
+			min: 0,
+			max: 140,
+			offset: -40,
+			labels: {
+				style: {
+					'font-size': '21px',
+					'font-family': 'arial, sans-serif',
+					color: '#ffffff'
+				},
+				distance: -45
+			},
+			lineColor: '#e63820',
+			lineWidth: 0,
+			tickLength: 20,
+			tickColor: '#e63820',
+			tickWidth: 4,
+			minorTickInterval: 2,
+			minorTickColor: '#e63820',
+			minorTickWidth: 4,
+			minorTickLength: 10
+		}],
+		tooltip: {
+			enabled: false
+		},
+		plotOptions: {
+			gauge: {
+				dial: {
+					radius: '80%',
+					backgroundColor: '#fff',
+					baseWidth: 6,
+					rearLength: '10%'
+				}
+			}
+		},
+		series: [{
+			name: 'Speed',
+			data: [85]
+		}],
+		credits: {
+			enabled: false
+		}
+	});
+
+})();
+</script>
+</body>
+</html>

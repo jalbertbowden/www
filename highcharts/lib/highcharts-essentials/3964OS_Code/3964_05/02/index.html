@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'pie'
+		},
+		title: {
+			text: 'Desktop Operating Systems Marketshare'
+		},
+		subtitle: {
+			text: 'StatCounter'
+		},
+		tooltip: {
+			valueSuffix: '%'
+		},
+		plotOptions: {
+			pie: {
+				dataLabels: {
+					enabled: true
+				},
+				allowPointSelect: true
+			}
+		},
+		series: [{
+			name: 'Operating Systems',
+			data: [
+				['Windows', 88.19],
+				{
+					name: 'MacOSX',
+					y: 9.22,
+					sliced: true,
+					selected: true
+				},
+				['Linux', 1.58],
+				['Others', 1.01]
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

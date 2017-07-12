@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="book_consumption" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#book_consumption' ).highcharts({
+		chart: {
+			type: 'bar'
+		},
+		title: {
+			text: 'Average Book Consumption Per Capita'
+		},
+		subtitle: {
+			text: 'Source: Harris Interactive'
+		},
+		xAxis: {
+			categories: ['0', '1-2', '3-5', '6-10', '11-20', '21+']
+		},
+		yAxis: {
+			min:0,
+			max: 25,
+			tickInterval: 5,
+			labels: {
+                enabled: true,
+                formatter: function() {
+                    return this.value + '%';
+                }
+            }
+		},
+		tooltip: {
+			enabled: false
+		},
+		series: [{
+			name: '2014',
+			data: [16, 17, 18, 13,15, 21]
+		}],
+		plotOptions: {
+			series: {
+				dataLabels: {
+					enabled: true,
+					formatter: function() {
+						return this.y + '%';
+					}
+				}
+			}
+		}
+	});
+
+})();
+</script>
+</body>
+</html>

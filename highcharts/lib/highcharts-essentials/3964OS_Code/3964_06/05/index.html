@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-more.js"></script>
+<script src="js/modules/solid-gauge.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'solidgauge'
+		},
+		title: {
+			text: 'Speedometer'
+		},
+		pane: {
+			startAngle: -90,
+			endAngle: 90,
+			background: {
+				backgroundColor: 'none',
+				borderColor: '#aaa',
+				innerRadius: '100%',
+				outerRadius: '60%',
+				shape: 'arc'
+			}
+		},
+		plotOptions: {
+			solidgauge: {
+				 dataLabels: {
+                    y: -40,
+                    borderWidth: 0,
+                    useHTML: true
+                }
+			}
+		},
+		tooltip: {
+			enabled: false
+		},
+		yAxis: {
+			title: {
+				text: 'km/h',
+				align: 'low',
+				x: -15
+			},
+			stops: [
+				[0.1, '#50bf39'],
+				[0.4, '#9ebf39'],
+				[0.7, '#bf9e39'],
+				[0.9, '#bf3939']
+			],
+			min: 0,
+			max: 200,
+			lineWidth: 0,
+			tickWidth: 0,
+			minorTickWidth: 0,
+			labels: {
+				enabled: false
+			}
+		},
+		series: [{
+			name: 'Speed',
+			data: [75]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

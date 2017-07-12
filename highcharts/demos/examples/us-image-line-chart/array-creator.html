@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>HighCharts Web Platform Shell</title>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#container {}
+.container-box {
+  width: 400px;
+  height: 400px;
+  outline: 1px solid #000;
+  margin: 1em auto;
+}
+</style>
+  </head>
+  <body>
+    <div class="content">
+      <!-- <div id="container" class="container-box"></div> -->
+    </div>
+<script>
+
+var maximum = 100;
+var minimum = 0;
+var randomNumberArray = [];
+
+for (var i = 0, l = 15; i < l; i++) {
+  var randomnumber = Math.floor(Math.random() * (maximum - minimum + 1)) + minimum;
+  if (i === 14) {
+    randomNumberArray.push(randomnumber);
+  } else {
+    randomNumberArray.push(randomnumber + ', ');
+  }
+}
+//console.log(randomNumberArray);
+
+for (var x = 0; x < 15; x++) {
+  var z = randomnumber;
+  console.log(z);
+}
+jQuery('<ul />', {
+  "class": "new-ul",
+  html: '[' + randomNumberArray.join( '' ) + ']'
+}).appendTo("body");
+
+
+</script>
+  </body>
+</html>

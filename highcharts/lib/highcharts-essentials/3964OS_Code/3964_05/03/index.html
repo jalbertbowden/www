@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/drilldown.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'pie'
+		},
+		title: {
+			text: 'Desktop Operating Systems Marketshare'
+		},
+		subtitle: {
+			text: 'StatCounter'
+		},
+		tooltip: {
+			valueSuffix: '%'
+		},
+		plotOptions: {
+			pie: {
+				dataLabels: {
+					enabled: true
+				}
+			}
+		},
+		lang: {
+			drillUpText: 'Back to main chart'
+		},
+		series: [{
+			name: 'Operating Systems',
+			data: [
+				{
+					name: 'Windows',
+					y: 88.19,
+					drilldown: 'windows-versions'
+				},
+				['MacOSX', 9.22],
+				['Linux', 1.58],
+				['Others', 1.01]
+			]
+		}],
+		drilldown: {
+			drillUpButton: {
+				position: {
+					x: 10,
+					y: -20,
+					align: 'left',
+					verticalAlign: 'bottom'
+				},
+				theme: {
+					fill: '#f28149',
+					stroke: '#f27130',
+					r: 5,
+					style: {
+						color: '#ffffff'
+					},
+					states: {
+						hover: {
+							fill: '#f26118',
+							stroke: '#f26118'
+						}
+					}
+				}
+			},
+			series: [{
+				name: 'Windows versions',
+				id: 'windows-versions',
+				data: [
+					['Win 7', 55.03],
+					['Win XP', 15.83],
+					['Win Vista', 3.59],
+					['Win 8', 7.56],
+					['Win 8.1', 6.18]
+				]
+			}]
+		}
+	});
+
+})();
+</script>
+</body>
+</html>

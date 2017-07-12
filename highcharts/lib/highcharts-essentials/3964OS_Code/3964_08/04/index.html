@@ -1,0 +1,105 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="energy_consumption" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/drilldown.js"></script>
+<script>
+(function() {
+
+	var drilldownSeries = {
+		'north-america': {
+			type: 'column',
+			name: 'North America',
+			data: [
+				['U.S', 2265.8],
+				['Mexico', 188],
+				['Canada', 332.9]
+			]
+		},
+		'asia': {
+			type: 'column',
+			name: 'Asia',
+			data: [
+				['China', 2852.4],
+				['Russian Federation', 699],
+				['India', 595],
+				['Japan', 474],
+				['South Korea', 271.3],
+				['Iran', 243.9],
+				['Saudi Arabia', 227.7],
+				['Indonesia', 168.7],
+				['Kazakhstan', 62]
+			]
+		},
+		'europe': {
+			type: 'column',
+			name: 'Europe',
+			data: [
+				['Germany', 311.7],
+				['France', 248.4],
+				['UK', 200],
+				['Italy', 158.8],
+				['Spain', 133.7],
+				['Ukraine', 117.5],
+				['Australia', 116]
+			]
+		}
+	};
+
+	$( '#energy_consumption' ).highcharts({
+		chart: {
+			events: {
+				drilldown: function( e ) {
+					console.log( e );
+					this.addSeriesAsDrilldown( e.point, drilldownSeries[e.point.id] );
+				}
+			}
+		},
+		title: {
+			text: 'Energy Consumption in 2013'
+		},
+		xAxis: {
+			type: 'category',
+			title: {
+				text: 'Continents'
+			}
+		},
+		yAxis: {
+			title: {
+				text: 'Million Metric Tons of Oil Equivalent'
+			}
+		},
+		series: [{
+			name: 'Energy Consumption',
+			type: 'column',
+			data:  [{
+				id: 'north-america',
+				name: 'North America',
+				y: 2786.7,
+				drilldown: true
+			}, {
+				id: 'asia',
+				name: 'Asia',
+				y: 5594,
+				drilldown: true
+			}, {
+				id: 'europe',
+				name: 'Europe',
+				y: 1286.1,
+				drilldown: true
+			}]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

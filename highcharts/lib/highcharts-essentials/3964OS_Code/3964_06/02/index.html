@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-more.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'gauge',
+			alignTicks: false
+		},
+		title: {
+			text: 'Speedometer'
+		},
+		pane: {
+			startAngle: -150,
+			endAngle: 150
+		},
+		yAxis: [{
+			min: 0,
+			max: 200,
+			offset: -40,
+			labels: {
+				style: {
+					color: '#2085e6'
+				}
+			},
+			lineColor: '#2085e6',
+			lineWidth: 3,
+			tickColor: '#2085e6',
+			tickWidth: 3,
+			minorTickColor: '#2085e6',
+			minorTickWidth: 1
+		}, {
+			min: 0,
+			max: 124,
+			tickPosition: 'outside',
+			minorTickPosition: 'outside',
+			offset: -30,
+			labels: {
+				style: {
+					color: '#e63820'
+				},
+				distance: 20
+			},
+			lineColor: '#e63820',
+			lineWidth: 3,
+			tickColor: '#e63820',
+			tickWidth: 3,
+			minorTickColor: '#e63820',
+			minorTickWidth: 1
+		}],
+		series: [{
+			name: 'Speed1',
+			data: [85]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-more.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'gauge',
+			plotBackgroundColor: 'none'
+		},
+		title: {
+			text: 'Global CO<sub>2</sub> Emission in 2012 (in billion metric tons)',
+			useHTML: true
+		},
+		pane: {
+			startAngle: -45,
+			endAngle: 45,
+			background: {
+				backgroundColor: 'none',
+				borderColor: 'none'
+			},
+			size: 400,
+			center: ['50%', '60%']
+		},
+		tooltip: {
+			enabled: false
+		},
+		plotOptions: {
+			gauge: {
+				dial: {
+					radius: '95%'
+				}
+			}
+		},
+		yAxis: {
+			min: 0,
+			max: 16,
+			tickInterval: 2,
+			tickPosition: 'outside',
+			minorTickInterval: 0,
+			labels: {
+				distance: 20
+			},
+			plotBands: [{
+				from: 0,
+				to: 4,
+				color: '#3dbf24'
+			}, {
+				from: 4,
+				to: 12,
+				color: '#dc841c'
+			}, {
+				from: 12,
+				to: 16,
+				color: '#dc401c'
+			}]
+		},
+		series: [{
+			data: [12]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

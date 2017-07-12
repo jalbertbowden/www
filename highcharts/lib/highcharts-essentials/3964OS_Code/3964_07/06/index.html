@@ -1,0 +1,137 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+	<style>
+	.country-flag {
+		display: inline-block;
+		margin-right: 6px;
+		vertical-align: top;
+	}
+
+	.medal-info {
+		font-family: arial, helvetica, sans-serif;
+		font-size: 12px;
+		display: inline-block;
+	}
+
+	.medal-info h4 {
+		font-weight: bold;
+		color: #222222;
+		margin: 0 0 6px;
+	}
+
+	.medal-info p {
+		margin: 0 0 6px;
+	}
+	</style>
+</head>
+<body>
+	
+	<div id="medal_table" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#medal_table' ).highcharts({
+		chart: {
+			type: 'column',
+			backgroundColor: {
+				radialGradient: {cx: 0, cy: 0.9, r: 1},
+				stops: [
+					[0, '#ffffff'],
+					[0.4, '#d5edd6'],
+					[0.8, '#ede8d5'],
+					[1, '#edd5d5']
+				]
+			}
+		},
+		title: {
+			text: 'Olympics 2012 Medal Table'
+		},
+		xAxis: {
+			title: {
+				text: 'Countries'
+			},
+			categories: ['United States', 'China', 'Russian Federation', 'Great Britain', 'South Korea']
+		},
+		yAxis: {
+			title: {
+				text: 'Number of total medals'
+			}
+		},
+		tooltip: {
+			formatter: function() {
+				var img = '', 
+					string = '';
+				if ( 'United States' == this.x ) {
+					img = 'img/usa.png';
+				} else if ( 'China' == this.x ) {
+					img = 'img/china.png';
+				} else if ( 'Russian Federation' == this.x ) {
+					img = 'img/russia.png';
+				} else if ( 'Great Britain' == this.x ) {
+					img = 'img/uk.png';
+				} else if ( 'South Korea' == this.x ) {
+					img = 'img/korea.png';
+				}
+				string += '<div class="country-flag"><img src="' + img + '" alt="' + this.x + '" width="32" height="32" /></div>';
+				string += '<div class="medal-info">';
+				string += '<h4>' + this.x + '</h4>';
+				string += '<p></span>' + this.series.name + ': ' + this.y + '</p>';
+				string += '</div>';
+				return string;
+			},
+			useHTML: true,
+			backgroundColor: {
+				linearGradient: {x1: 0, y1: 1, x2: 1, y2: 0},
+				stops: [
+					[0, '#cfd9e3'],
+					[1, '#ffffff']
+				]
+			},
+			borderColor: '#eb454d',
+			borderRadius: 8,
+			borderWidth: 2,
+			shadow: false
+		},
+		series: [{
+			name: 'Gold',
+			data: [46, 38, 24, 29, 13],
+			color: {
+				linearGradient: {x1: 0, y1: 0, x2: 1, y2: 0},
+				stops: [
+					[0, '#e5ac00'],
+					[1, '#cc9900']
+				]
+			}
+		}, {
+			name: 'Silver',
+			data: [29, 27, 26, 17, 8],
+			color: {
+				linearGradient: {x1: 0, y1: 0, x2: 1, y2: 0},
+				stops: [
+					[0, '#cccccc'],
+					[1, '#bfbfbf']
+				]
+			}
+		}, {
+			name: 'Bronze',
+			data: [29, 23, 32, 19, 7],
+			color: {
+				linearGradient: {x1: 0, y1: 0, x2: 1, y2: 0},
+				stops: [
+					[0, '#e58e37'],
+					[1, '#cd7f32']
+				]
+			}
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

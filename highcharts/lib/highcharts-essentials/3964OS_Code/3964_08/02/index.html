@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'pie'
+		},
+		title: {
+			text: 'Breakdown of Windows Market Share'
+		},
+		tooltip: {
+			valueSuffix: '%'
+		},
+		plotOptions: {
+			pie: {
+				dataLabels: {
+					enabled: true
+				},
+				allowPointSelect: true,
+				depth: 50,
+				borderColor: 'rgba(255, 255, 255, 0.3)',
+				colors: [{
+					radialGradient: {cx: 0.5, cy: 0.5, r: 0.5},
+					stops: [
+						[0, '#c92121'],
+						[1, '#991818']
+					]
+				}, {
+					radialGradient: {cx: 0.5, cy: 0.5, r: 0.5},
+					stops: [
+						[0, '#cc9621'],
+						[1, '#997018']
+					]
+				}, {
+					radialGradient: {cx: 0.5, cy: 0.5, r: 0.5},
+					stops: [
+						[0, '#65cc21'],
+						[1, '#4c9918']
+					]
+				}, {
+					radialGradient: {cx: 0.5, cy: 0.5, r: 0.5},
+					stops: [
+						[0, '#2185cc'],
+						[1, '#186399']
+					]
+				}, {
+					radialGradient: {cx: 0.5, cy: 0.5, r: 0.5},
+					stops: [
+						[0, '#216ecc'],
+						[1, '#185299']
+					]
+				}]
+			}
+		},
+		series: [{
+			name: 'Windows versions',
+			data: [
+				{
+					name: 'Win 7',
+					id: 'win7',
+					y: 55.03
+				},
+				{
+					name: 'Win XP', 
+					y: 15.83
+				},
+				{
+					name: 'Win Vista', 
+					y: 3.59
+				},
+				{
+					name: 'Win 8', 
+					y: 7.56
+				},
+				{
+					name: 'Win 8.1', 
+					y: 6.18
+				}
+			]
+		}]
+	}, function() {
+		var win7Point = this.get( 'win7' );
+	});
+
+})();
+</script>
+</body>
+</html>

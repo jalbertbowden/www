@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>HighCharts Web Platform Shell</title>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+.container-box {
+  width: 700px;
+  height: 700px;
+  outline: 1px solid #000;
+  margin: 1em auto;
+}
+</style>
+  </head>
+  <body>
+    <div class="content">
+      <div id="container" class="container-box"></div>
+    </div>
+<script>
+(function(){
+  jQuery('#container').highcharts({
+    chart: {
+      type: 'line'
+    },
+    title: {
+      text: 'Hourly Temperature Data for Pittsburgh, PA'
+    },
+    subtitle: {
+      text: 'Source: <a href="http://noaa.gov">National Weather Service Forecast Office</a>',
+      useHTML: true
+    },
+    xAxis: {
+      type: 'datetime'
+    },
+    yAxis: {
+      title: {
+        text: 'Temperature (&deg;F)',
+        useHTML: true
+      }
+    },
+    series: [{
+      name: 'Temperature',
+      // Date.UTC() native JavaScript method that takes in date/time and returns Unix timestamp (number of milliseconds elapsed since midnight 1970-01-01)
+      // parameters passed are for year, month, day, hour, minutes, and seconds respectively.
+      pointStart: Date.UTC(2013, 00, 01, 00, 00, 00),
+      // hourly data so 3600*1000 = number of milliseconds in an hour
+      pointInterval: 3600 * 1000,
+      data: [32, 32, 31, 31, 31, 31, 31, 31, 31, 31, 31, 31, 30, 30, 30, 30, 28, 27, 27, 26, 25, 24, 23, 22]
+    }]
+  })
+})();
+// render chart by calling .highcharts jQuery function on an element on the page
+jQuery('#container').highcharts(options);
+
+</script>
+  </body>
+</html>

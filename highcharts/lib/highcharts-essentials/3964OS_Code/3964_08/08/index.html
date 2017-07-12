@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function( H ) {
+
+	// H.wrap( H.Tooltip.prototype, 'hide', function() {
+	// 	//do nothing
+	// });
+
+	H.Chart.prototype.callbacks.push(function( chart ) {
+		console.log( chart );
+		H.addEvent( chart.series[0].points, 'click', function( e ) {
+			e.point.remove();
+		});
+	});
+
+})( Highcharts );
+
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		title: {
+			text: 'GDP of European Union'
+		},
+		chart: {
+			type: 'line'
+		},
+		xAxis: {
+			title: {
+				text: 'Years'
+			},
+			categories: [
+				'2009',
+				'2010',
+				'2011',
+				'2012',
+				'2013'
+			]
+		},
+		yAxis: {
+			title: {
+				text: 'GDP'
+			}
+		},
+		series: [
+			{
+				name: 'GDP',
+				data: [-4.5, 2.0, 1.6, -0.4, 0.1]
+			}
+		]
+	});
+
+})();
+</script>
+</body>
+</html>

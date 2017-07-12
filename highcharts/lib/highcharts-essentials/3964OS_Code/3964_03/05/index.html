@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'line'
+		},
+		title: {
+			text: 'Historical Conversion Rates of Euro/GBP to USD'
+		},
+		subtitle: {
+			text: 'Source: <a href="http://www.oanda.com/">www.oanda.com</a>',
+			useHTML: true
+		},
+		xAxis: {
+			type: 'datetime'
+		},
+		yAxis: {
+			title: {
+				text: 'USD'
+			}
+		},
+		tooltip: {
+			formatter: function() {
+				var string = Highcharts.dateFormat( '%b\'%y', this.x ) + '<br>';
+				string += '1 ' + this.series.name + ' = ' + this.y + ' USD';
+				return string;
+			},
+			useHTML: true
+		},
+		series: [{
+			name: 'Euro',
+			data: [
+				[Date.UTC(2013, 08, 01), 1.3343],
+				[Date.UTC(2013, 09, 01), 1.3634],
+				[Date.UTC(2013, 10, 01), 1.3694],
+				[Date.UTC(2013, 11, 01), 1.3633],
+				[Date.UTC(2014, 00, 01), 1.3644],
+				[Date.UTC(2014, 01, 01), 1.3825],
+				[Date.UTC(2014, 02, 01), 1.3806]
+			]
+		}, {
+			name: 'GBP',
+			data: [
+				[Date.UTC(2013, 08, 01), 1.5835],
+				[Date.UTC(2013, 09, 01), 1.6092],
+				[Date.UTC(2013, 10, 01), 1.6088],
+				[Date.UTC(2013, 11, 01), 1.6368],
+				[Date.UTC(2014, 00, 01), 1.6468],
+				[Date.UTC(2014, 01, 01), 1.6546],
+				[Date.UTC(2014, 02, 01), 1.6629]
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+	<style>
+		.highcharts-tooltip {
+			direction: rtl;
+		}
+	</style>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 800px; height: 500px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/custom-theme.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		title: {
+			text: 'استهلاك الوقود حسب نوع لعام 2012'
+		},
+		subtitle: {
+			text: 'BP :مصدر',
+			useHTML: true
+		},
+		xAxis: {
+			reversed: true,
+			categories: ['زيت', 'غاز طبيعي', 'فحم', 'طاقة نووية', 'الطاقة الكهرومائية', 'قابل للتجديد']
+		},
+		yAxis: {
+			opposite: true,
+			title: {
+				text: 'مليون طن متري من النفط أي ما يعادل'
+			}
+		},
+		plotOptions: {
+			pie: {
+				dataLabels: {
+					distance: -45,
+					color: '#ffffff'
+				}
+			}
+		},
+		tooltip: {
+			valueSuffix: ' MMT',
+			useHTML: true
+		},
+		series: [{
+			name: 'أمريكا',
+			type: 'column',
+			data: [819.9, 654, 437.4, 183.2, 63.2, 50.7]
+		}, {
+			name: 'الصين',
+			type: 'column',
+			data: [483.7, 129.5, 1873.3, 22, 194.8, 31.9]
+		}, {
+			name: 'الاتحاد الأوروبي',
+			type: 'line',
+			data: [618.8, 399.7, 293.4, 199.9, 76.1, 97.7]
+		}, {
+			name: 'مجموع',
+			type: 'pie',
+			data: [
+				{name: 'زيت', y: 1922.4},
+				{name: 'طاقة نووية', y: 405.1},
+				{name: 'فحم', y: 2604.1},
+				{name: 'الطاقة الكهرومائية', y: 334.1},
+				{name: 'غاز طبيعي', y: 1183.2},
+				{name: 'قابل للتجديد', y: 180.3}
+			],
+			size: '80%',
+			center: ['20%', '40%']
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 800px; height: 500px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		title: {
+			text: 'Fuel Consumption by Type for the Year 2012'
+		},
+		subtitle: {
+			text: 'Source: <a href="http://bp.com">BP</a>',
+			useHTML: true
+		},
+		xAxis: {
+			categories: ['Oil', 'Natural Gas', 'Coal', 'Nuclear Energy', 'Hydroelectricity', 'Renewable']
+		},
+		yAxis: {
+			title: {
+				text: 'Million Metric Tons of Oil Equivalent'
+			}
+		},
+		plotOptions: {
+			pie: {
+				dataLabels: {
+					distance: -45,
+					color: '#ffffff'
+				}
+			}
+		},
+		tooltip: {
+			valueSuffix: ' MMT'
+		},
+		series: [{
+			name: 'U.S.',
+			type: 'column',
+			data: [819.9, 654, 437.4, 183.2, 63.2, 50.7]
+		}, {
+			name: 'China',
+			type: 'column',
+			data: [483.7, 129.5, 1873.3, 22, 194.8, 31.9]
+		}, {
+			name: 'EU',
+			type: 'line',
+			data: [618.8, 399.7, 293.4, 199.9, 76.1, 97.7]
+		}, {
+			name: 'Total',
+			type: 'pie',
+			data: [
+				{name: 'Oil', y: 1922.4},
+				{name: 'Nuclear Energy', y: 405.1},
+				{name: 'Coal', y: 2604.1},
+				{name: 'Hydroelectricity', y: 334.1},
+				{name: 'Natural Gas', y: 1183.2},
+				{name: 'Renewable', y: 180.3}
+			],
+			size: '80%',
+			center: ['80%', '40%']
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>HighCharts Web Platform Shell</title>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#container {}
+.container-box {
+  width: 400px;
+  height: 400px;
+  outline: 1px solid #000;
+  margin: 1em auto;
+}
+</style>
+  </head>
+  <body>
+    <div class="content">
+      <div id="container" class="container-box"></div>
+    </div>
+<script>
+// hovering over points on the lines shows tooltips with U.S. image data for that country @ that particular time
+// users can isolate specific countries via dropdown or button menu
+// users can select particular regions
+// x axis: labelled with years, and also needs to be separated into three sections by presidential term (Bush, Obama, Trump)
+// TIME/RESOURCES PERMITTING: replicate this map with U.S. presidential approval rankings from the same set of countries; goal being to allow users to toggle between the two views
+
+var options = {
+  title: {
+    text: 'U.S. Image Line Chart'
+  },
+  xAxis: {
+    categories: ['2002', '2003', '2004', '2005', '2006', '2007', '2008', '2009', '2010', '2011', '2012', '2013', '2014', '2015', '2016', '2017'],
+    labels: {
+      step: 3
+    }
+  },
+  series: [
+    {
+  		name: 'Bangladesh',
+  		data: [97, 60, 36, 30, 70, 47, 69, 73, 81, 89, 57, 92, 61, 94, 18]
+  	}, {
+  		name: 'Brazil',
+  		data: [31, 77, 27, 16, 43, 56, 63, 59, 9, 84, 4, 46, 6, 46, 87]
+  	},{
+      name: 'Burma (Myanmar)',
+      data: [59, 18, 66, 82, 95, 48, 36, 36, 76, 18, 74, 16, 80, 36, 29]
+    },{
+      name: 'China',
+      data: [97, 4, 58, 67, 77, 54, 79, 8, 16, 85, 98, 53, 97, 64, 62]
+    },{
+      name: 'D.R. Congo',
+      data: [62, 40, 3, 41, 26, 94, 20, 71, 43, 4, 44, 49, 91, 85, 39]
+    },{
+      name: 'Egypt',
+      data: [47, 53, 97, 91, 8, 8, 76, 93, 64, 9, 47, 69, 3, 83, 85]
+    },{
+      name: 'Ethiopia',
+      data: [36, 26, 19, 58, 51, 6, 64, 50, 11, 59, 94, 85, 97, 47, 9]
+    },{
+      name: 'France',
+      data: [100, 61, 36, 35, 93, 60, 33, 41, 88, 8, 8, 80, 4, 65, 32]
+    },{
+      name: 'Germany',
+      data: [78, 4, 90, 36, 97, 64, 10, 48, 37, 55, 71, 96, 21, 94, 52]
+    },{
+      name: 'India',
+      data: [97, 48, 21, 74, 73, 52, 100, 31, 8, 78, 61, 19, 98, 23, 0]
+    },{
+      name: 'Indonesia',
+      data: [32, 84, 37, 43, 36, 57, 59, 3, 80, 51, 24, 90, 90, 47, 21]
+    },{
+      name: 'Iran',
+      data: [38, 68, 55, 89, 90, 17, 63, 0, 1, 85, 17, 69, 84, 25, 85]
+    },{
+      name: 'Italy',
+      data: [17, 33, 52, 9, 91, 38, 67, 80, 57, 73, 40, 0, 35, 84, 49]
+    },{
+      name: 'Japan',
+      data: [71, 84, 11, 67, 18, 72, 60, 11, 91, 42, 100, 2, 44, 22, 34]
+    },{
+      name: 'Mexico',
+      data: [48, 37, 94, 56, 75, 97, 47, 7, 43, 92, 72, 50, 40, 43, 41]
+    },{
+      name: 'Nigeria',
+      data: [63, 2, 72, 54, 19, 84, 75, 51, 90, 93, 81, 94, 28, 35, 36]
+    },{
+      name: 'Pakistan',
+      data: [20, 36, 67, 51, 5, 5, 42, 91, 1, 65, 33, 73, 67, 59, 64]
+    },{
+      name: 'Philippines',
+      data: [5, 28, 54, 31, 0, 37, 82, 80, 36, 40, 81, 7, 24, 61, 28]
+    },{
+      name: 'Russia',
+      data: [84, 44, 8, 43, 26, 43, 76, 70, 83, 53, 55, 64, 87, 32, 11]
+    },{
+      name: 'South Africa',
+      data: [82, 64, 3, 71, 10, 85, 42, 54, 8, 18, 18, 63, 81, 35, 53]
+    },{
+      name: 'Thailand',
+      data: [16, 85, 68, 55, 1, 89, 66, 16, 82, 48, 1, 74, 62, 21, 71]
+    },{
+      name: 'Turkey',
+      data: [78, 51, 7, 71, 88, 92, 48, 59, 37, 81, 65, 58, 55, 40, 66]
+    },{
+      name: 'United Kingdom',
+      data: [37, 56, 92, 32, 71, 52, 97, 4, 42, 28, 86, 33, 88, 44, 31]
+    }, {
+      name: 'Vietnam',
+      data: [63, 30, 49, 37, 54, 37, 30, 59, 43, 74, 49, 81, 83, 43, 49]
+    }
+  ]
+}
+jQuery('#container').highcharts(options);
+</script>
+  </body>
+</html>

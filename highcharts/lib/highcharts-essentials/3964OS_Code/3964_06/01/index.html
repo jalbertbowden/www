@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-more.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'gauge'
+		},
+		title: {
+			text: 'Speedometer'
+		},
+		pane: {
+			startAngle: -150,
+			endAngle: 150
+		},
+		yAxis: {
+			title: {
+				text: 'km/h'
+			},
+			min: 0,
+			max: 200
+		},
+		series: [{
+			name: 'Speed1',
+			data: [120]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

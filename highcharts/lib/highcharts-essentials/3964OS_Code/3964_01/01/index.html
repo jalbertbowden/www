@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="highchart_01" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#highchart_01' ).highcharts({
+		title: {
+			text: 'GDP of European Union'
+		},
+		chart: {
+			type: 'column'
+		},
+		xAxis: {
+			title: {
+				text: 'Years'
+			},
+			categories: [
+				'2009',
+				'2010',
+				'2011',
+				'2012',
+				'2013'
+			]
+		},
+		yAxis: {
+			title: {
+				text: 'GDP'
+			}
+		},
+		series: [
+			{
+				name: 'GDP',
+				data: [-4.5, 2.0, 1.6, -0.4, 0.1]
+			}
+		]
+	});
+
+})();
+</script>
+</body>
+</html>

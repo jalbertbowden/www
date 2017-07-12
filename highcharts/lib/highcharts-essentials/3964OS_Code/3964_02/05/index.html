@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="medal_table" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#medal_table' ).highcharts({
+		chart: {
+			type: 'column'
+		},
+		title: {
+			text: 'Olympics 2012 Medal Table'
+		},
+		subtitle: {
+			text: 'Source: http://www.bbc.com/sport/olympics/2012/medals/countries'
+		},
+		xAxis: {
+			title: {
+				text: 'Countries'
+			},
+			categories: ['United States', 'China', 'Russian Federation', 'Great Britain', 'South Korea']
+		},
+		yAxis: {
+			title: {
+				text: 'Number of total medals'
+			}
+		},
+		series: [{
+			name: 'Gold',
+			data: [46, 38, 24, 29, 13]
+		}, {
+			name: 'Silver',
+			data: [29, 27, 26, 17, 8]
+		}, {
+			name: 'Bronze',
+			data: [29, 23, 32, 19, 7]
+		}],
+		plotOptions: {
+			column: {
+				stacking: 'percent'
+			}
+		}
+	});
+
+})();
+</script>
+</body>
+</html>

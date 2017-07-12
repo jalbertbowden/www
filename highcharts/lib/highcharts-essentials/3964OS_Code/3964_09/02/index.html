@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="climate_data" style="width: 850px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	//Initializing basic chart configuration object
+	var chartConfigOptions = {
+		title: {
+			text: 'Climate Data for Chicago - July 2014'
+		},
+		subtitle: {
+			text: '<a href="http://www.ncdc.noaa.gov" target="_blank">NCDC</a>',
+			useHTML: true
+		},
+		chart: {
+			type: 'line'
+		},
+		tooltip: {
+			valueSuffix: '&deg;F',
+			useHTML: true
+		},
+		plotOptions: {
+			line: {
+				pointStart: Date.UTC(2014, 06, 01, 00, 00, 00),
+				pointInterval: 3600 * 1000 * 24
+			}
+		},
+		xAxis: {
+			title: {
+				text: 'Date'
+			},
+			type: 'datetime'
+		},
+		yAxis: {
+			title: {
+				text: 'Temperature in &deg;F',
+				useHTML: true
+			}
+		},
+		series: []
+	};
+
+
+	//Getting the XML file
+	$.get( 'climate-july-14.xml', function( data ) {
+		var xml = $( data );
+
+		xml.find( 'series' ).each(function( i ) {
+
+			//Caching the $(this)
+			var $this = $( this );
+			
+			//Initializing series object
+			chartConfigOptions.series[i] = {};
+
+			//Initializing series data array
+			chartConfigOptions.series[i].data = [];
+
+			//Giving the series a name
+			chartConfigOptions.series[i].name = $this.find( 'name' ).html();
+
+			var points = $this.find( 'points' )[0].innerHTML.split( ',' );
+
+			for ( var j in points ) {
+				chartConfigOptions.series[i].data.push( parseInt( points[j] ) );
+			}
+
+		});
+
+		//Destroying previous chart, if any
+		if ( $( '#climate_data' ).highcharts() ) {
+			$( '#climate_data' ).highcharts().destroy();
+		}
+
+		//Initializing the chart
+		$( '#climate_data' ).highcharts( chartConfigOptions );
+	});
+
+})();
+</script>
+</body>
+</html>

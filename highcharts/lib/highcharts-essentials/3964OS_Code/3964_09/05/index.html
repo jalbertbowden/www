@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="actor_movies" style="width: 850px; height: 450px;"></div>
+
+	<button data-action="retrieve_data">Retrieve New Data</button>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	//Initializing basic chart configuration object
+	var chartConfigOptions = {
+		title: {
+			text: 'Most Number of Movies by Actors'
+		},
+		chart: {
+			type: 'column'
+		},
+		tooltip: {
+			valueSuffix: ' Movies',
+			useHTML: true
+		},
+		xAxis: {
+			title: {
+				text: 'Actor'
+			},
+			id: 'actor-names',
+			categories: ['Jane', 'John', 'Doe']
+		},
+		yAxis: {
+			title: {
+				text: 'Movies'
+			}
+		},
+		series: [{
+			name: 'Actors',
+			id: 'movie-count',
+			data: [20, 10, 16]
+		}]
+	};
+
+	$( '#actor_movies' ).highcharts( chartConfigOptions );
+
+
+	//Sending request to the server on button click
+	$( '[data-action="retrieve_data"]' ).on( 'click', function( e ) {
+		e.preventDefault();
+		$.ajax({
+			type: 'POST',
+			url: 'retrieve-data.php',
+			beforeSend: function() {
+				$( '#actor_movies' ).highcharts().showLoading();
+			},
+			success: function( data ) {
+				console.log( data );
+				var axis = $( '#actor_movies' ).highcharts().get( 'actor-names' ),
+					series = $( '#actor_movies' ).highcharts().get( 'movie-count' );
+
+				axis.setCategories( data[1], false );
+				series.setData( data[0], false );
+				$( '#actor_movies' ).highcharts().redraw();
+			},
+			complete: function() {
+				$( '#actor_movies' ).highcharts().hideLoading();
+			}
+		})
+	});
+
+
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="revenue_chart" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/modules/drilldown.js"></script>
+<script>
+(function() {
+
+	$( '#revenue_chart' ).highcharts({
+		chart: {
+			type: 'column'
+		},
+		title: {
+			text: 'Retail Revenue for Video Game Industry'
+		},
+		subtitle: {
+			text: 'Source: NPD Group; AFJV'
+		},
+		xAxis: {
+			title: {
+				text: 'Years'
+			},
+			type: 'category'
+		},
+		yAxis: {
+			title: {
+				text: 'Revenue (in U.S. billion dollars)'
+			},
+			tickInterval: 1
+		},
+		series: [{
+			name: 'Revenue',
+			data: [{
+				name: '2012 - 2013',
+				y: 13.04,
+				drilldown: 'rev1213'
+			}, {
+				name: '2013 - 2014',
+				y: 12.87,
+				drilldown: 'rev1314'
+			}]
+		}],
+		drilldown: {
+			series: [{
+				name: 'Revenue',
+				id: 'rev1213',
+				data: [
+					['Mar', 1.1], ['Apr', 0.63], ['May', 0.52], ['Jun', 0.7], ['Jul', 0.55], ['Aug', 0.52], ['Sep', 0.85], ['Oct', 0.76], ['Nov', 2.55], ['Dec', 3.21], ['Jan', 0.84], ['Feb', 0.81]
+				]
+			}, {
+				name: 'Revenue',
+				id: 'rev1314',
+				data: [
+					['Mar', 0.99], ['Apr', 0.5], ['May', 0.39], ['Jun', 0.59], ['Jul', 0.44], ['Aug', 0.52], ['Sep', 1.08], ['Oct', 0.79], ['Nov', 2.74], ['Dec', 3.28], ['Jan', 0.66], ['Feb', 0.89]
+				]
+			}]
+		}
+	});
+
+})();
+</script>
+</body>
+</html>

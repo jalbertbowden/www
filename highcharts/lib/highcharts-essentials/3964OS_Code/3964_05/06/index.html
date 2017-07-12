@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'pie'
+		},
+		title: {
+			text: 'Car Sales for December 2013 - 2014'
+		},
+		subtitle: {
+			text: 'Source: <a href="http://www.businessinsider.com/best-selling-cars-in-december-2013-2014-1?op=1">Business Insider</a>',
+			useHTML: true
+		},
+		tooltip: {
+			formatter: function() {
+				var string = '<strong>' + this.point.name + '</strong><br />';
+				string += 'Sales: <strong>' + this.y + '</strong>';
+				return string;
+			}
+		},
+		plotOptions: {
+			pie: {
+				dataLabels: {
+					enabled: false
+				},
+				borderColor: 'rgba(255, 255, 255, 0.2)'
+			}
+		},
+		series: [{
+			name: 'Car Manufacturers',
+			innerSize: '60%',
+			dataLabels: {
+				enabled: true,
+				distance: -40,
+				color: '#ffffff'
+			},
+			data: [
+				{name: 'Chevy', y: 93460, color: 'rgba(135, 43, 36, 1)'},
+				{name: 'Ford', y: 154491, color: 'rgba(38, 85, 182, 1)'},
+				{name: 'Honda', y: 90080, color: 'rgba(104, 135, 36, 1)'}
+			]
+		}, {
+			name: 'Car Models',
+			size: '54%',
+			data: [
+				{name: 'Malibu', y: 15493, color: 'rgba(135, 43, 36, 0.9)'},
+				{name: 'Equinox', y: 17212, color: 'rgba(135, 43, 36, 0.9)'},
+				{name: 'Cruze', y: 18162, color: 'rgba(135, 43, 36, 0.9)'},
+				{name: 'Silverado', y: 42593, color: 'rgba(135, 43, 36, 0.9)'},
+				{name: 'Focus', y: 15569, color: 'rgba(38, 85, 182, 0.9)'},
+				{name: 'Explorer', y: 15660, color: 'rgba(38, 85, 182, 0.9)'},
+				{name: 'Escape', y: 24262, color: 'rgba(38, 85, 182, 0.9)'},
+				{name: 'Fusion', y: 24408, color: 'rgba(38, 85, 182, 0.9)'},
+				{name: 'F-Series', y: 74592, color: 'rgba(38, 85, 182, 0.9)'},
+				{name: 'CR-V', y: 28759, color: 'rgba(104, 135, 36, 0.9)'},
+				{name: 'Civic', y: 29000, color: 'rgba(104, 135, 36, 0.9)'},
+				{name: 'Accord', y: 32321, color: 'rgba(104, 135, 36, 0.9)'}
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

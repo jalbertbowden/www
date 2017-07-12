@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'spline'
+		},
+		title: {
+			text: 'Producer Price Index (PPI) in the US'
+		},
+		subtitle: {
+			text: 'Source: Bureau of Labor Statistics'
+		},
+		xAxis: {
+			type: 'datetime'
+		},
+		yAxis: {
+			title: {
+				text: null
+			},
+			plotBands: [{
+				from: 0,
+				to: 200,
+				color: 'rgba(82, 174, 0, 0.2)',
+				label: {
+					text: 'Low',
+					style: {
+						color: 'rgb(82, 174, 0)'
+					}
+				}
+			}, {
+				from: 200,
+				to: 300,
+				color: 'rgba(174, 0, 0, 0.2)',
+				label: {
+					text: 'High',
+					style: {
+						color: 'rgb(174, 0, 0)'
+					}
+				}
+			}]
+		},
+		series: [{
+			name: 'PPI',
+			data: [
+				[Date.UTC(2007, 00, 01), 172.6],
+				[Date.UTC(2008, 00, 01), 189.6],
+				[Date.UTC(2009, 00, 01), 172.9],
+				[Date.UTC(2010, 00, 01), 184.7],
+				[Date.UTC(2011, 00, 01), 201],
+				[Date.UTC(2012, 00, 01), 202.2]
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

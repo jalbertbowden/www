@@ -1,0 +1,19 @@
+{
+  name: "Ghana",
+  data: [null,null,null,null,69,null,null,null,null,null,55,60,82,null,null]
+},{
+  name: "Kenya",
+  data: [null,null,null,null,72,null,94,95,86,null,81,78,80,null,null]
+}, {
+  name: "Nigeria",
+  data: [null,null,null,null,null,null,null,84,null,null,53,53,73,null,null]
+}, {
+  name: "Senegal",
+  data: [null,null,null,null,null,null,null,null,null,null,78,73,77,null,null]
+}, {
+  name: "South Africa",
+  data: [null,null,null,null,null,32,null,null,null,null,74,72,77,null,null]
+}, {
+  name: "Tanzania",
+  data: [null,null,null,null,40,60,null,null,null,null,null,74,78,null,null]
+}

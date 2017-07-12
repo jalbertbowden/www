@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>HighCharts Web Platform Shell</title>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+.content {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+#container,
+#container-bar-chart,
+#container-multiple-charts{}
+.container-box {
+  width: 400px;
+  height: 400px;
+  outline: 1px solid #000;
+  margin: 1em auto;
+}
+</style>
+  </head>
+  <body>
+    <div class="content">
+      <div id="container" class="container-box"></div>
+      <div id="container-bar-chart" class="container-box"></div>
+      <div id="container-multiple-charts" class="container-box"></div>
+      <div id="container-reuse-data-1" class="container-box"></div>
+      <div id="container-reuse-data-2" class="container-box"></div>
+    </div>
+<script>
+var options = {
+  chart: {
+    //type: 'bar'
+  },
+  title: {
+    text: "Chart Title"
+  },
+  series: [{
+    name: "Series Name",
+    data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  },
+  {
+    name: "Series 2 Name",
+    data: [2, 3, 4, 5, 6, 7, 8, 9, 9, 8]
+  }]
+}
+// bar chart - NOTE: THIS ISN'T DRY, DON'T REPLICATE!!! JUST EASY TO GRAB/USE DEMOS TO GET STARTED!
+var optionsBarChart = {
+  chart: {
+    type: 'bar'
+  },
+  title: {
+    text: "Chart Title"
+  },
+  series: [{
+    name: "Series Name",
+    data: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+  }]
+}
+// displaying multiple charts in one graph
+var optionsMultipleCharts = {
+  chart: {
+    type: 'bar'
+  },
+  title: {
+    text: 'Chart Title - Bar Chart'
+  },
+  series: [{
+    name: 'Bar Chart #1',
+    data: [1, 2, 3, 4]
+  },
+  {
+    name: 'Bar Chart #2',
+    data: [4, 3, 2, 1]
+  },
+  {
+    type: 'pie',
+    data: [1, 2, 3, 4],
+    center: [0,0],
+    dataLabels: {
+      enabled: true
+    }
+  }]
+}
+// using the same data in multiple charts
+var data = [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+var chartOptions = {
+  title: {
+    text: 'Chart Title - Line Chart Using Same Dataset as Another Chart (Bar Chart Below)'
+  },
+  series: [{
+    name: 'X',
+    data: data
+  }]
+}
+var chartOptions2 = {
+  chart: {
+    type: 'bar'
+  },
+  title: {
+    text: 'Chart Title - Bar Chart Using Same Dataset as Another Chart (Line Chart Above)'
+  },
+  series: [{
+    name: 'Y',
+    data: data
+  }]
+}
+
+
+// render chart by calling .highcharts jQuery function on an element on the page
+jQuery('#container').highcharts(options);
+jQuery('#container-bar-chart').highcharts(optionsBarChart);
+jQuery('#container-multiple-charts').highcharts(optionsMultipleCharts);
+jQuery('#container-reuse-data-1').highcharts(chartOptions);
+jQuery('#container-reuse-data-2').highcharts(chartOptions2);
+
+</script>
+  </body>
+</html>

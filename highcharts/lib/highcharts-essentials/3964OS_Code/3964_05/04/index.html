@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-3d.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'pie',
+			options3d: {
+				enabled: true,
+				alpha: 60,
+				beta: 0
+			}
+		},
+		title: {
+			text: 'Breakdown of Windows Market Share'
+		},
+		tooltip: {
+			valueSuffix: '%'
+		},
+		plotOptions: {
+			pie: {
+				dataLabels: {
+					enabled: true
+				},
+				allowPointSelect: true,
+				depth: 50
+			}
+		},
+		series: [{
+			name: 'Windows versions',
+			data: [
+				['Win 7', 55.03],
+				['Win XP', 15.83],
+				['Win Vista', 3.59],
+				['Win 8', 7.56],
+				['Win 8.1', 6.18]
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

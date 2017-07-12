@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 1000px; height: 600px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'pie'
+		},
+		title: {
+			text: 'Operating Systems Marketshare'
+		},
+		subtitle: {
+			text: 'StatCounter'
+		},
+		tooltip: {
+			valueSuffix: '%'
+		},
+		plotOptions: {
+			pie: {
+				dataLabels: {
+					enabled: true
+				}
+			}
+		},
+		series: [{
+			name: 'Desktop OS Marketshare',
+			center: ['25%', '50%'],
+			size: '50%',
+			data: [
+				['Windows', 88.19],
+				['MacOSX', 9.22],
+				['Linux', 1.58],
+				['Others', 1.01]
+			]
+		}, {
+			name: 'Mobile OS Marketshare',
+			center: ['75%', '50%'],
+			size: '50%',
+			data: [
+				['Android', 77.83],
+				['iOS', 17.8],
+				['Microsoft', 2.94],
+				['RIM', 0.72],
+				['Symbian', 0.71]
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

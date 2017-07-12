@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 950px; height: 600px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script src="js/highcharts-more.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'waterfall'
+		},
+		title: {
+			text: 'Budget of London 2012 Olympics'
+		},
+		xAxis: {
+			type: 'category'
+		},
+		yAxis: {
+			title: {
+				text: 'US million dollars'
+			}
+		},
+		tooltip: {
+			valueSuffix: ' Million USD'
+		},
+		series: [{
+			name: 'Budget',
+			data: [
+				{name: 'Venues', y: 4607},
+				{name: 'Olympic Village', y: 1919},
+				{name: 'CT operations', y: 1776},
+				{name: 'Other projects', y: 1421},
+				{name: 'Transport projects', y: 1392},
+				{name: 'Anticipated final costs', y: 1311},
+				{name: 'Legacy projects', y: 1298},
+				{name: 'Olympic parkland', y: 1204},
+				{name: 'Police', y: 943},
+				{name: 'Venue security', y: 869},
+				{name: 'Government bodies', y: 696},
+				{name: 'Contingency fund', y: 157},
+				{name: 'Ceremonies', y: 126},
+				{name: 'Total Budget', isSum: true}
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>

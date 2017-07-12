@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Highcharts Essentials</title>
+</head>
+<body>
+	
+	<div id="chart_container" style="width: 600px; height: 450px;"></div>
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/highcharts.js"></script>
+<script>
+(function() {
+
+	$( '#chart_container' ).highcharts({
+		chart: {
+			type: 'pie'
+		},
+		title: {
+			text: 'Car Sales for December 2013 - 2014'
+		},
+		subtitle: {
+			text: 'Source: <a href="http://www.businessinsider.com/best-selling-cars-in-december-2013-2014-1?op=1">Business Insider</a>',
+			useHTML: true
+		},
+		tooltip: {
+			formatter: function() {
+				var string = '<strong>' + this.point.name + '</strong><br />';
+				string += 'Sales: <strong>' + this.y + '</strong>';
+				return string;
+			}
+		},
+		plotOptions: {
+			pie: {
+				startAngle: -180,
+				endAngle: 90
+			}
+		},
+		series: [{
+			name: 'Car Manufacturers',
+			innerSize: '20%',
+			dataLabels: {
+				enabled: true,
+				distance: -40,
+				color: '#ffffff'
+			},
+			data: [
+				{name: 'Chevy', y: 93460, color: 'rgba(135, 43, 36, 1)'},
+				{name: 'Ford', y: 154491, color: 'rgba(38, 85, 182, 1)'},
+				{name: 'Honda', y: 90080, color: 'rgba(104, 135, 36, 1)'}
+			]
+		}]
+	});
+
+})();
+</script>
+</body>
+</html>
