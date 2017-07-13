@@ -1,0 +1,26 @@
+<div class="zoom_controls">
+  <span><?php echo $this->tr('Zoom:')?></span>
+  <a href="#" data-chart="line" data-range="1m">1m</a>
+  <a href="#" data-chart="line" data-range="3m">3m</a>
+  <a href="#" data-chart="line" data-range="6m">6m</a>
+  <a href="#" data-chart="line" data-range="1y">1y</a>
+  <a href="#" data-chart="line" data-range="Ytd">YTD</a>
+  <a href="#" data-chart="line" data-range="All">All</a>
+</div>
+  
+<script type="text/javascript">
+$('.zoom_controls a').click(function(e){
+    e.preventDefault();
+    // OK, pretty ugly :)
+    var call = 'zoom' + $(this).attr('data-range');
+    // I have two globally accessible charts here:
+    if ($(this).attr('data-chart') == 'line') {
+        lineChart[call]();
+    } else {
+        candleChart[call]();
+    }
+    $(this).addClass('active');
+})
+</script>
+
+<!-- Highcharts container goes here -->

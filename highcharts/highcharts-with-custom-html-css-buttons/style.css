@@ -1,0 +1,33 @@
+/* 
+
+You could possibly add a .active class so you could highlight currently selected zoom level buttons
+Though then you'll have to catch all setExtremes calls and make sure your .active buttons should still be highlighted.
+
+ */
+.zoom_controls a {
+  display: block;
+  width: 30px;
+  height: 16px;
+  line-height: 16px;
+  margin-top: 3px;
+  float: left;
+  text-decoration: none;
+  color: black !important;
+  text-align: center;
+  border: 1px #CCC inset;
+  background-color: #aaa;
+  /* Should look a lot like the original :) */
+  background-image: linear-gradient(bottom, rgb(214,214,214) 34%, rgb(232,232,232) 100%);
+  background-image: -o-linear-gradient(bottom, rgb(214,214,214) 34%, rgb(232,232,232) 100%);
+  background-image: -moz-linear-gradient(bottom, rgb(214,214,214) 34%, rgb(232,232,232) 100%);
+  background-image: -webkit-linear-gradient(bottom, rgb(214,214,214) 34%, rgb(232,232,232) 100%);
+  background-image: -ms-linear-gradient(bottom, rgb(214,214,214) 34%, rgb(232,232,232) 100%);
+}
+.zoom_controls a:hover {
+  background-color: #a6d1ff;
+  background-image: linear-gradient(bottom, rgb(118,175,201) 34%, rgb(166,209,255) 100%);
+  background-image: -o-linear-gradient(bottom, rgb(118,175,201) 34%, rgb(166,209,255) 100%);
+  background-image: -moz-linear-gradient(bottom, rgb(118,175,201) 34%, rgb(166,209,255) 100%);
+  background-image: -webkit-linear-gradient(bottom, rgb(118,175,201) 34%, rgb(166,209,255) 100%);
+  background-image: -ms-linear-gradient(bottom, rgb(118,175,201) 34%, rgb(166,209,255) 100%);
+}
