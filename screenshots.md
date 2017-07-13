@@ -1,0 +1,5 @@
+# Screenshots
+
+take full page screenshots in Chrome using the new [Command Menu](https://developers.google.com/web/tools/chrome-devtools/ui#command-menu) (you first need to have Dev Tools open to be able to open the Command Menu) by starting to type `screenshot` into the Command Menu and then select the option `Capture full size screenshot` from the auto completed list.  
+In Firefox there’s also been a similar command for a longer time by using the Firefox [Developer Toolbar (GCLI)](https://developer.mozilla.org/en/docs/Tools/GCLI). Just open the Developer Toolbar by pressing `Shift+F2` and type in `screenshot --fullpage filename.png`. It has nice tool tips for all the parameters while you’re typing, but you can also get more info about the command by typing `help screenshot`. There are also command flags for saving the screenshot to the clipboard instead or posting it to Imgur.  
+[Full Page Screenshots in Browsers](https://css-tricks.com/full-page-screenshots-browsers/)
