@@ -1,5 +1,6 @@
 # Open dotgov Media: Images, Videos, etc., Created by US Governments/Agencies/Departments in the Public Domain  
 
+[Abandoned Mineral Lands Photo Gallery](https://www.nps.gov/subjects/abandonedminerallands/photo-gallery.htm)  
 
 [U.S. Government Works](https://www.usa.gov/government-works)  
 
