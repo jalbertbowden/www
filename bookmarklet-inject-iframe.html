@@ -1,0 +1,11 @@
+Inject iFrame
+
+
+inject iframe - http://stackoverflow.com/questions/8326964/how-do-i-create-bookmarklet-to-overlay-html-div-layer-and-css-from-external-file
+
+javascript:(function(e,a,g,h,f,c,b,d){if(!(f=e.jQuery)||g>f.fn.jquery||h(f)){c=a.createElement("script");c.type="text/javascript";c.src="http://ajax.googleapis.com/ajax/libs/jquery/"+g+"/jquery.min.js";c.onload=c.onreadystatechange=function(){if(!b&&(!(d=this.readyState)||d=="loaded"||d=="complete")){h((f=e.jQuery).noConflict(1),b=1);f(c).remove()}};a.documentElement.childNodes[0].appendChild(c)}})(window,document,"1.3.2",function($,L){$("<div style='width:500px;height:400px; border:5px solid black;  background-color:white; box-shadow:10px 10px 10px black; position:fixed; top: 150px; left:150px; z-index:99999'><iframe style='width:100%; height:100%;' src='http://www.htmlcodetutorial.com/frames/hello.html'></iframe></div>").appendTo("body");});
+
+
+<a href="javascript:(function(e,a,g,h,f,c,b,d){if(!(f=e.jQuery)||g>f.fn.jquery||h(f)){c=a.createElement("script");c.type="text/javascript";c.src="http://ajax.googleapis.com/ajax/libs/jquery/"+g+"/jquery.min.js";c.onload=c.onreadystatechange=function(){if(!b&&(!(d=this.readyState)||d=="loaded"||d=="complete")){h((f=e.jQuery).noConflict(1),b=1);f(c).remove()}};a.documentElement.childNodes[0].appendChild(c)}})(window,document,"1.3.2",function($,L){$("<div style='width:500px;height:400px; border:5px solid black;  background-color:white; box-shadow:10px 10px 10px black; position:fixed; top: 150px; left:150px; z-index:99999'><iframe style='width:100%; height:100%;' src='http://www.htmlcodetutorial.com/frames/hello.html'></iframe></div>").appendTo("body");});" class="bookmarklet">inject.iframe</a>
+
+
