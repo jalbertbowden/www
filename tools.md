@@ -2,10 +2,14 @@
 
 ## Data  
 [Good Tables - service for validating tabular data](http://goodtables.okfnlabs.org/)  
+[dummi - data for your projects](http://dummi.io/)  
+
 
 ## CSS  
 
 [https://csstree.github.io/docs/](https://csstree.github.io/docs/)
+[css nano - compress your css](http://cssnano.co/)  
+
 
 ## Google Chrome  
 

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Cross-browser kerning-pairs & ligatures</title>
+    <style>
+      body { font-family: sans-serif; background: #f4f3f3; color: rgba(40, 30, 0, 1); width: 500px; margin: 80px auto; padding: 0px; }
+      a { color: rgba(15, 10, 0, 0.8); text-decoration: none; border-bottom: 1px solid; padding: 1px 1px 0px; -webkit-transition: background 1s ease; }
+      a:hover { background: rgba(0, 220, 220, 0.2); }
+      p, li { line-height: 1.5; padding: 0em 1em 0em 0em; margin: 0em 0em 0.5em; }
+      code { background: rgba(0, 220, 220, 0.2); padding: 2px 4px; }
+      small { font-size: 0.9em; }
+      hr { background: none; border-top: 1px dotted rgba(40, 30, 0, 0.85); margin: 20px 0px; }
+      h3 { font-size: 1em; margin: 1em 0em 0.25em; }
+      ul,
+      h3 + p { list-style: none; padding: 0em 0em 0.5em; margin: 0em; }
+      
+      h2 { font-size: 5em; margin: 0px; position: relative; }
+      h2.bask { font-family: 'baskerville', times; font-style: italic; font-weight: normal; }
+      h2:before { content: 'Normal'; font-family: sans-serif; font-style: normal; font-size: 11px; padding: 2px 5px 1px; background: rgba(25, 20, 0, 0.15); color: rgba(25, 20, 0, 0.6); position: absolute; left: -5.4em; top: 3.5em; font-weight: normal; -webkit-border-radius: 4px; -moz-border-radius: 4px; border-radius: 4px; }
+      /*************
+        The Magic
+      **************/
+      h2.kern { text-rendering: optimizeLegibility; }
+      /*************
+      **************/
+      h2.kern:before { content: 'optimizeLegibility'; left: -9.6em; }
+    </style>
+  </head>
+  <h1>Cross-browser kerning-pairs &&nbsp;ligatures</h1>
+  <p>Improved handling of kerning pairs and ligatures in modern browsers using the <code>text-rendering: optimizeLegibility;</code> declaration.</p>
+  <p>The declaration is currently supported by:<br>
+    <a href="http://www.apple.com/safari/">Safari 5</a>, The&nbsp;<a href="http://nightly.webkit.org/">Webkit&nbsp;Nightlies</a> & <a href="http://www.google.com/chrome">Chrome</a>.</p>
+  <p><a href="http://www.mozilla.com/firefox/">Firefox</a> already uses <code>optimizeLegibility</code> by default for text sizes above 20px.</p>
+  
+  <h3>Caveats</h3>
+  <p><a href="http://paulirish.com/">Paul Irish</a> was so kind as to pass on a few bugs that have surfaced.</p>
+  <ul>
+    <li>In recent versions of Chromium, mixing <code>optimizeLegibility</code> and <code>font-variant: small-caps</code> will <a href="http://code.google.com/p/chromium/issues/detail?id=51973">cause the small-caps to not render</a>.</li>
+    <li>Irritatingly, it also causes text to <a href="http://developer.palm.com/distribution/viewtopic.php?sid=0d2709e0a7fd4fec26c9278d0129d9d8&lastaction=login&f=55&t=8445">disappear completely on webOS</a>.</li>
+    <li><a href="http://make-believe.org">Joseph Pearson</a> also points out that on slower machines (such as mobile devices) it can negatively impact page load when applied to large blocks of text.</li>
+    <li>In Safari 5, when using a measurement type of <code>ex</code> on the <code>margin</code>, <code>padding</code>, <code>border-width</code> or <code>outline-width</code> properties causes the browser to crash. See his demo page here: (warning: this will crash safari, obviously) <a href="http://quorning.net/safari_crash.htm">http://quorning.net/safari_crash.htm</a></li>
+  </ul>
+  
+  <hr>
+  <h2>AVAST</h2>
+  <h2 class="kern">AVAST</h2>
+  <hr>
+  <h2>LOVELY</h2>
+  <h2 class="kern">LOVELY</h2>
+  <hr>
+  <h2>True Type</h2>
+  <h2 class="kern">True Type</h2>
+  <hr>
+  <h2>Youth</h2>
+  <h2 class="kern">Youth</h2>
+  <hr>
+  <h2 class="bask">traffic</h2>
+  <h2 class="bask kern">traffic</h2>
+  <hr>
+  <h2 class="bask">floret</h2>
+  <h2 class="bask kern">floret</h2>
+  <hr>
+  <small>Gist: <a href="http://gist.github.com/452577">http://gist.github.com/452577</a></small>
+  
+</html>

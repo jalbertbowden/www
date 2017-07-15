@@ -1,5 +1,4 @@
-Criminal Justice Landscape
-http://digital-justice.dsd.io/landscape
+[Criminal Justice Landscape](http://digital-justice.dsd.io/landscape)
 not only beautiful, one of the most exemplary data visualizations i've ever seen!!!
 
 germany's federal laws are on the open web, openly accessible and powered by open source software.
@@ -11,7 +10,7 @@ Not only does Germany have its federal laws versioned on the open web, there's a
 
 [#OPEN ODI & Thompson Reuters Legal Data Infrastructure Workshop](https://docs.google.com/document/d/1YJFGW-4zBanpCPdKKOrra9nyjvW8A2a4HvFusEgC204/edit)
 
-https://factfinder.census.gov/help/en/voting_district_vtd.htm
+[https://factfinder.census.gov/help/en/voting_district_vtd.htm](https://factfinder.census.gov/help/en/voting_district_vtd.htm)
 
 Bundesgit is the attempt to apply the mechanisms of version control of software to German laws. This page is automatically generated from the contents of the associated GitHub repository.
 
@@ -22,13 +21,12 @@ Bundesgit is the attempt to apply the mechanisms of version control of software 
 
 
 
-German Open Goverment Data Portal
-https://www.govdata.de/
-https://github.com/GovDataOfficial
+German Open Goverment Data Portal](https://www.govdata.de/)
+https://github.com/GovDataOfficial]()
 
-https://github.com/GovDataOfficial
-https://github.com/Seitenbau
-https://github.com/GovDataOfficial/GovDataPortal
+https://github.com/GovDataOfficial]()
+https://github.com/Seitenbau]()
+https://github.com/GovDataOfficial/GovDataPortal]()
 
 
 
@@ -48,39 +46,26 @@ using #openaccess ala @sci_hub to read about #opensource and #opencollaboration
 [How the Internet Will (One Day) Transform Government](http://www.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government)  
 
 ## Seminal Writings  
-<ul>
-<li>Abe Voelker: <a href="http://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/">GitLaw: GitHub for Laws and Legal Documents — a Tourniquet for American Liberty](https://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/)  
-
-<li><a href="http://news.ycombinator.com/item?id=3967921">Hacker News Commentary</a> on the Voelker essay<br>
-<span style="color:#ffffff;">.</span></li>
-<li>Quora conversation: <a href="//localhost/about/blank">What are the nontechnical barriers to adopting a version control system for use in writing bills / new laws?</a> (This is the source of <a href="http://www.quora.com/What-are-the-nontechnical-barriers-to-adopting-a-version-control-system-for-use-in-writing-bills-new-laws">&nbsp;</a>Ari Hershowitz’s wonderful “People with GitHub accounts”/”Lawyers” Venn diagram above and in the talk.)</li>
-</ul>
+Abe Voelker: [GitLaw: GitHub for Laws and Legal Documents — a Tourniquet for American Liberty](https://blog.abevoelker.com/gitlaw-github-for-laws-and-legal-documents-a-tourniquet-for-american-liberty/)  
+[Hacker News Commentary on the Voelker essay](http://news.ycombinator.com/item?id=3967921)  
+Quora conversation: What are the nontechnical barriers to adopting a version control system for use in writing bills / new laws? (This is the source of [Ari Hershowitz’s wonderful “People with GitHub accounts”/”Lawyers” Venn diagram above and in the talk](http://www.quora.com/What-are-the-nontechnical-barriers-to-adopting-a-version-control-system-for-use-in-writing-bills-new-laws).)
 
 ## Political Uses  
-<ul>
-<li><em>Wired</em> article on Stefan Wehrmeyer’s post-TED move to put the <a href="http://www.wired.com/wiredenterprise/2012/08/bundestag/">German government’s legal documents</a> on GitHub<br>
-<span style="color:#ffffff;">.</span></li>
-<li>Wehrmeyer’s <a href="https://github.com/bundestag/gesetze">GitHub repository<br>
-</a><span style="color:#ffffff;">.</span></li>
-<li>The Pirate Party’s <a href="http://liquidfeedback.org/mission/">Liquid Democracy</a> tool<br>
-<span style="color:#ffffff;">.</span></li>
-<li><a href="http://poptech.org/blog/silja_%C3%93marsd%C3%B3ttir_on_starting_from_scratch_with_icelands_constitution">A speech from Silja Ómarsdóttir</a>, a participant in the design of Iceland’s crowdsourced Constitution.<br>
-<span style="color:#ffffff;">.</span></li>
-<li><a href="http://www.voxeu.org/article/crisis-constitution-insights-iceland">An essay by Thorvaldur Gylfason</a>, another participant in the Icelandic effort, on the terms of the citizen-designed Constitution.<br>
-<span style="color:#ffffff;">.</span></li>
-<li>Ireland’s upcoming attempt at <a href="http://www.irishtimes.com/newspaper/opinion/2012/0908/1224323737219.html">a similar model</a>, presaging a transition from what Jürg Steiner calls ‘election-centered democracy’ (citizens elect representatives and then withdraw) to ‘talk-centered democracy’ (citizens stay engaged throughout the political process).</li>
-</ul>
+[Wired article on Stefan Wehrmeyer’s post-TED move to put the German government’s legal documents on GitHub](http://www.wired.com/wiredenterprise/2012/08/bundestag/)  
+[Wehrmeyer’s GitHub repository](https://github.com/bundestag/gesetze)  
+[The Pirate Party’s Liquid Democracy tool](http://liquidfeedback.org/mission/)
+[A speech from Silja Ómarsdóttir, a participant in the design of Iceland’s crowdsourced Constitution](http://poptech.org/blog/silja_%C3%93marsd%C3%B3ttir_on_starting_from_scratch_with_icelands_constitution)
+[An essay by Thorvaldur Gylfason, another participant in the Icelandic effort, on the terms of the citizen-designed Constitution](http://www.voxeu.org/article/crisis-constitution-insights-iceland)  
+[Ireland’s upcoming attempt at a similar model](http://www.irishtimes.com/newspaper/opinion/2012/0908/1224323737219.html), presaging a transition from what Jürg Steiner calls ‘election-centered democracy’ (citizens elect representatives and then withdraw) to ‘talk-centered democracy’ (citizens stay engaged throughout the political process).  
 
 ## Related Attempts  
-<ul>
-<li><a href="http://www.docracy.com/">Docracy</a>, a tool for sharing legal documents, mostly for contractual language<br>
-<span style="color:#ffffff;">.</span></li>
-<li><a href="http://techcrunch.com/2011/05/22/hackathon-winner-docracy-is-a-github-for-legal-documents/">Techcrunch article about Docracy<br>
-</a><span style="color:#ffffff;">.</span></li>
-<li>Everyme, a private social network, <a href="https://github.com/everyme/everyme-legal">puts its privacy policy on GitHub</a></li>
-</ul>
+[Docracy](http://www.docracy.com/), a tool for sharing legal documents, mostly for contractual language  
+[Techcrunch article about Docracy](http://techcrunch.com/2011/05/22/hackathon-winner-docracy-is-a-github-for-legal-documents/)  
+Everyme, a private social network, [puts its privacy policy on GitHub](https://github.com/everyme/everyme-legal)
 
-<p>This Git repository contains all German federal laws and regulations in Markdown format. The source is the XML version of the laws from <a href="http://disq.us/url?url=http%3A%2F%2Fwww.gesetze-im-internet.de%3Ap97M1hFswX6ELi4NVKPtUcMhk68&amp;cuid=790859" rel="nofollow noopener">www.gesetze-im-internet.de</a>.<br><a href="https://disq.us/url?url=https%3A%2F%2Fgithub.com%2Fbundestag%2Fgesetze%3AmWE7rOF0GaHbZh53452Gll56Aok&amp;cuid=790859" rel="nofollow noopener">https://github.com/bundestag/g...</a></p>
+This Git repository contains all German federal laws and regulations in Markdown format. The source is the XML version of the laws from 
+[www.gesetze-im-internet.de](http://disq.us/url?url=http%3A%2F%2Fwww.gesetze-im-internet.de%3Ap97M1hFswX6ELi4NVKPtUcMhk68&amp;cuid=790859).  
+[https://github.com/bundestag/g...](https://disq.us/url?url=https%3A%2F%2Fgithub.com%2Fbundestag%2Fgesetze%3AmWE7rOF0GaHbZh53452Gll56Aok&amp;cuid=790859)
 
 
 [OpenGov Voices: How GitLaw Turns the French Parliamentary Process Into Open Data](https://sunlightfoundation.com/2014/06/25/opengov-voices-how-gitlaw-turns-the-french-parliamentary-process-into-open-data/)  
@@ -134,3 +119,9 @@ https://www.flickr.com/photos/stjornlagarad/6007610015/in/dateposted/
 
 [ClassConnect: "GitHub" for Class Lessons](http://web.archive.org/web/20170106220738/http://hackeducation.com/2012/03/12/classconnect-github-for-class-lessons)  
 [Forking Your Syllabus](http://www.chronicle.com/blogs/profhacker/forking-your-syllabus/39137)  
+
+
+
+
+## GitHub Searches  
+[Search for Repositories With "scraping" Label](https://github.com/search?q=topic%3Ascraping&type=Repositories)  
