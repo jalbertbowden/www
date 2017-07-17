@@ -31,4 +31,11 @@
 [Official Git Glossary](https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html)  
 [List of @government Members](https://github.com/orgs/government/people)  
 
+## GitHub URLs  
+
+[githubusercontent.com](githubusercontent.com)  
+[avatars.githubusercontent.com/](https://avatars.githubusercontent.com/ExtendScript)  
+[rawgithubusercontent.com/](http://rawgithubusercontent.com/)  
+
+
 

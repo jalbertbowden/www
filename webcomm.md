@@ -14,3 +14,7 @@ Good actors that take up a considerable amount of web space and/or offer experie
 ## jQuery  
 
 [jQuery Style Guide](http://contribute.jquery.org/style-guide/js/)  
+
+## OSM  
+
+[OSM Lab](https://github.com/osmlab)  
