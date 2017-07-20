@@ -4,6 +4,9 @@
 
 [U.S. Navy JAG Corps flickr](https://www.flickr.com/photos/navyjagcorps/)  
 
+[USDA National Institute of Food and Agriculture flickr](https://www.flickr.com/photos/usda_nifa/)  
+[USDA National Institute of Food and Agriculture youtube](https://www.youtube.com/user/usdaagscience)  
+
 
 [Watercolors from USDA](http://freegovinfo.info/node/11334)  
 

@@ -5,6 +5,13 @@
 [Commons:Featured Pictures (FP)](https://commons.wikimedia.org/wiki/Commons:FP)  
 [RSS Feed - Commons:Featured Pictures (FP)](https://tools.wmflabs.org/catfood/catfood.php?category=Featured_pictures_on_Wikimedia_Commons)  
 
+## [Meta-Wiki](https://meta.wikimedia.org/)  
+Meta-Wiki is the global community site for Wikimedia Projects and the Wikimedia Movement in general. Meta-Wiki's discussions range from coordination and documentation to planning and analysis of future Wikimedia activities.  
+Other meta-focused wikis such as Wikimedia Outreach are specialized projects that have their roots in Meta-Wiki. Related discussion also takes place on Wikimedia mailing lists (particularly wikimedia-l, with its low-traffic equivalent WikimediaAnnounce), IRC channels on freenode, individual wikis of Wikimedia affiliates, and other places.
+
+
+
+
 ## Wikimedia Movement  
 The [Wikimedia Movement](https://meta.wikimedia.org/wiki/Wikimedia_movement) is the totality of people, activities and values which revolve aroudn Wikimedia sites and projects:  
 a collection of values shared by individuals (freedom of speech, knowledge for everyone, community sharing etc.);  
@@ -20,14 +27,8 @@ Analyzes a given user account to determine whether it's eligible to vote in the 
 
 
 [Wikimedia Tool Labs](https://tools.wmflabs.org/)  
-Tools List
-https://tools.wmflabs.org/?list
+[Tools List](https://tools.wmflabs.org/?list)  
 
-[Meta-Wiki]
-https://meta.wikimedia.org/wiki/Main_Page
-Welcome to Meta-Wiki, the global community site for the Wikimedia projects and the Wikimedia movement in general. Meta-Wiki's discussions range from coordination and documentation to planning and analysis of future Wikimedia activities.
-
-Other meta-focused wikis such as Wikimedia Outreach are specialized projects that have their roots in Meta-Wiki. Related discussion also takes place on Wikimedia mailing lists (particularly wikimedia-l, with its low-traffic equivalent WikimediaAnnounce), IRC channels on freenode, individual wikis of Wikimedia affiliates, and other places.
 
 [Wikimedia Outreach](https://outreach.wikimedia.org/wiki/Main_Page)  
 Wikimedia Outreach Projects:

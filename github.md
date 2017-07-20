@@ -25,9 +25,9 @@
 [Who's Using GitHub? - GitHub and Government](https://government.github.com/community/)  
 
 
-[](http://tesseract.projectnaptha.com/)  
-[](https://github.com/naptha/tesseract.js)  
-[](https://github.com/naptha/tesseract.js#tesseractjs)  
+[http://tesseract.projectnaptha.com/](http://tesseract.projectnaptha.com/)  
+[tesseract.js](https://github.com/naptha/tesseract.js)  
+[tesseract.js - tesseract.js](https://github.com/naptha/tesseract.js#tesseractjs)  
 [Official Git Glossary](https://www.kernel.org/pub/software/scm/git/docs/gitglossary.html)  
 [List of @government Members](https://github.com/orgs/government/people)  
 
@@ -37,5 +37,26 @@
 [avatars.githubusercontent.com/](https://avatars.githubusercontent.com/ExtendScript)  
 [rawgithubusercontent.com/](http://rawgithubusercontent.com/)  
 
+[Awesome GitHub](http://awesomeawesome.party/awesome-github)  
+[Awesome GitHub Cheat Sheet](http://awesomeawesome.party/github-cheat-sheet)  
 
+[Awesome Browser Extensions for GitHub](http://awesomeawesome.party/awesome-browser-extensions-for-github)  
+
+## GitHub API  
+[Emojis](https://api.github.com/emojis)  
+[Events](https://api.github.com/events)  
+[Gists](https://api.github.com/gists)  
+
+
+
+
+Gist Feeds
+https://gist.github.com/jcouyang.atom
+https://gist.github.com/jcouyang/starred.atom
+https://github.com/jcouyang.atom
+
+
+https://github.com/jalbertbowden.atom
+https://gist.github.com/jalbertbowden.atom
+https://gist.github.com/jalbertbowden/starred.atom
 

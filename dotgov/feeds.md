@@ -57,3 +57,11 @@ NVD provides two RSS 1.0 data feeds. The first feed, [nvd-rss.xml](https://nvd.n
 ### NIFA USDA
 [RSS Newsroom](https://nifa.usda.gov/rss-newsroom)  
 
+## USGS  
+### Landsat USGS  
+[List of RSS &#124; Landsat Missions](https://landsat.usgs.gov/list-rss)  
+### Remote Sensing USGS  
+[USGS LRS RSS](https://remotesensing.usgs.gov/newsroom/USGS_LRS_RSS.php)  
+
+
+

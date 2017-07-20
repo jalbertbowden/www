@@ -3,32 +3,38 @@
 [Getting CSV Data into Google](http://collaborative-tools-project.blogspot.com/2012/05/getting-csv-data-into-google.html)  
 
 
+[Brain Residency Program](https://research.google.com/teams/brain/residency/)  
+[Research at Google](https://research.google.com/)  
+[Google Brain Team](https://research.google.com/teams/brain/)  
+[Google Open Source Blog](https://opensource.googleblog.com/)  
+[Google Open Source](https://opensource.google.com/)  
 
-## About  
-https://www.google.com/intl/en/about/
 
-## Ads  
-[Google Ads](https://www.google.com/ads/)  
+
+
+
+
+
+
+## [About](https://www.google.com/intl/en/about/)  
+
+## [Google Ads](https://www.google.com/ads/)  
 
 ## Google Ads Developer  
 [Google Ads Developer Blog](https://googleadsdeveloper.blogspot.com/)  
 
-## AMP - Accelerated Mobile Pages  
-[AMP](https://www.ampproject.org/)  
+## [AMP - Accelerated Mobile Pages](https://www.ampproject.org/)  
 [YouTube Account](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw)  
 
+## [Answers](http://answers.google.com/)  
 
-## Blog  
-[Blog](https://blog.google/)  
+## [Blog](https://blog.google/)  
 
 ## [Google Books](google-books.md)  
 
-## Careers  
-[Google Careers](https://careers.google.com/)  
+## [Google Careers](https://careers.google.com/)  
 
-## Google Cloud Platform
-[Google Cloud Platform](https://cloud.google.com/)  
-
+## [Google Cloud Platform](https://cloud.google.com/)  
 
 ## Google Code  
 [Google Code Archive](https://code.google.com/archive/)  
@@ -38,27 +44,20 @@ https://www.google.com/intl/en/about/
 
 ## [Google Correlate](LINK TO IT IN GOOGLE TRENDS...NOT SURE HOW IN DUMB MARKDOWN)  
 
-## Google Design  
-[Google Design](https://design.google.com/)  
+## [Google Design](https://design.google.com/)  
 [YouTube Account](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA)  
 
 ## Google Developers](https://developers.google.com)  
 [Code Labs](https://codelabs.developers.google.com)  
 
 
-## Google Drive  
-[Google Drive](https://drive.google.com/)
+## [Google Drive](https://drive.google.com/)
 
+## [Google Fonts](https://fonts.google.com/)  
 
-## Google Fonts  
-[Google Fonts](https://fonts.google.com/)  
+## [Material.io](https://material.io/)  
 
-## Material
-[Material.io](https://material.io/)  
-
-
-## Doodles  
-[Google Doodles](https://www.google.com/doodles)  
+## [Google Doodles](https://www.google.com/doodles)  
 [About/History of Google Doodles](https://www.google.com/doodles/about)  
 [D4G: Doodle for Google](https://doodles.google.com/d4g/)  
 [Google Doodle Archive](https://www.google.com/doodles#archive)  
@@ -80,19 +79,16 @@ https://www.google.com/intl/en/about/
 [Google Play Developer Console](https://play.google.com/apps/publish/signup/)  
 
 
-## Google for Education  
-[Google for Education](https://edu.google.com/)  
+## [Google for Education](https://edu.google.com/)  
 
-## Firebase  
-[Firebase](https://firebase.google.com/)  
+## [Firebase](https://firebase.google.com/)  
 [Firebase Blog](https://firebase.googleblog.com/)  
 [Cloud Functions for Firebase](https://firebase.google.com/features/functions/)  
 [Firebase Console](https://console.firebase.google.com/)  
 [Firebase Docs](https://firebase.google.com/docs/)  
 
 
-## Google Help
-[Google Help (Support)](https://support.google.com/)  
+## [Google Help (Support)](https://support.google.com/)  
 
 ## Gmail  
 [Gmail](https://mail.google.com/)  
@@ -106,11 +102,12 @@ https://www.google.com/intl/en/about/
 [Share (Google) News Using RSS Feeds](https://support.google.com/news/answer/59255?hl=en)  
 [RSS Feed - Google News](https://news.google.com/news?cf=all&hl=en&pz=1&ned=us&output=rss)  
 
+## [Google Patents](https://patents.google.com/)  
+
 ## [Google Photos](https://photos.google.com/)  
 
 
-## Google Play
-[Google Play](https://play.google.com/store)  
+## [Google Play](https://play.google.com/store)  
 
 ## [Google Products](google-products.md)  
 

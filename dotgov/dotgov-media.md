@@ -1,5 +1,12 @@
 # Open dotgov Media: Images, Videos, etc., Created by US Governments/Agencies/Departments in the Public Domain  
 
+[Land Remote Sensing Image Collections](https://remotesensing.usgs.gov/gallery/)  
+[Find Data - EROS Center](https://eros.usgs.gov/find-data)  
+[Video Library - EROS Center](https://eros.usgs.gov/video-library)  
+[Image Gallery - EROS Center](https://eros.usgs.gov/imagegallery)  
+[Landsat Surface Reflectance Higher-Level Data Products](https://landsat.usgs.gov/landsat-surface-reflectance-high-level-data-products)  
+
+
 [Abandoned Mineral Lands Photo Gallery](https://www.nps.gov/subjects/abandonedminerallands/photo-gallery.htm)  
 
 [U.S. Government Works](https://www.usa.gov/government-works)  
@@ -518,3 +525,12 @@ https://digitalmedia.fws.gov/cdm/search/collection/natdiglib/searchterm/history%
 [NOAA Satellites Youtube](https://www.youtube.com/user/NOAASatellites)  
 [NOAA Satellites Youtube Playlists](https://www.youtube.com/user/NOAASatellites/playlists)  
 [NOAA Visualizations](https://www.youtube.com/channel/UC-87aDLv5WFJ83fxt21gsEQ)  
+
+
+[National Gallery of Arts Images](http://images.nga.gov/)  
+The National Gallery of Arts Open Access policy is the bee's knees! Open Data + Open Government made possible using Open Access!
+[National Gallery of Arts Open Access Policy](http://images.nga.gov/en/page/openaccess.html)  
+
+
+
+
