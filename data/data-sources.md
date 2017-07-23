@@ -192,13 +192,14 @@ At the University of Durham has links to boundary related web sites around the w
 [Access Data by Category - National Centers for Environmental Information (NCEI)](https://www.ncei.noaa.gov/)  
 [All Marine Geology and Geophysics (MGG) ](https://www.ngdc.noaa.gov/mgg/mggd.html)  
 [National Geophysical Data Center (NGDC) Data](https://www.ngdc.noaa.gov/)  
+
 ## Data by Discipline  
 [Bathymetry &amp; Global Relief](https://www.ngdc.noaa.gov/mgg/bathymetry/relief.html)
-<a href="/eog/" [Earth Observations from Space, Defense Meteorological Satellite Program (DMSP) archive]
-<a href="/geomag/geomag.shtml" [Geomagnetic Data, Models, &amp; Calculators]
-<a href="/mgg/mggd.html" [Marine Geology &amp; Geophysics, sea floor &amp; lakebed data]
-<a href="/hazard/hazards.shtml" [Natural Hazards - tsunamis, volcanoes, earthquakes, wildfires]
-<a href="/stp/spaceweather.html" [Space Weather, Ionospheric Data, Solar Events, Aurorae]
+[Earth Observations from Space, Defense Meteorological Satellite Program (DMSP) archive](https://www.ngdc.noaa.gov/eog/)
+[Geomagnetic Data, Models, &amp; Calculators](https://www.ngdc.noaa.gov/geomag/geomag.shtml)
+[Marine Geology &amp; Geophysics, sea floor &amp; lakebed data](https://www.ngdc.noaa.gov/mgg/mggd.html)
+[Natural Hazards - tsunamis, volcanoes, earthquakes, wildfires](https://www.ngdc.noaa.gov/hazard/hazards.shtml)
+[Space Weather, Ionospheric Data, Solar Events, Aurorae](https://www.ngdc.noaa.gov/stp/spaceweather.html)
 
 
 National Coastal Data Development Center (NCDDC)
@@ -226,7 +227,7 @@ National Environmental Satellite, Data, and Information Service (NESDIS
 [NOAA Institutional Repository](https://repository.library.noaa.gov/)  
 
 [Litterbase - Online Portal for Marine Litter](http://litterbase.awi.de/)  
-Species / genera were classified using the <a href="http://www.marinespecies.org/" target="_blank">World Register of Marine Species</a>  and assigned to habitats using e.g. <a href="http://www.sealifebase.org/" target="_blank">SeaLifeBase</a>  and <a href="http://www.fishbase.org/home.htm" target="_blank">FishBase</a>. Seals and seabirds were assigned to beach and surface, whales to pelagic and surface, turtles to beach, surface and pelagic environments. Organisms from flotsam were classified as benthic; bacteria and lower taxa were not assigned to any habitat. Values are shown by clicking on pie charts.  
+Species / genera were classified using the [World Register of Marine Species](http://www.marinespecies.org/) and assigned to habitats using e.g. [SeaLifeBase](http://www.sealifebase.org/) and [FishBase](http://www.fishbase.org/home.htm). Seals and seabirds were assigned to beach and surface, whales to pelagic and surface, turtles to beach, surface and pelagic environments. Organisms from flotsam were classified as benthic; bacteria and lower taxa were not assigned to any habitat. Values are shown by clicking on pie charts.  
 http://maps.awi.de/map/map.html?cu=Litter_and_microplastic_distribution
 
 [Ecological Marine Unit Explorer](https://livingatlas.arcgis.com/emu/)
@@ -260,11 +261,10 @@ map will display information about ecological marine units based on a clustering
 [Federal Reserve Statistical Releases](https://fraser.stlouisfed.org/theme/101)  
 
 
+[Cause of Loss Historical Data Files - USDA RMA](https://www.rma.usda.gov/data/cause.html)  
 
-
-Global Food Prices Database (WFP)
-The Global Food Prices Database has data on food prices (e.g., beans, rice, fish, and sugar) for 76 countries and some 1,500 markets. The dataset includes around 500,000 records and is updated monthly. The data goes back as far as 1992 for a few countries, although most of the price trends start in 2000-2002.
-https://data.humdata.org/dataset/wfp-food-prices
+## [Global Food Prices Database (WFP)](https://data.humdata.org/dataset/wfp-food-prices)  
+The Global Food Prices Database has data on food prices (e.g., beans, rice, fish, and sugar) for 76 countries and some 1,500 markets. The dataset includes around 500,000 records and is updated monthly. The data goes back as far as 1992 for a few countries, although most of the price trends start in 2000-2002.  
 
 [HDX - The Humanitarian Data Exchange](https://data.humdata.org/)
 
