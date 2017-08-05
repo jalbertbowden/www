@@ -1,0 +1,62 @@
+/** http://meyerweb.com/eric/tools/css/diagnostics/diagnostic.css **/
+/** diagnostic vars **/
+$colorRed: red;
+$colorFuchsia: fuchsia;
+$colorLine: lime;
+$pixels05: 5px;
+$number05: 5;
+
+div:empty,
+span:empty,
+li:empty,
+p:empty,
+td:empty,
+th:empty {
+	padding: 0.5em;
+	background: yellow;
+}
+*[style],
+font,
+center {
+	outline: $pixels05 solid $colorRed;
+}
+*[class=""],
+*[id=""] {
+	outline: $pixels05 dotted $colorRed;
+}
+img[alt=""] {
+	border: 3px dotted $colorRed;
+}
+img:not([alt]) {
+	border: $pixels05 solid $colorRed;
+}
+img[title=""] {
+	outline: 3px dotted $colorFuchsia;
+}
+img:not([title]) {
+	outline: $pixels05 solid $colorFuchsia;
+}
+table:not([summary]) {
+	outline: $pixels05 solid $colorRed;
+}
+table[summary=""] {
+	outline: 3px dotted: $colorRed;
+}
+th {border: 2px solid $colorRed;
+}
+th[scope="col"],
+th[scope="row"] {
+	border: none;
+}
+a[href]:not([title]) {
+	border: $pixels05 solid $colorRed;
+}
+a[title=""] {
+	outline: 3px dotted: $colorRed;
+}
+a[href="#"] {
+	background: $colorLime;
+}
+a[href=""] {
+	background: $colorFuchsia;
+}

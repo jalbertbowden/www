@@ -52,32 +52,35 @@ Zip codes are the prototypical[example of MAUP](maup-modifiable-areal-unit-probl
 [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/pdf/nihms255570.pdf](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/pdf/nihms255570.pdf)
 Geo-referenced data often are collected in small, administrative units such as census enumeration districts or postal code areas. Such areas vary in geographic area and population size and may change over time. In research into drug-related health issues within the United States, U.S. Postal Service ZIP codes represent a commonly used unit for data collection, storage, and spatial analysis because of their widespread availability in health databases through patient contact and billing information. However, the ZIP code was developed for the specific purpose of delivering mail and may be changed at any time, and its design and development does not take into consideration problems that may arise in data collection, analysis, and presentation in health studies. In this paper, we propose a spatial hierarchical modeling approach to quantify trends within ZIP-code based counts when some fraction of ZIP codes change over the study period, that is, when the data are spatially misaligned across time. We propose a data vector approach and adjust the spatial auto-correlation structure within our Bayesian hierarchical model to provide inference for our misaligned data. We motivate and illustrate our approach to explore spatio-temporal patterns of amphetamine abuse and/or dependence in Tracy, California over the years 1995-2005. Uncertainty associated with misaligned data is modeled, quantified, and visualized. The approach offers a framework for further investigation into other risk factors in order to more fully understand the dynamics of illicit drug abuse or dependence across time and space in imperfectly measured data.  
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F1/
-https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3724536/bin/nihms255570f1.jpg
-Study area and the changing ZIP codes in Years 1995, 2000, and 2005.
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F2/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f2.jpg
-Hospital discharges related to amphetamine abuse/dependence per 10,000 population in Tracy, CA, 1995 – 2005.
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F3/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f3.jpg
-Intercepts and the credible intervals in the study period
-
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F4/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f4.jpg
-Crude standard incidence ratio (SIR) in Tracy in Years 1995, 1999, 2002, and 2005
+[Study area and the changing ZIP codes in Years 1995, 2000, and 2005.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F1/)  
+[Study area and the changing ZIP codes in Years 1995, 2000, and 2005.](https://www.ncbi.nlm.nih.gov/pmc/articles/instance/3724536/bin/nihms255570f1.jpg)  
 
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F5/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f5.jpg
-Fitted standard incidence ratio (SIR) in Tracy in Years 1995, 1999, 2002, and 2005
+[Hospital discharges related to amphetamine abuse/dependence per 10,000 population in Tracy, CA, 1995 – 2005.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F2/)  
+[Hospital discharges related to amphetamine abuse/dependence per 10,000 population in Tracy, CA, 1995 – 2005.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f2.jpg)  
+
+
+[Intercepts and the credible intervals in the study period](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F3/)  
+[Intercepts and the credible intervals in the study period](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f3.jpg)  
+
+
+[Crude standard incidence ratio (SIR) in Tracy in Years 1995, 1999, 2002, and 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F4/)  
+[Crude standard incidence ratio (SIR) in Tracy in Years 1995, 1999, 2002, and 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f4.jpg)  
 
 
 
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F6/
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f6.jpg
-Width of credible intervals of SIR in Tracy in Years 1995, 1999, 2002, and 2005
+[Fitted standard incidence ratio (SIR) in Tracy in Years 1995, 1999, 2002, and 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F5/)  
+[Fitted standard incidence ratio (SIR) in Tracy in Years 1995, 1999, 2002, and 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f5.jpg)  
 
+
+
+
+
+[Width of credible intervals of SIR in Tracy in Years 1995, 1999, 2002, and 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/figure/F6/)  
+[Width of credible intervals of SIR in Tracy in Years 1995, 1999, 2002, and 2005](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3724536/bin/nihms255570f6.jpg)  
+
+
+
+[WTF Zipcodes](https://github.com/iandees/wtf-zipcodes)  
 
 

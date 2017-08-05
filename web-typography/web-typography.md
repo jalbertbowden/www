@@ -8,6 +8,8 @@
 [Existing Libre/Open Fonts](https://fontlibrary.org/en/guidebook/existing_libre_open_fonts)  
 [Font Library](https://fontlibrary.org/)  
 
+[Fonts - GitHub Showcases](https://github.com/showcases/fonts)  
+
 
 ## [Open Source Fonts and Typefaces](web-typography-open-fonts.md)    
 
@@ -27,3 +29,6 @@ A library to manipulate font files from Python.
 ### [Fontkit]](https://github.com/devongovett/fontkit)  
 [Font Kit Demo Now](https://fontkit-demo.now.sh/)  
 Fontkit is an advanced font engine for Node.js and the browser, used by PDFKit.  
+
+## TODO  
+[Preload Hints for Web Fonts](https://www.bramstein.com/writing/preload-hints-for-web-fonts.html)  

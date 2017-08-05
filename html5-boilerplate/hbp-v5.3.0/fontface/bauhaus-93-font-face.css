@@ -1,0 +1,11 @@
+@font-face {
+	font-family: "bauhaus-93-regular";
+    src: url("bauhaus-93-6274-webfont.eot");
+    src: url("bauhaus-93-6274-webfont.eot?#iefix") format("embedded-opentype"),
+         url("bauhaus-93-6274-webfont.woff2") format("woff2"),
+         url("bauhaus-93-6274-webfont.woff") format("woff"),
+         url("bauhaus-93-6274-webfont.ttf") format("truetype"),
+         url("bauhaus-93-6274-webfont.svg#bauhaus_93regular") format("svg");
+    font-weight: normal;
+    font-style: normal;
+}

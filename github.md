@@ -1,5 +1,7 @@
 # [Github](https://github.com/) Information  
 
+[GitHub Analytics](https://bitdeli.com/)  
+
 ## GitHub and GeoJSON/TopoJSON  
 
 [How to Convert Shapefiles to GeoJSON Maps for Use in GitHub (and Why You Should)](http://ben.balter.com/2013/06/26/how-to-convert-shapefiles-to-geojson-for-use-on-github/)  
