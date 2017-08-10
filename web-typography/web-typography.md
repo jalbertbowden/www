@@ -37,3 +37,11 @@ Fontkit is an advanced font engine for Node.js and the browser, used by PDFKit.
 
 ## TODO  
 [Preload Hints for Web Fonts](https://www.bramstein.com/writing/preload-hints-for-web-fonts.html)  
+
+
+
+# FOSS Fonts List  
+[Open Source Design Fonts](https://github.com/opensourcedesign/fonts)  
+A collection of 100% actually free open source fonts!  
+https://github.com/search?q=topic%3Afree-fonts&type=Repositories
+

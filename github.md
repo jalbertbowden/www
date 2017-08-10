@@ -1,6 +1,11 @@
 # [Github](https://github.com/) Information  
 
 [GitHub Analytics](https://bitdeli.com/)  
+[https://http2.github.io/](https://http2.github.io/)  
+[https://http2.github.io/faq/](https://http2.github.io/faq/)  
+
+
+
 
 ## GitHub and GeoJSON/TopoJSON  
 

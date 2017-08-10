@@ -117,4 +117,10 @@ https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly
 [Learning](https://learning.mozilla.org/en-US/)  
 
 
+[https://qsurvey.mozilla.com/](https://qsurvey.mozilla.com/)
+[https://qsurvey.mozilla.com/s3/tab-center](https://qsurvey.mozilla.com/s3/tab-center)
+
+
+
+
 
