@@ -84,3 +84,14 @@ Geo-referenced data often are collected in small, administrative units such as c
 [WTF Zipcodes](https://github.com/iandees/wtf-zipcodes)  
 
 
+[Zip Code Tweet's Comments](https://twitter.com/slicknet/status/888193691428429824)  
+[Determining Which US Zipcodes Map to More Than One State or More Than One City?](https://gis.stackexchange.com/questions/53918/determining-which-us-zipcodes-map-to-more-than-one-state-or-more-than-one-city)  
+
+
+[Search GIS Stack Exchange for Questions Tagged With "Postal Code"](https://gis.stackexchange.com/questions/tagged/postal-code)  
+[Search GIS Stack Exchange for Questions Tagged With "Zip Codes"](https://gis.stackexchange.com/questions/tagged/zip-codes)  
+
+
+
+
+
