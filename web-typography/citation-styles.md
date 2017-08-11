@@ -19,3 +19,5 @@ Roth, Robert E.; Ross, Kevin S.; MacEachren, Alan M.	2015. "User-Centered Design
 Chicago Manual of Style - Style Online Citation
 https://www.tacoma.uw.edu/sites/default/files/global/documents/library/chicago_manual_of_style_-_online_citations.pdf
 chicago-manual-of-style-style-online-citation
+
+[Signposting the Scholarly Web](http://signposting.org/)  
