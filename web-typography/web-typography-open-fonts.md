@@ -47,3 +47,51 @@ Serif typeface for setting text. Designed to complement Source Sans Pro.
 [Source Han Code JP | 源ノ角ゴシック Code Repository](https://github.com/adobe-fonts/source-han-code-jp)  
 
 
+
+
+
+## FOSS Fonts List  
+[Open Source Design Fonts](https://github.com/opensourcedesign/fonts)  
+A collection of 100% actually free open source fonts!  
+https://github.com/search?q=topic%3Afree-fonts&type=Repositories
+
+## FOSS Fonts/Typography References and Resources    
+[Free Fonts - You Work for Them](https://www.youworkforthem.com/fonts/free)  
+[Free Fonts Fridays - PSD Chat](http://www.psdchat.com/category/resources/fonts/)  
+[Content Labelled "Free" - Hot Fonts](https://thehotfonts.blogspot.com/search/label/free)  
+[Stack Exchange "Fonts" Feed](https://stackexchange.com/filters/8378/fonts)  
+[Fonts - GitHub Showcase](https://github.com/showcases/fonts)  
+[Icon Fonts - GitHub Showcase](https://github.com/showcases/icon-fonts)  
+[Existing Libre/Open Fonts](https://fontlibrary.org/en/guidebook/existing_libre_open_fonts)  
+[Font Library](https://fontlibrary.org/)  
+[Fonts - GitHub Showcases](https://github.com/showcases/fonts)  
+
+## FOSS Fonts/Typography Search  
+
+### GitHub FOSS Searches  
+
+Profiles
+[github.com/adobe-fonts/](https://github.com/adobe-fonts/)  
+
+
+[otf](https://github.com/search?q=topic%3Aotf)
+Repositories
+[](https://github.com/search?q=topic%3Aotf&type=Repositories)  
+
+font
+[](https://github.com/search?q=topic%3Afont&type=Repositories)  
+glyphs
+woff
+opentype
+typeface
+afdko
+[Search GitHub for topic:opentype](https://github.com/search?utf8=%E2%9C%93&q=topic%3Aopentype+&type=Repositories)  
+[Search GitHub for topic:otf](https://github.com/search?utf8=%E2%9C%93&q=topic%3Aotf+&type=Repositories)  
+[Search GitHub for topic:font](https://github.com/search?utf8=%E2%9C%93&q=topic%3Afont+&type=Repositories)  
+
+
+
+
+
+
+
