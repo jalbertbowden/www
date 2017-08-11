@@ -42,6 +42,11 @@
 [Eclipse Labs on Google Code Archive](https://code.google.com/archive/d/eclipselabs.org)  
 [Apache ExtraS on Google Code Archive](https://code.google.com/archive/d/apache-extras.org)  
 
+## [clients5.google.com](https://clients5.google.com/)  
+Existing URL:, [https://clients5.google.com/pagead/drt/dn/](https://clients5.google.com/pagead/drt/dn/) as seens:
+<iframe src="https://clients5.google.com/pagead/drt/dn/" aria-hidden="true" style="display: none;"></iframe>
+
+
 ## [Google Correlate](LINK TO IT IN GOOGLE TRENDS...NOT SURE HOW IN DUMB MARKDOWN)  
 
 ## [Google Design](https://design.google.com/)  
@@ -88,6 +93,9 @@
 [Firebase Docs](https://firebase.google.com/docs/)  
 
 
+
+## [Get.google.com](https://get.google.com)  
+
 ## [Google Help (Support)](https://support.google.com/)  
 
 ## Gmail  
@@ -97,8 +105,9 @@
 ## Google Maps
 [LatLon Blog (Google Maps)](https://blog.google/products/maps/)  
 
-## Google News  
-[Google News](https://news.google.com/)  
+## [My Activity](https://myactivity.google.com/)  
+
+## [Google News](https://news.google.com/)  
 [Share (Google) News Using RSS Feeds](https://support.google.com/news/answer/59255?hl=en)  
 [RSS Feed - Google News](https://news.google.com/news?cf=all&hl=en&pz=1&ned=us&output=rss)  
 
@@ -148,6 +157,9 @@ Please note that since October 2nd, 2012, Google is not actively supporting this
 ## URLS  
 [Spreadsheets](https://spreadsheets.google.com)  
 
-
+[googleapis.com](https://googleapis.com) 
+[storage.googleapis.com](https://storage.googleapis.com)  
+[googleusercontent.com](https://googleusercontent.com/)  
+[lh3.googleusercontent.com/](https://lh3.googleusercontent.com/)  
 
 
