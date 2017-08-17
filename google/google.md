@@ -23,6 +23,11 @@
 ## Google Ads Developer  
 [Google Ads Developer Blog](https://googleadsdeveloper.blogspot.com/)  
 
+## [Google Alerts](https://www.google.com/alerts)  
+Google Alerts. An Alert can watch the news, the web, or both. It can also watch Google Groups.  
+[Create an Alert](https://support.google.com/websearch/answer/4815696?visit_id=1-636382471081197713-147093414&hl=en&rd=1)  
+
+
 ## [AMP - Accelerated Mobile Pages](https://www.ampproject.org/)  
 [YouTube Account](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw)  
 
@@ -34,26 +39,29 @@
 
 ## [Google Careers](https://careers.google.com/)  
 
+## [clients5.google.com](https://clients5.google.com/)  
+Existing URL:, [https://clients5.google.com/pagead/drt/dn/](https://clients5.google.com/pagead/drt/dn/) as seen:
+&#60;iframe src="https://clients5.google.com/pagead/drt/dn/" aria-hidden="true" style="display: none;"&#62;&#60;/iframe&#62;
+
 ## [Google Cloud Platform](https://cloud.google.com/)  
 
-## Google Code  
+## [Google Code](https://code.google.com/)  
 [Google Code Archive](https://code.google.com/archive/)  
 [Google Code Archive....on Google Code Archive](https://code.google.com/archive/d/code.google.com)  
 [Eclipse Labs on Google Code Archive](https://code.google.com/archive/d/eclipselabs.org)  
 [Apache ExtraS on Google Code Archive](https://code.google.com/archive/d/apache-extras.org)  
 
-## [clients5.google.com](https://clients5.google.com/)  
-Existing URL:, [https://clients5.google.com/pagead/drt/dn/](https://clients5.google.com/pagead/drt/dn/) as seens:
-<iframe src="https://clients5.google.com/pagead/drt/dn/" aria-hidden="true" style="display: none;"></iframe>
-
 
 ## [Google Correlate](LINK TO IT IN GOOGLE TRENDS...NOT SURE HOW IN DUMB MARKDOWN)  
+
+## [Custome Search Engine (CSE)](https://cse.google.com/)  
+[My Custom Search Engines](https://cse.google.com/cse/all)  
 
 ## [Google Design](https://design.google.com/)  
 [YouTube Account](https://www.youtube.com/channel/UClKO7be7O9cUGL94PHnAeOA)  
 
-## Google Developers](https://developers.google.com)  
-[Code Labs](https://codelabs.developers.google.com)  
+## [Google Developers](https://developers.google.com)  
+[Code Labs - Google Developers](https://codelabs.developers.google.com)  
 
 
 ## [Google Drive](https://drive.google.com/)
@@ -67,15 +75,13 @@ Existing URL:, [https://clients5.google.com/pagead/drt/dn/](https://clients5.goo
 [D4G: Doodle for Google](https://doodles.google.com/d4g/)  
 [Google Doodle Archive](https://www.google.com/doodles#archive)  
 
-## Google Developers  
+## [Google Developers](https://developers.google.com/)  
 [All Products](https://developers.google.com/products/)  
 [Google Developers - YouTube](https://www.youtube.com/user/GoogleDevelopers)  
 
-### Google Developers - Google Ads
-[Ads - Google Developers](https://developers.google.com/ads/)  
+### [Google Developers - Ads](https://developers.google.com/ads/)  
 
-### Android - Google Developers
-[Android - Google Developers](https://developer.android.com/index.html)  
+### [Google Developers - Android](https://developer.android.com/index.html)  
 
 ### Google Chrome Developers  
 [YouTube Account](https://www.youtube.com/user/ChromeDevelopers)  
@@ -157,9 +163,16 @@ Please note that since October 2nd, 2012, Google is not actively supporting this
 ## URLS  
 [Spreadsheets](https://spreadsheets.google.com)  
 
-[googleapis.com](https://googleapis.com) 
+## URLs Not on google.com  
+
+### [Google Syndication](https:googlesyndication.com/)  
+[Page Ad 2 - Google Syndication](https:pagead2.googlesyndication.com/)  
+[Ads by Google JS (<code>adsbygoogle.js</code>) - Page Ad 2](https:pagead2.googlesyndication.com/pagead/js/adsbygoogle.js)  
+
+### [googleapis.com](https://googleapis.com) 
 [storage.googleapis.com](https://storage.googleapis.com)  
-[googleusercontent.com](https://googleusercontent.com/)  
+
+### [googleusercontent.com](https://googleusercontent.com/)  
 [lh3.googleusercontent.com/](https://lh3.googleusercontent.com/)  
 
 
