@@ -175,4 +175,8 @@ Please note that since October 2nd, 2012, Google is not actively supporting this
 ### [googleusercontent.com](https://googleusercontent.com/)  
 [lh3.googleusercontent.com/](https://lh3.googleusercontent.com/)  
 
+### [gstatic.com](https://www.gstatic.com/)  
+[As seen: https://www.gstatic.com/images/icons/material/product/2x/chrome_chromium_64dp.png](https://www.gstatic.com/images/icons/material/product/2x/chrome_chromium_64dp.png)  
+
+
 
