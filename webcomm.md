@@ -39,3 +39,10 @@ The intention of OSM go is to motivate new people to use OpenStreetMap as a usef
 [Weekly OSM](http://umap.openstreetmap.fr/en/map/weeklyosm-is-currently-produced-in_56718#2/32.7/97.4)  
 [@weeklyOSM](https://twitter.com/weeklyOSM)  
 [Weekly OSM](http://www.weeklyosm.eu/)  
+
+
+## Stack Overflow Community  
+[Stack Printer](http://www.stackprinter.com/)  
+
+
+
