@@ -10,6 +10,12 @@
 [Google Open Source](https://opensource.google.com/)  
 
 
+[Google Contacts](https://contacts.google.com/)  
+[Google Contacts - Old Version](https://www.google.com/contacts/u/0/?cplus=1#contacts)  
+
+
+
+
 
 
 
@@ -34,6 +40,8 @@ Google Alerts. An Alert can watch the news, the web, or both. It can also watch 
 ## [Answers](http://answers.google.com/)  
 
 ## [Blog](https://blog.google/)  
+
+## [Google Bookmarks](https://www.google.com/bookmarks/)  
 
 ## [Google Books](google-books.md)  
 
@@ -112,6 +120,10 @@ Existing URL:, [https://clients5.google.com/pagead/drt/dn/](https://clients5.goo
 [LatLon Blog (Google Maps)](https://blog.google/products/maps/)  
 
 ## [My Activity](https://myactivity.google.com/)  
+
+
+## [Google Notebook](https://www.google.com/googlenotebook/faq.html)  
+
 
 ## [Google News](https://news.google.com/)  
 [Share (Google) News Using RSS Feeds](https://support.google.com/news/answer/59255?hl=en)  

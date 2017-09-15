@@ -47,5 +47,5 @@ Just discovered: the DOI resolver from @CrossrefOrg offers content negotiation, 
 
 
 
-
+[DataCite Metadata Google Group](https://groups.google.com/forum/?hl=en&fromgroups#!forum/datacite-metadata)  
 [DataCite Schema (PDF)](https://schema.datacite.org/meta/kernel-4.0/doc/DataCite-MetadataKernel_v4.0.pdf)  

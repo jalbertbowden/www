@@ -272,3 +272,180 @@ The Global Food Prices Database has data on food prices (e.g., beans, rice, fish
 
 
 ## [Remote Sensing and Geographic Information Systems (RS/GIS) Data Sites - Data Sources on the Internet - CHAART](https://geo.arc.nasa.gov/sge/health/links/links.html)  
+
+
+
+
+[http://www.navigationdatacenter.us/db/gisviewer/](http://www.navigationdatacenter.us/db/gisviewer/)  
+[https://maps.bts.dot.gov/services/rest/services/NTAD](https://maps.bts.dot.gov/services/rest/services/NTAD)  
+[https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2015/index.html](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/2015/index.html)  
+[https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/index.html](https://www.rita.dot.gov/bts/sites/rita.dot.gov.bts/files/publications/national_transportation_atlas_database/index.html)  
+
+
+[Diversity Data](http://diversitydata.org/)  
+data for diverse and equitable metropolitan areas
+
+[A-Z Databases: Data / Statistics - UCF Libraries](http://guides.ucf.edu/az.php?t=2210)  
+
+[Mental Health Data and Statistics - CDC](https://www.cdc.gov/mentalhealth/data-stats.htm)  
+[Data Surveillance Systems - CDC](https://www.cdc.gov/mentalhealth/data_stats/surveillance.htm)  
+
+[Health Data Tools and Statistics - Partners in Information Access for the Public Health Workplace](https://phpartners.org/health_stats.html)
+[Feed](https://phpartners.org/rss_for_page649.xml)  
+
+[HMDA - Home Mortgage Disclosure Act - FFIEC](https://www.ffiec.gov/hmda/default.htm)
+
+[Africam Mammals Database](http://www.africam.com/wildlife/africammammalsdatabase)
+[Sounds of Africam Mammals and Frogs & Toads](http://www.africam.com/wildlife/soundsafricammammalsfrogstoads)  
+[Africam Birds Database](http://www.africam.com/wildlife/africambirdsdatabase)  
+[Sounds of Africam Birds](http://www.africam.com/wildlife/soundsafricambirds)  
+
+[Ocean Exploration Data - NOAA Ocean Explorer](http://oceanexplorer.noaa.gov/data.html)  
+[Digital Atlas - Discover the World of Data and Information - NOAA Ocean Exploration and Research](https://www.ncddc.noaa.gov/website/google_maps/OE/mapsOE.htm)
+[GIS & Other Products - NOAA Office of Coast Survey](https://www.nauticalcharts.noaa.gov/staff/gisintro.htm)  
+
+[USDA NIFA Data Gateway](https://nifa.usda.gov/data)  
+
+
+[World Lake Database](http://wldb.ilec.or.jp/)  
+[GEMS/Global Water Data Centre](http://www.bafg.de/GRDC/EN/05_cllbrtn/53_prtnrcntrs/gemswater.html)  
+[Surface Water and Ocean Topography (SWOT)](https://swot.jpl.nasa.gov/)  
+Water surface elevation measured by satellite interferometric altimetry)  
+[Global Reservoirs/Lakes Monitor (G-REALM)](https://www.pecad.fas.usda.gov/cropexplorer/global_reservoir/)  
+Pseudo real-time lake surface height variation measurement by satellite altimetry
+Foreign Agricultural Service/United States Department of Agriculture    
+[Global Lakes & Reservoirs Repository](http://worldlake-db.com)  
+Provides Vector/Raster Data of Lake Shape  
+[National Lakes Assessment](https://www.epa.gov/national-aquatic-resource-surveys/nla)  
+A part of National Aquatic Resource Surveys by US EPA  
+[Lakes Online](http://www.lakesonline.com)  
+Lakes in the United States  
+[International Data Centre on Hydrology of Lakes and Reservoirs](http://www.hydrolare.net)  
+Data on Hydrology of World Lakes and Reservoirs
+HYDROLARE/the State Hydrological Institute (St Petersburg, Russia)  
+[Ezeri.lv database](https://www.ezeri.lv)  
+Database of lakes in Latvia  
+[Ramsar: Homepage](http://www.ramsar.org)  
+
+
+[Urban Transition Historical GIS Project](https://s4.ad.brown.edu/Projects/UTP/index.htm)
+
+[H-CUP - NOTE: THIS IS NOT OPEN DATA AKA #noopendata](https://www.hcup-us.ahrq.gov/)  
+HCUP User Support (HCUP-US)
+The HCUP (pronounced "H-CUP") family of health care databases and related software tools and products is made possible by a Federal-State-Industry partnership sponsored by the Agency for Healthcare Research and Quality (AHRQ).  
+The Healthcare Cost and Utilization Project (HCUP) includes the largest collection of longitudinal hospital care data in the United States.  
+[H-CUP Databases](https://www.hcup-us.ahrq.gov/databases.jsp)
+
+[PSD Gridded Climate Datasets: All](https://www.esrl.noaa.gov/psd/data/gridded/)  
+[Reanalysis Datasets at PSD](https://www.esrl.noaa.gov/psd/data/gridded/reanalysis/)  
+[Global Change Master Directory - GCMD GSFC NASA](https://gcmd.gsfc.nasa.gov/index.html)  
+
+[National Quality Measures Clearinghouse](https://qualitymeasures.ahrq.gov/)  
+AHRQ's National Quality Measures Clearinghouse is a public resource for summaries of evidence-based quality measures and measure sets. NQMC also hosts the HHS Measures Inventory.  
+
+[Measures Inventory - U.S. Department of Health & Human Services](https://qualitymeasures.ahrq.gov/hhs/inventory.aspx)  
+The HHS Measures Inventory is a repository of measures in use or in development by the agencies of the U.S. Department of Health and Human Services for quality measurement, improvement, and reporting. The Inventory, hosted by NQMC, includes active measures in use, archived measures that were once active but are no longer, and measures not in use but are being considered for use (i.e., "pipeline" measures).  
+
+[Data Resources - AHRQ](https://www.ahrq.gov/research/data/index.html)  
+[United States Health Information Knowledgebase (USHIK)](https://ushik.ahrq.gov/mdr/portals)  
+The United States Health Information Knowledgebase (USHIK) is a metadata registry of healthcare-related data standards funded and directed by the Agency for Healthcare Research and Quality (AHRQ) with management support in partnership with the Centers for Medicare & Medicaid Services.
+
+[Socio-Economic Data and Scenarios Data Distribution Centre (DDC)](http://sedac.ipcc-data.org/ddc/)
+
+[Environmental Performance Index (EPI)](http://epi.yale.edu/)
+The Environmental Performance Index (EPI) ranks countries' performance on high-priority environmental issues in two areas: protection of human health and protection of ecosystems.  
+[SocioEconomic Data and Applications Center (SEDAC)](http://sedac.ciesin.columbia.edu/)
+
+[National Toxicology Program (NTP)](https://ntp.niehs.nih.gov/results/dbsearch/index.html)
+
+[Data, Tools and Statistics](https://www.nlm.nih.gov/hsrinfo/datasites.html)
+
+[National Gap Analysis Program (GAP)](https://gapanalysis.usgs.gov/
+
+## Real Estate Data
+[Zillow Data](https://www.zillow.com/research/data/)  
+[Zillow Neighborhood Boundary Shapefiles](https://www.zillow.com/howto/api/neighborhood-boundaries.htm)
+
+[Injury Data and Statistics - NCHS CDC](https://www.cdc.gov/nchs/injury/index.htm)
+[NCHS Databases](https://www.cdc.gov/nchs/injury/injury_databases.htm)  
+[Medicare Coverage Database](https://www.cms.gov/medicare-coverage-database/overview-and-quick-search.aspx)
+
+
+[CIESIN - Center for International Earth Science Information Network](http://www.ciesin.org/data.html)  
+
+[Estuarie Bathymetry - http://estuarinebathymetry.noaa.gov/](http://estuarinebathymetry.noaa.gov/)  
+
+[DataLumos](https://www.datalumos.org/datalumos/)  
+DataLumos is an ICPSR archive for valuable government data resources. ICPSR has a long commitment to safekeeping and disseminating US government and other social science data. DataLumos accepts deposits of public data resources from the community and recommendations of public data resources that ICPSR itself might add to DataLumos.  
+
+[Open ICPSR](https://www.openicpsr.org/openicpsr/)  
+
+[NCIPC’s WISQARS](http://www.cdc.gov/injury/wisqars)  
+[NCHS’ Injury Data and Resources](http://www.cdc.gov/nchs/injury.htm)  
+[NIOSH’s Work-RISQS](http://www2a.cdc.gov/risqs/)  
+[CDC’s WONDER]((http://wonder.cdc.gov/)  
+[AHRQ’s HCUP data documentation](http://hcupnet.ahrq.gov/)  
+[NHTSA/HRSA/CDC’s NEMSIS](http://www.nemsis.org)  
+[Armed Forces Health Surveillance Center](http://www.afhsc.army.mil)  
+[California’s EPIC System](http://www.applications.dhs.ca.gov/epicdata/)  
+[Wisconsin’s WISH System](http://dhfs.wisconsin.gov/wish/index.htm)  
+[Colorado’s Health Information Dataset (COHID)](http://www.cdphe.state.co.us/cohid/)  
+[Minnesota’s MIDAS](http://www.health.state.mn.us/injury/midas/)  
+[Oklahoma’s OK2SHARE](http://www.health.ok.gov/ok2share/)  
+[Other state systems](http://www.injurycontrol.com/icrin/stats.htm)  
+
+[Inventory of National Injury Data Systems](https://www.cdc.gov/injury/wisqars/inventoryinjurydatasys.html)  
+
+[U.S. Fire Administration (USFA) Data, Publications, and Library](https://www.usfa.fema.gov/data/)  
+
+[NWS National Mosaic](https://radar.weather.gov/Conus/)
+[NWS CONUS Loop Animated GIF Directory](https://radar.weather.gov/Conus/Loop/)
+[NWS CONUS Loop Animated GIF](https://radar.weather.gov/Conus/Loop/NatLoop.gif)
+[NWS Radar Mosaic - Northeast Sector](https://radar.weather.gov/Conus/Loop/northeast_loop.gif)  
+
+[High Resolution Settlement Layer (HRSL - CIESIN)](https://ciesin.columbia.edu/data/hrsl/)
+
+[Land Process Distributed Active Archive Center (LP DAAC)](https://lpdaac.usgs.gov/)  
+The LP DAAC operates as a partnership between the U.S. Geological Survey (USGS) and the National Aeronautics and Space Administration (NASA) and is a component of NASA’s Earth Observing System Data and Information System (EOSDIS). Data specialists, system engineers, user service representatives, and outreach staff work together to support LP DAAC activities and distribute data to the remote sensing community.  
+
+
+[LP DAAC Tools](https://lpdaac.usgs.gov/tools)  
+[LP DAAC Data Access](https://lpdaac.usgs.gov/tools/data_access)
+
+[Tools & Links - FEMA Mapping Information Platform](https://hazards.fema.gov/femaportal/wps/portal/!ut/p/a1/04_Sj9CPykssy0xPLMnMz0vMAfGjzOINLIx8zcwDgt2dDNw9fHy9DT0NDSAAqCASpAAHcDQgpD9cPwpFibOFgbORu4GTqTHMDJgC3FZ46Uel5-QngZ0b6ZiXZGyRrh9VlJqWWpRapFdaBBTOKCkpsFI1UDXISKxKLEop1ktLzU3US88vUzXApicjv7gEqAlNrX5BboRBlmlOmY-joiIAw_RwXg!!/dl5/d5/L2dJQSEvUUt3QS80SmlFL1o2XzA4Mk02N1BTR0IwR0hMTUtURTEwMDAwMDAw/)
+
+[National Flood Insurance Program: Flood Hazard Mapping](https://www.fema.gov/national-flood-insurance-program-flood-hazard-mapping)
+[FEMA Hazards ESRI ArcGIS Server](http://hazards.fema.gov/gis/nfhl/rest/services/public/NFHL/MapServer/0)
+[Model and Data Inventory - FEMA GIS](http://gis.fema.gov/Model-and-Data-Inventory/)
+
+[MGRS (Military Grid Reference System) Data](http://mgrs-data.org/)  
+ 
+[NPL Superfund Footprint Manager Layer Guide](http://superfund.ciesin.columbia.edu/sfmapper/help/LayerGuide.htm)  
+
+[WELD: Web-Enabled Landsat Data](https://weld.cr.usgs.gov/)  
+[United States Interagency Elevation Inventory](https://coast.noaa.gov/inventory/)  
+
+## [GeoPlatform.gov - Geospatial Platform - Data Sources](https://www.geoplatform.gov/)  
+[https://www.geoplatform.gov/services](https://www.geoplatform.gov/services)  
+[GeoPlatform Data Search](https://ckan.geoplatform.gov/)  
+[Glossary of Terms](https://www.geoplatform.gov/glossary-of-terms/)  
+[Maps](https://maps.geoplatform.gov/#/maps)  
+[Marketplace](https://marketplace.geoplatform.gov/#/)  
+[http://wayback.archive.org/web/20170427085403/https://nces.ed.gov/ccd/ccddata.asp](http://wayback.archive.org/web/20170427085403/https://nces.ed.gov/ccd/ccddata.asp)  
+[https://cms.geoplatform.gov/help/index.html?use_marketplace_data_search.htm](https://cms.geoplatform.gov/help/index.html?use_marketplace_data_search.htm)  
+[CMS](https://cms.geoplatform.gov/)  
+[Applications and Services](https://www.geoplatform.gov/applications-and-services/)  
+[GeoPlatform.gov](https://www.geoplatform.gov/) web applications and services give users interactive tools to perform useful tasks that exploit shared National geospatial data, such as creating a shared Open Map, building an Open Map Gallery for your website, harvesting maps from ArcGIS Online, and more.  
+
+[DataSets - Vanderbilt Department of Biostatistics](http://biostat.mc.vanderbilt.edu/DataSets)  
+[Biodiversity data from Biodiversity Information Serving Our Nation](bison.usgs.ornl.gov)  
+[Ecosystem Services from the EnviroAtlas](enviroatlas.epa.gov)  
+[Land Cover and Land Use Change from the Multi-Resolution Land Cover Characteristics Consortium](www.mrlc.gov)  
+
+[Data and Statistics about the United States - usa.gov](https://www.usa.gov/statistics)  
+
+[Hospital Compare Datasets](https://data.medicare.gov/data/hospital-compare)
+
+[SNAP Stanford Large Network Dataset Collection](https://snap.stanford.edu/data/)  
+
+

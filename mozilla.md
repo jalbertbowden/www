@@ -9,7 +9,8 @@
 
 [Mozilla on GitHub](https://github.com/mozilla)
 [Mozilla Campus Clubs](https://campus.mozilla.community/)
-[MDN](https://developer.mozilla.org/en-US/)
+[MDN](https://developer.mozilla.org/en-US/)  
+[MDN Samples](https://mdn-samples.mozilla.org/)  
 [Mozilla Reps (ReMo) Wiki](https://wiki.mozilla.org/ReMo)  
 [Mozilla Reps](https://reps.mozilla.org/)  
 
