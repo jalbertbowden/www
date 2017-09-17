@@ -9,7 +9,7 @@
 Meta-Wiki is the global community site for Wikimedia Projects and the Wikimedia Movement in general. Meta-Wiki's discussions range from coordination and documentation to planning and analysis of future Wikimedia activities.  
 Other meta-focused wikis such as Wikimedia Outreach are specialized projects that have their roots in Meta-Wiki. Related discussion also takes place on Wikimedia mailing lists (particularly wikimedia-l, with its low-traffic equivalent WikimediaAnnounce), IRC channels on freenode, individual wikis of Wikimedia affiliates, and other places.
 
-
+[Wikimedia Research Newsletter](https://meta.wikimedia.org/wiki/Research:Newsletter)  
 
 
 ## Wikimedia Movement  
