@@ -1,0 +1,1238 @@
+{
+	"definitionTitle":"A–16 NGDA Portfolio",
+	"definitionContent":"A group of NGDA Themes, each of which is comprised of related NGDA Datasets selected from a much larger and continually changing universe of geospatial datasets. Only a select subset of these will rise to the significance required for NGDA Dataset designation as recommended by the relevant NGDA Theme Lead, concurred on by the FGDC Coordination Group, and designated by the FGDC Steering Committee.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"A-16 Stakeholder Community",
+	"definitionContent":"A group of individuals and (or) agencies that affect or are affected by A–16 themes and associated datasets. This group is composed of Federal agency partners, including State, tribal, and local governments, the private and nonprofit sectors, academia, and the public at-large.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Access",
+	"definitionContent":"Making data produced known and retrievable to the community through documentation and discovery mechanisms so the users can meet their business requirements (stage 4 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Acquisition Planning",
+	"definitionContent":"The process by which all acquisition-related disciplines of an acquisition program are developed, coordinated, and integrated into a comprehensive plan for executing the program and meeting the stated requirements within the cost and schedule boundaries.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Administrative and Political Boundaries",
+	"definitionContent":"The Administrative and Political Boundaries channel accommodates the voluminous universe of geospatial boundary types, including governmental unit boundaries, statistical tabulation boundaries, marine boundaries, and administrative areas. Examples of administrative and political boundaries include State and county boundaries, voting districts, Federally owned and managed lands, local tax districts, school districts, flood zones, empowerment and enterprise zones, American Indian trust lands, and minor civil divisions. The administrative and political boundaries channel is maintained by the U.S. Census Bureau.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Agriculture and Farming",
+	"definitionContent":"The Agriculture and Farming category Web page was authored by the geodata.gov development team in May 2003.Typical keywords are agriculture, irrigation, aquaculture, plantation, crops, herding, pests, diseases, or livestock.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Agriculture and Food",
+	"definitionContent":"The Agriculture and Food sector comprises systems of individual assets that are closely dependent upon each other. Because of its complexity, the sector has struggled to identify its most critical assets, systems, networks, and functions. Although the sector understands its individual systems and basic interrelationships, the challenge has been to understand the complexities and interdependencies across the farm-to-table continuum on national and regional scales. The Agriculture and Food sector has extensive, open, widely dispersed, diverse, and complex interdependent systems; therefore, the physical asset-based approach may not fit the Agriculture and Food sector.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Annual Reporting",
+	"definitionContent":"The submission of progress reports on the NSDI that are made by theme lead agencies to the FGDC to fulfill the yearly reporting requirements of OMB Circular A–16",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Archive",
+	"definitionContent":"Required retention of data and the data’s retirement into long-term storage (stage 7 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Asset Lifecycle Management",
+	"definitionContent":"The management of an asset (both data and services assets) covering all phases of acquisition, operation, and logistics support of an item, beginning with concept definition and continuing through disposal of the asset.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Atmosphere and Climate",
+	"definitionContent":"Climate data describe the spatial and temporal characteristics of Earth’s atmosphere/hydrosphere/land surface system. These data represent both model-generated and observed (either in situ or remotely sensed) environmental information, which can be summarized to describe surface, near surface, and atmospheric conditions over a range of scales. Typical keywords are cloud cover, weather, climate, atmospheric conditions, climate change, atmosphere, air, sky, or precipitation.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Banking and Finance",
+	"definitionContent":"The Banking and Finance sector may be divided into several functions: deposit and payments systems; credit and liquidity products; investment products; and risk transfer products. Various members of the Financial and Banking Information Infrastructure Committee (FBIIC) regulate each of these functions. The financial regulators, through their oversight authority, obtain a vast amount of information on institutions, critical assets and processes, and potential vulnerabilities. Sector-wide risks assessments are process-driven and address interdependence. Individual institutions also conduct their own risk assessments to identify and mitigate internal vulnerabilities and external dependencies. The Treasury Department, through collaboration and insights obtained from the members of the FBIIC, gathers sector-specific information. Although the definition of asset data is limited to the categories collected by the regulators, regulatory examinations and trade association surveys are thorough and provide adequate information for defining financial assets. General information for assets may include the following (as appropriate): • Asset name, mailing address, physical location,owner and (or) operator name; • Function or type of transaction – deposit and payments systems; credit and liquidity products, including investment and risk transfer; • Geographic region and financial center; • Number of employees; • Economic contribution – total market value of financial transactions conducted by or through the asset on a daily, weekly, monthly, and yearly basis; • International considerations; • Existing and planned protective measures; • Membership in a regional partnership or Information Sharing and Analysis Center (ISAC); • Dependence on other sectors – Communications, Energy, Information Technology, and Transportation; • Interaction with other assets (that is, other critical national assets directly and indirectly affected by the operation of each asset); • Backup capability – location and function of backup facilities (data center and business resumption); and • Substitutability – whether other industry systems or infrastructures would be able to serve the same function. Intangible assets, such as systems, databases, or networks, are linked to physical assets and locations. Systemically significant assets are stratified by their examination agency with respect to criticality to the financial services sector as a whole.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Baseline (mMritime)",
+	"definitionContent":"Baseline (maritime) represents the line from which maritime zones and limits are measured. Examples of these limits include the territorial sea, contiguous zone, and exclusive economic zone. The spatial extent of the baseline is defined as “ordinary low water,” interpreted to mean lower low water, as depicted on National Ocean Service nautical charts and (or) appropriate supplemental information.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Bathymetry",
+	"definitionContent":"The measurement of the depth of bodies of water.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Biological Resources",
+	"definitionContent":"Biological resources include data pertaining to, or descriptive of, (nonhuman) biological resources and their distributions and habitats, including data at the suborganismal (genetics, physiology, anatomy, and so forth), organismal (subspecies, species, systematics), and ecological (populations, communities, ecosystems, biomes, and so forth) levels.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Biology and Ecology",
+	"definitionContent":"The Biology and Ecology category Web page was authored by the National Biological Information Infrastructure (NBII) knowledge management team. These data pertain to, or are descriptive of (nonhuman) biological resources and their distributions and habitats, including data at the suborganismal (genetics, physiology, anatomy, and so forth), organismal (subspecies, species, systematics), and ecological (populations, communities, ecosystems, biomes, and so forth) levels.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Budget Planning",
+	"definitionContent":"Tactical or operational financial planning.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Buildings and Facilities",
+	"definitionContent":"The facility theme includes Federal sites or entities with a geospatial location deliberately established for designated activities; a facility database might describe a factory, military base, college, hospital, powerplant, fishery, national park, office building, space command center, or prison. Facility data are submitted from several agencies because there is no one party responsible for all the facilities in the Nation and because facilities encompass a broad spectrum of activities. The FGDC promotes standardization of database structures and schemas to the extent practical.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Business and Economics",
+	"definitionContent":"The Business and Economic category Webpage has been managed since June 2004 by Professor Grant Thrall of the University of Florida, and a team representing the American Real Estate Society (ARESnet.org). If you are new to this site, one might first check out the collection of links on Downloadable Data—Featured Real Estate and Business Geography. Metadata there includes keywords that one can use to query with the Geospatial One-Stop (GOS) search engine. Typical keywords are income, wage, production, labor, revenue, commerce, housing, office, retail, unemployment, industry, population.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cadastral",
+	"definitionContent":"Cadastral data describe the geographic extent of past, current, and future right, title, and interest in real property, and the framework to support the description of that geographic extent. The geographic extent includes survey and description frameworks, such as the Public Land Survey System, as well as parcel-by-parcel surveys and descriptions.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cadastral",
+	"definitionContent":"The Cadastral category Web page is maintained by the FGDC Subcommittee for Cadastral Data. Cadastral data describe the geographic extent of past, current, and future right, title, and interest in real property, and the framework to support the description of that geographic extent. The geographic extent includes survey and description frameworks, such as the Public Land Survey System, as well as parcel-by-parcel surveys and descriptions. Offshore Cadastre is the land management system used on the Outer Continental Shelf. It extends from the baseline to the extent of U.S. jurisdiction. Existing coverage is currently limited to the conterminous United States and portions of Alaska. Maximum extent of U.S. jurisdiction is not yet mathematically calculated.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cadastral (Offshore)",
+	"definitionContent":"Offshore cadastre is the land management system used on the Outer Continental Shelf. It extends from the baseline to the extent of U.S. jurisdiction. Existing coverage is currently limited to the conterminous United States and portions of Alaska. The maximum extent of U.S. jurisdiction is not yet mathematically calculated.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cadastral Data",
+	"definitionContent":"The data representing the cadastre.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cadastre",
+	"definitionContent":"A public record, survey, or map of the value, extent, and ownership of land as a basis of taxation.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Catalog",
+	"definitionContent":"A collection of entries, each of which describes and points to a feature collection or a service (often used as synonym for register).",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Chemical",
+	"definitionContent":"Information regarding Chemical sector infrastructure for inclusion in the National Asset Database (NADB) includes the following: • Regulated chemicals produced or stored onsite; • Annual production quantity of regulated chemicals; • Quantity of regulated chemicals stored onsite; • Existance of an U.S. Environmental Protection Agency (EPA) risk management plan (RMP); • Regulated chemicals transported; • Quantity of regulated chemicals transported; • Facility security officer designated under MTSA regulations (where applicable); and • Facility emergency coordinator as identified to the local emergency planning committee (LEPC) and the State emergency response commission (SERC) pursuant to EPCRA section 303 (where applicable). The U.S. Department of Homeland Security (DHS) works with sector security partners through the Communications Government Coordinating Council (CGCC) and the Communications sector Coordinating Council (CSCC) to identify what other data fields are required to accomplish critical infrastructure and key resources (CI/KR) protection activities in the Chemical sector using a risk-informed approach. Some potential data fields include: • Dependencies and interdependencies (for example, the energy supply needed by chemical facilities, facilities requiring chemicals for wastewater treatment); • Primary area of industry end products (for example, organic, inorganic, and agricultural); • Other areas of industry end products (for example, organic, inorganic, and agricultural); • Region or service area (for example, Midwest, South, international); • Membership in the Chemical Information Sharing and Analysis Center (ISAC) or a chemical industry association; • Names of companies that provide the facility with hazardous materials transport services; • Continuity and redundancy to include backups built into the asset; • Impact on sectors (both Chemical and other CI/KR sectors) in case of loss or failure; • Existing protective measures; • Population distribution in the area surrounding the facility; • Terrain (vegetation, elevation) in the area surrounding the facility; • Land use in the area surrounding the facility; • Imagery and spatial data of the area surrounding the facility; • Structures and lines of sight to the facility; • Other critical assets in the area surrounding the facility; and • Access controls for the facility.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Climate",
+	"definitionContent":"Climate data describe the spatial and temporal characteristics of Earth’s atmosphere/hydrosphere/land surface system. These data represent both model-generated and observed (either in situ or remotely sensed) environmental information, which can be summarized to describe surface, near surface, and atmospheric conditions over a range of scales.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Commercial Facilities",
+	"definitionContent":"Several of the Commercial Facilities sub-sectors have identified the following attributes of interest for commercial facilities: • Facility location – general geographic situation (for example, financial district, industrial park); • Facility proximity – proximity to high-risk enterprises (for example, adjacency to an iconic landmark or important Federal building); • Facility size – height, footprint, number of floors, public areas; • Facility type – purpose or use of the facility (for example, office building, stadium, hotel, amusement park); • Facility functions – types of events held in the facility (for example, sporting events, political conventions, controversial exhibitions); and • Facility value – iconic and economic status of the facility (for example,.historical status, height, owner, tenants, clientele). The Commercial Facilities sector-specific agencies (SSAs) will work with each sub-sector to help identify and refine the categories of information sought for different commercial facility asset types. The types of information sought for inclusion in the National Asset Database (NADB) will then be updated accordingly.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Common Operating Picture (COP)",
+	"definitionContent":"A single identical display of relevant information shared by more than one organization. A COP facilitates collaborative planning and assists all echelons to achieve situational awareness.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Communications",
+	"definitionContent":"The complexity of sector assets, indepth corporate security programs, technology, and the numerous systems that make up the communications infrastructure help reduce the likelihood of a significant national-level network failure. For example, resiliency is achieved through the technology and redundancy employed in designing networks, and by encouraging customers to employ diverse primary and backup communications capabilities. Communications network architects employ technology and protocols (for example, Synchronous Optical Network (SONET) rings, and routing protocols), creating effective “self-healing” networks, and helping to mitigate risk at the design stage. Sector owners and operators focus on ensuring overall network reliability, maintaining “always on” capabilities for customers, and quickly restoring capabilities following a disruption. Data parameters for the sector will be defined primarily by the architecture elements of assets, systems, networks, and functions. Architectural elements in the Communications sector include the following: • Assets – shared assets and systems owned and operated by multiple companies Includes facilities in which equipment is collocated and systems shared by network operators, and equipment is owned and operated by the end user or located at the end user’s facility. Customers include individuals, organizations, businesses, and government. • Systems – signaling and control systems that exchange information about establishing a connection and control the management of the network; these systems access, primarily, the local portion of the network t end users to the backbone that enables users to send or receive communications. Access includes equipment and systems, such as Public Switched Telephone Network (PSTN) switches, Asynchronous Transfer Mode (ATM) switches, video servers for video on demand, and Internet Protocol (IP) routers for Internet service providers (ISPs). • Networks – core network/Internet backbone elements of the communications network that represent high-capacity network elements that servicing service regional, national, and international connectivity. • Functions – as defined in the National Infrastructure Protection Plan (NIPP), service, process, capability, or operations performed by specific infrastructure assets, systems, or networks.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Community Of Interest (COI)",
+	"definitionContent":"Group of individuals and (or) agencies that exchange information in pursuit of common goals, missions, or business processes.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Community of Practice (CoP)",
+	"definitionContent":"A group of individuals and (or) agency geospatial practitioners who promote collaboration of people and efforts around a common issue, topic, goal, or objective.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Coverage",
+	"definitionContent":"A function to return values from its range for any direct position within its spatial, temporal, or spatiotemporal domain (for example, include a raster image or a digital elevation model or a satellite image). See also feature (ISO 19123:2005(E)).",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cultural and Demographic Statistics",
+	"definitionContent":"These geospatially referenced data describe the characteristics of people; the nature of the structures in which they live and work; the economic and other activities they pursue; the facilities they use to support their health, recreational, and other needs; the environmental consequences of their presence; and the boundaries, names, and numeric codes of geographic entities used to report the information collected.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cultural Resources",
+	"definitionContent":"Cultural resources include historic places, such as districts, sites, buildings, and structures of significance in history, architecture, engineering, or culture. Cultural resources also encompass prehistoric features, as well as historic landscapes.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Culture, Society and Demographics",
+	"definitionContent":"The Cultural, Society, and Demographic channel is maintained by the U.S. Census Bureau. Because it is the largest and most diverse of the Geospatial One-Stop (GOS) channels, the information has been subdivided into a number of sub-channels. Examples of information available through this channel include archeological sites, crime statistics, population statistics, housing characteristics, and information on education, tribal populations and welfare.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Dams",
+	"definitionContent":"Information parameters relevant to the Dams sector include sector assets’ physical structures, personnel needs, cyber infrastructure, and protective measures. The complexity of dam functions dictates the importance of these elements.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Acquisition",
+	"definitionContent":"Activities and costs associated with the purchase or lease of geospatial datasets from commercial, governmental, or nongovernmental entities, including States, tribes, local governments, other Federal agencies, and nongovernmental organizations for use in geospatial information systems and software.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data and (or) Spatial Analysis",
+	"definitionContent":"Analysis of geospatial data for the purpose of developing a targeted geospatial product or answering a specific programmatic question; for example, analysis of geospatial data for the purpose of developing a fact sheet and associated maps on permitted outfalls within a mile of a priority watershed in New Jersey. Data and (or) spatial analyses are usually done after the initial data processing and distribution are complete.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Collection",
+	"definitionContent":"Activities and costs associated with the collection of new geospatial data that is, data not available commercially or from other governmental or nongovernmental entities for use in geospatial information systems and software. Includes costs associated with data development and with joining a data consortium that collects or develops new data.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Distribution",
+	"definitionContent":"Any dissemination of data for use, manipulation, or integration into a geospatial information system or application that is not specifically part of a Web-based geospatial service (as defined in definition DSV?1, services). Can include a wide variety of formats and mechanisms, including electronic data interchange (EDI), Extensible Markup Language (XML), File Transfer Protocol (FTP) sites, Web sites, data marts and data warehouses, CD-ROMs, and DVDs. Can also include a variety of file types, including shapefiles, coverages, personal geodatabases, spreadsheets, and relational database files. The types of data disseminated may include raster, vector, and tabular data.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data End Users",
+	"definitionContent":"Individuals and agencies who use data after the dataset has been fully developed; the intended users of the data.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Layer",
+	"definitionContent":"Visual representation of a geographic dataset in any digital map environment; a slice of geographic reality in a particular area.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Processing",
+	"definitionContent":"Any computer process that converts geospatial data into information. Applies defined operations to a set of geospatial data inputs and generates new information that answers a spatial question. Geoprocessing tools range from common geographic information system (GIS) operations, such as overlay, buffer, and data management, to more advanced operations for raster processing, topology, and schema definition. Data processing is usually automated and electronic in nature, and occurs prior to usage. Conversion of source files from one format to another [for example, conversion of existing non-GIS hard copy materials or electronic files, such as engineering or computer-aided design (CAD) drawings, site maps, and aerial photographs, into digital inputs and outputs, or from a spreadsheet file to a database (.dbf) file] would fall under the data processing category, as would geocoding.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Stewards",
+	"definitionContent":"Data Stewards manage that part of a NGDA Dataset that their organization contributes to a seamless national dataset. They work with the NDGA Dataset Managers in providing coordination support, implementing needed changes to data, informing and cooperating with stakeholders, performing field work, ensuring data standards are followed, and performing data maintenance. Data Stewards are often not Federal employees, coming from other levels of government, academia, or the private sector.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Datasets",
+	"definitionContent":"Actual logical and physical representations of geographic features.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Defense Industrial Base (DIB)",
+	"definitionContent":"The DIB is a large, diverse, complex, interdependent, hierarchical, and free-flowing collection of asset owners and operators governed by various regulations, laws, treaties, and precedents. The U.S. Department of Defense (DoD) and the U.S. Census Bureau estimate that the DIB is composed of hundreds of thousands of worldwide Government and private sector sites, with capabilities to perform research and development, design, production, delivery, and maintenance of military weapon systems, subsystems, components, and parts to meet military requirements. Unlike other infrastructure sectors, the DIB is defined not based primarily on the type of goods and services it produces, but rather on who the customer is for these goods and services. It includes companies that perform under direct contract with the DoD, the subcontractors of these companies, and companies that provide incidental materials and services to either the DoD or the contractors. The DoD collects the following information on potential critical DIB assets: Contractor and Government entity code, name, street address, city, State, subject matter experts, facility security officers, and facility security officer contact information; Sales, employment, capacity utilization, square footage; Products, functions, production rates; Programs, components, and subsystems; Prime contractors, subcontractors, and critical subcontractors (first and second tier, selection criteria, products, and services); Business overview (for example, privately or publicly held, non-U.S. owned); Financial information; and Critical technologies. Once an asset is determined to be critical, the DOD collects the following additional information: Longitude and latitude; Buildings or other structures where industry manufactures or stores critical items; Dependencies (that is, the services and support that an asset requires to function) that a sectors asset has on other assets in the same sector and dependencies between assets from different sectors; Continuity and redundancy, including backups built into the asset (alternative sources of supply and backup production facilities); Impact on sector in cases of loss or failure (for example, economic, public health and welfare, public psyche, national security); Existing protective actions (for example, fencing, biometrics, firewalls); and Exposure to known foreign intelligence threat, such as treaty compliance regimes.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Define",
+	"definitionContent":"Characterization of data requirements based upon business-driven user needs (stage 1 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Digital Orthoimagery",
+	"definitionContent":"This dataset contains georeferenced images of Earth’s surface, collected by a sensor, in which image object displacement has been removed for sensor distortions and orientation, and terrain relief. For very large surface areas, an Earth curvature correction may be applied. Digital orthoimages encode the optical electromagnetic spectrum as discrete values modeled in an array of georeferenced pixels. Digital orthoimages have the geometric characteristics of a map and the image qualities of a photograph.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Drinking Water and Waste Treatment Systems",
+	"definitionContent":"Drinking water and wastewater assets are defined as entire utilities for purposes of identification, prioritization, and coordination in the water sector. The water sector is composed of a diverse set of drinking water and wastewater utilities. Characteristics of these utilities useful for defining sector infrastructure information are available in databases maintained by the U.S. Environmental Protection Agency (EPA). Owners and operators are responsible for conducting risk assessments of their utilities to identify components (for example, pumps, generators, and supervisory control and data acquisition systems) the loss or damage of which, whether owing to manmade or natural events, could adversely affect the utility’s operation, threaten public health or the environment, or have significant economic impacts. Critical water sector infrastructure is owned and operated predominantly by the public sector (that is, local governments). The EPA, the U.S. Department of Homeland Security (DHS), and water sector owners and operators and security partners work together to develop robust threat, vulnerability, and consequence information to help water sector utilities identify their most critical components.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Earth Cover",
+	"definitionContent":"The Earth cover theme uses a hierarchical classification system based on observable form and structure, as opposed to function or use. This system transitions from generalized to more specific and detailed class divisions and provides a framework within which multiple land cover and land use classification systems can be cross-referenced. This system is applicable everywhere on the surface of Earth. This theme differs from the Vegetation and Wetlands themes, which provide additional detail.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Elevation and Derived Products",
+	"definitionContent":"The Elevation and Derived Products category Web page was authored by the U.S. Geological Survey and its partners in June 2004. These data contain georeferenced digital representations of terrestrial surfaces (natural or manmade) or bathymetric data, and their height above or below a reference datum surface. Data may be encapsulated in an evenly spaced grid (raster form) or may be randomly spaced (triangular irregular network, hypsography, and single points). The elevation points can have varying horizontal and vertical resolution and accuracy.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Elevation Bathymetric",
+	"definitionContent":"Bathymetric data for inland and intercoastal waterways are highly accurate bathymetric sounding information collected to ensure that Federal navigation channels are maintained to their authorized depths. Bathymetric survey activities support the Nation’s critical nautical charting program. These data are also used to create electronic navigational charts. The bathymetric sounding data support the elevation layer of the geospatial data framework.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Elevation Terrestrial",
+	"definitionContent":"These data contain georeferenced digital representations of terrestrial surfaces, natural or manmade, that describe vertical position above or below a datum surface. Data may be encapsulated in an evenly spaced grid (raster form) or may be randomly spaced (triangular irregular network, hypsography, and single points). The elevation points can have varying horizontal and vertical resolution and accuracy.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Emergency Services",
+	"definitionContent":"The Emergency Services System (ESS) consists of assets, systems, and networks that perform preparedness, prevention, response, and recovery functions so critical to protecting communities, saving lives, protecting property, and recovering essential community services in the wake of a disaster, that their incapacitation or destruction would have a debilitating impact on the Nation’s security, public health and safety, and psychological or moral well-being. Once nationally critical infrastructure and key resources (CI/KR) have been identified, assessed, and protected, the ESS will also address those CI/KR that are important at State, regional, tribal, and local levels. ESS assets, systems, networks, and functions embody physical, cyber, and human aspects or elements, as detailed below: • Physical CI/KR elements - An ESS facility may require specialized protection due to its unique or specialized characteristics. These can include anything that—if lost, stolen, released, damaged, compromised, or exploited—could cause an adverse effect or would be difficult to replace. Examples include: – Equipment. Unique devices, parts, or pieces of equipment; these include the key elements of communications systems; – Conveyances. Aircraft, vessels, or ground transportation vehicles housed within an ESS facility and used to carry out critical functions; – Materials. Critical items used in providing emergency service functions; and – Records. Documents in electronic or nonelectronic media. • Cyber CI/KR elements. These include cyber assets (for example, hardware and software components), systems (for example, a set of cyber assets that interact to perform a particular function), and networks (for example, interconnected assets and systems that store, process, or communicate information), as well as the information contained in them. Cyber CI/KR elements may be identified individually or included as a cyber element of a facility or asset, system, or network, and typically fulfill one of the following three roles: – Access control. Allowing only authorized personnel and visitors physical access to defined areas of a facility; – Control. Used to monitor and control sensitive processes and physical functions. Most communications systems fall within this role; – Warning and alert. Used for alerting and notification purposes to pass critical information that triggers protection and response actions. • Human elements or positions. These include positions staffed within ESS facilities that represent unique knowledge, skills, authorities, or roles, the absence of which could cause undesirable consequences. In general, the human aspect is best captured within the system or functional dimension of the assets, systems, networks, and functions continuum. They both serve as part of a system and help to perform or carry out critical functions. Categories of positions that support continuity of operations at all levels of government and functioning of the ESS include the following: – Strategic positions. Held by individuals and must be identified, assessed, and prioritized for protection to ensure continuity of essential government operations; and – Operational positions. Responsible for operating CI/KR systems, whose impairment could result in either cessation or takeover of operations, or whose compromise would make recovery from an attack more difficult (for example, law enforcement officials, HAZMAT experts, bomb squad members).",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Energy (except Nuclear Power)",
+	"definitionContent":"Broadly speaking, Homeland Security Presidential Directive 7 (HSPD–7) defines the energy sector as the Nation’s electric system (excluding nuclear powerplants and hydroelectric dams), natural gas system, and petroleum and petroleum product systems. These energy systems are highly interdependent (for example, natural gas is a significant fuel for electric generation) and are critical for other infrastructure sectors, including Communications, Drinking Water and Water Treatment Systems, Chemical, Information Technology, and Transportation Systems. Each of these interdependent energy systems consists of many individual assets, which in some cases may be highly important, but their importance varies dramatically depending on such factors as the time of day, the time of year, and system conditions. From a reliability and security perspective, however, systems are the critical characteristic of the energy sector. The Energy sector has identified six general asset or system characteristics that are important for evaluating the vulnerabilities of Energy sector infrastructure and for developing risk management programs: • Physical and location attributes – assist the Energy sector to develop consequence, vulnerability, and protective strategies; • Cyber attributes - help monitor and control the energy systems; • Volumetric or throughput attributes – define the extent of the damage, depending on the utilized capacity of the system, or points where the system may be capacity constrained; • Temporal/Load profile attributes – temporal or time-dependent dimension affected by the season of the year or the time of day; • Human attributes - include highly trained and skilled personnel who are key factors in a comprehensive Energy sector security plan; and • Importance of asset or system to the energy network – factors that impact the ability of power generation assets to function properly.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Enterprise Architecture",
+	"definitionContent":"The explicit description and documentation of the current and desired relationships among business and management processes and information technology.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Enterprise Architecture Planning",
+	"definitionContent":"The development of a framework in which one describes and justifies investments of personnel, data, and applications within an enterprise. Enterprise architecture planning is a practice used to identify geospatial capabilities across an enterprise to address consistency, functional capabilities, and performance in order to leverage geospatial investments.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Environment and Conservation",
+	"definitionContent":"The Environment and Conservation category Web page was authored by the geodata.gov development team in May 2003, and will be maintained by the U.S. Environmental Protection Agency. Typical keywords are environment, pollution, waste storage, waste treatment, environmental impact assessment, environment, conservation, meteorology, land use, remediation, nature, EIA, monitoring, risk, nature reserves, landscape, natural resources, environmental risk, heritage, water quality, and habitat.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Executive Agency",
+	"definitionContent":"An Executive department, a Government corporation, and an independent establishment (5 USC § 105)",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Executive Theme Champions",
+	"definitionContent":"A member of the Senior Executive Service or a senior level individual designated by a Theme Lead Agency’s SAOGI, who advocates for, raises awareness of, and promotes the implementation of a NGDA Theme and its NGDA Datasets. An Executive NGDA Theme Champion provides recommendations to, and advises the SAOGI on, important matters relative to the NGDA Theme’s role in the NGDA Portfolio.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Feature",
+	"definitionContent":"An abstraction of real world phenomena.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Feature Services",
+	"definitionContent":"An application and supporting services for selecting, browsing, extracting, transforming, integrating, and updating of a feature database. Assures that requestor credentials are sufficient for requested changes and that changes requested do not violate validation rules. Accesses one or more resource catalog servers.",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Federal Land Ownership Status",
+	"definitionContent":"Federal land ownership status includes the establishment and maintenance of a system for the storage and dissemination of information describing all title, estate, or interest of the Federal Government in a parcel of real and mineral property. The ownership status system is the portrayal of title for all such Federal estates or interests in land.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Flood Hazard",
+	"definitionContent":"National Flood Insurance Program has prepared flood hazard data (Digital Flood Insurance Rate Maps, or DFIRM) for approximately 18,000 communities. The primary information prepared for these communities is for the 1 percent annual chance (100-year) flood, and includes documentation of the boundaries and elevations of that flood.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Framework Data",
+	"definitionContent":"Seven themes of geospatial data that are used by most organizations (geodetic control, orthoimagery, elevation and bathymetry, transportation, hydrography, cadastral and governmental units). These data include an encoding of the geographic extent of the features and a minimal number of attributes needed to identify and describe the features.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Framework Data Themes",
+	"definitionContent":"Themes providing the core (most commonly used) set of base data are known as framework data; the themes are geodetic control, orthoimagery, elevation and bathymetry, transportation, hydrography, cadastral, and governmental units. Other themes of national significance are also an important part of the National Spatial Data Infrastructure (NSDI), and must be available to share with others. Additional themes may be added with the approval of the FGDC.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Gazetteer Services",
+	"definitionContent":"A service that provides the ability to determine the geospatial coordinates for a place, given the place name or attributes. This function accesses a database of geographic place names, together with their geographic locations and other descriptive information.",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geo-analytical Services",
+	"definitionContent":"A Web service that computes a geographic function for a specified geographic input. For example, the TotalWaters Web service computes the amount of stream miles and lake acres within a user?defined bounding box.",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geocoding",
+	"definitionContent":"The process of identifying the geographic location of a postal address—a subset of georeferencing.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geodetic Control",
+	"definitionContent":"Geodetic control provides a common reference system for establishing coordinates for all geographic data. All NSDI framework data and users’ applications data require geodetic control to accurately register spatial data. The National Spatial Reference System is the fundamental geodetic control for the United States.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geodetic Control",
+	"definitionContent":"Geodetic control surveys are usually performed to establish a basic control network (framework of known point locations) from which supplemental surveying and mapping work is performed. Geodetic network surveys are distinguished by use of redundant, interconnected, permanently monumented control points that comprise the framework for the National Spatial Reference System (NSRS) or are often incorporated into the NSRS.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geographic Information System",
+	"definitionContent":"A system for the storage, retrieval, analysis, display, and maintenance of geographic information.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geographic Names",
+	"definitionContent":"This dataset contains data or information on geographic place names deemed official for Federal use by the U.S. Board on Geographic Names pursuant to Public Law 80-242. Geographic names information includes both the official place name (current, historical, and aliases) and the locative direct (that is, geographic coordinates) and indirect (that is, State and County where the place is located) geospatial identifiers; place names are categorized as populated places, schools, reservoirs, parks, streams, valleys, and ridges.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geologic",
+	"definitionContent":"The geologic spatial theme includes all geologic mapping information and related geoscience spatial data (including associated geophysical, geochemical, geochronologic, and paleontologic data) that can contribute to the National Geologic Map Database pursuant to Public Law 106-148.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geology and Geophysical",
+	"definitionContent":"The Geological and Geophysical category Web page was authored by the geodata.gov development team in May 2003. The geologic spatial theme includes all geologic mapping information and related geoscience spatial data (including associated geophysical, geochemical, geochronologic, and paleontologic data) that can contribute to the National Geologic Map Database pursuant to Public Law 106-148. Offshore minerals include minerals that occur in submerged lands. Examples of marine minerals include oil, gas, sulfur, gold, sand and gravel, and manganese. Soil data consist of georeferenced digital map data and associated tabular attribute data. The map data describe the spatial distribution of the various soils that cover Earth’s surface. The attribute data describe the proportionate extent of the various soils, as well as the physical and chemical characteristics of those soils. The physical and chemical properties are based on observed and measured values, as well as model-generated values.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Georeferencing",
+	"definitionContent":"The process of identifying the geographic location of a piece of information. A common example is finding the latitude and longitude of a postal address, which is usually called geocoding (a subset of georeferencing).",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Product Development",
+	"definitionContent":"Development of output from geospatial software, including both digital and hardcopy formats. Geospatial products may include maps (hard or soft copy), digital data, compact discs, charts, or other secondary products derived from geospatial input.",
+	"definitionCategory":"Data Analysis/Data Services (DAS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Data",
+	"definitionContent":"Data with implicit or explicit reference to a location relative to the Earth’s surface; Spatial data are geographically referenced features that are described by geographic positions and attributes in an analog or computer-readable (digital) form.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Information",
+	"definitionContent":"Information concerning phenomena implicitly or explicitly associated with a location relative to the Earth’s surface.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Information System",
+	"definitionContent":"An information system dealing with information concerning phenomena associated with a location relative to the Earth’s surface.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Portfolio",
+	"definitionContent":"Geospatial assets that can be brought to bear to address an issue. These assets include funding, data, infrastructure, hardware, software, applications, personnel, services, and products.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Service",
+	"definitionContent":"A service that transforms and manages geospatial information and presents the information to users.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Service Component",
+	"definitionContent":"A component or service that has geospatial data or information as a primary input or output.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Governance",
+	"definitionContent":"The people, policies, and processes that provide the framework within which managers make decisions and take actions to optimize outcomes related to their spheres of responsibility.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Government Corporation",
+	"definitionContent":"(1) “Government corporation” means a corporation owned or controlled by the Government of the United States; and (2) “Government controlled corporation” does not include a corporation owned by the Government of the United States (5 USC § 103)",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Government Facilities (GFS)",
+	"definitionContent":"The GFS categorization structure captures the different types of facilities and associated elements that represent the entire sector. Although government facilities may be categorized based on type of ownership or facility security level, four sector-wide categorization based on a facility’s predominant use maximizes risk reduction opportunities among similar facilities. The predominant use of a facility is the main function or purpose of the building based on its contents and functions. Four security levels were established in the U.S. Department of Justice (DOJ) vulnerability assessment report and adopted by the Interagency Security Committee and are applicable to Federal facilities. Five predominant use categories for buildings, structures, and land were established as part of the Federal Real Property Profile by the Federal Real Property Council.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Governmental Units",
+	"definitionContent":"These data describe, by a consistent set of rules and semantic definitions, the official boundary of Federal, State, tribal, or local governments as certified by responsible officials of each government and reported to the U.S. Census Bureau for the purpose of reporting the Nation’s official statistics.",
+	"definitionCategory":"NSDI Data Themes (NDT)"
+},
+{
+	"definitionTitle":"Hardware",
+	"definitionContent":"Equipment acquired and maintained, including under vendor and contractor maintenance contracts, and used for geographic information systems. Such equipment includes the following: • Personal computers (PCs): desktop PCs, workstations, laptops and associated components, such as memory and memory upgrades, hard drives and other storage devices, video and sound cards, cables, keyboards, mice, monitors, and so forth; • Servers: file, print, application, Web, database, and any other types of servers and associated components, such as hard drives, backup units, memory, equipment, cables, adapters, and so forth; • Printers and scanners: printers, plotters, digital scanners, and barcode readers; • Handheld devices: global positioning system (GPS) units and personal digital assistants (PDAs); • Other storage devices: removable hard drives, zip drives, and jump drives; • Telecommunications services that specifically support geospatial information systems and program operations, including: o Cabling - purchase and (or) installation of facility wiring and related components to support data communications; o Maintenance - maintenance and repair of local area network (LAN)/wide area network (WAN) connectivity, in total or any part, including telecommunications support for network infrastructure; • Hosting: database and application hosting costs; and • Other: related components and costs not specifically mentioned above.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Housing",
+	"definitionContent":"The U.S. Department of Housing and Urban Development’s (HUD’s) database maintains geographic data on homeownership rates, including many attributes, such as HUD revitalization zones, location of various forms of housing assistance, first-time homebuyers, underserved areas, and race. Data standards have not yet been formalized.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Human Health and Disease",
+	"definitionContent":"The Human Health and Disease category Web page was authored by the geodata.gov development team in May 2003. Human health theme relates to the protection, improvement, and promotion of the health and safety of all people. For example, public health databases include spatial data on mortality and natality events, infectious and notifiable diseases, incident cancer cases, behavioral risk factors, tuberculosis surveillance, hazardous substance releases and health effects, hospital statistics, and other similar data. Typical keywords are disease, illness, health, hygiene, substance abuse, mental health, physical health, or health care providers.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Hydrography",
+	"definitionContent":"This theme includes surface water features, such as lakes, ponds, streams and rivers, canals, oceans, and coastlines. Each hydrography feature is assigned a permanent feature identification code (U.S. Environmental Protection Agency Reach Code) and may also be identified by a feature name. Spatial positions of features are encoded as centerlines and polygons. Also encoded is network connectivity and direction of flow.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Hydrography",
+	"definitionContent":"The scientific description and analysis of the physical conditions, boundaries, flow, and related characteristics of Earth’s surface waters. Hydrographic data typically refer to the boundaries of water bodies.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Image Processing System (IPS)",
+	"definitionContent":"An integrated system for collecting, storing, accessing, sharing, disseminating, integrating, manipulating, visualizing, analyzing and otherwise exploiting geospatial imagery. An IPS focuses on producing and exploiting digital orthoimagery that conveys geospatial information in raster image form. It is used widely in government, education, and business. Also, a general-purpose collection of tools for processing geospatial imagery. It normally consists of one or more applications with one or more databases. The IPS may be configured as a desktop application or as a collection of client and server components.",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Image Services",
+	"definitionContent":"Upon request, an image service provides an image of the requested layer(s) in either the specified or default rendering style(s). Typical output formats include Portable Network Graphics (PNG) format, Graphics Interchange Format (GIF), Joint Photographic Expert Group (JPEG) format, and Tagged Image File Format (TIFF).",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Imagery and Base Maps",
+	"definitionContent":"The Imagery and Base Maps category Web page was authored by the U.S. Geological Survey (USGS) and its partners in September 2004 and was last updated in April 2007. Eventually, it will consist of the following three sub-areas: orthoimagery, base maps, and other imagery. The Orthoimagery sub-channel, which is the only sub-channel currently populated, contains general information about rectified imagery, its sources, orthoimagery acquisition programs, and the access and dissemination of those data, including aerial photography, which is the source of orthoimagery. The Base Maps sub-channel category will consist of those base themes not covered by other categories. They are represented by such national datasets as the Geographic Names database and the National Land Cover Database. The Other Imagery sub-channel will consist of general information about imagery other than orthoimagery. Much of the information and data contained in this sub-channel will be satellite and other remotely sensed imagery.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Independent Establishment",
+	"definitionContent":"An independent establishment means an establishment in the Executive branch (other than the United States Postal Service or the Postal Regulatory Commission) that is not an Executive department, military department, Government corporation, or part thereof, or part of an independent establishment (5 USC § 104)",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information",
+	"definitionContent":"Any communication or representation of knowledge, such as facts, data, or opinions in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audiovisual forms.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Dissemination Product",
+	"definitionContent":"Any book, paper, map, machine-readable material, audiovisual production, or other documentary material, regardless of physical form or characteristic, disseminated by an agency to the public.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Lifecycle",
+	"definitionContent":"The stages through which information passes, typically characterized as creation or collection, processing, dissemination, use, storage, and disposition.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Management",
+	"definitionContent":"The planning, budgeting, manipulating, and controlling of information throughout its lifecycle.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Processing Services Organization",
+	"definitionContent":"A discrete set of personnel, information technology, and support equipment with the primary function of providing services to more than one agency on a reimbursable basis.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Resource Management",
+	"definitionContent":"The process of managing information resources to accomplish agency missions. The term encompasses both information itself and the related resources, such as personnel, equipment, funds, and information technology.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Resources",
+	"definitionContent":"The term that includes both government information and information technology.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Systems",
+	"definitionContent":"A discrete set of information resources organized for the collection, processing, maintenance, transmission, and dissemination of information, in accordance with defined procedures, whether automated or manual.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Systems Lifecycle",
+	"definitionContent":"The phases through which an information system passes, typically characterized as initiation, development, operation, and termination.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Technology",
+	"definitionContent":"Any equipment or interconnected system or subsystem of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by an executive agency. For purposes of the preceding sentence, equipment is used by an executive agency if the equipment is either used by the executive agency directly or is used by a contractor under a contract with the executive agency which (i) requires the use of such equipment, or (ii) requires the use, to a significant extent, of such equipment in the performance of a service or the furnishing of a product. The term "information technology" includes computers, ancillary equipment, software, firmware and similar procedures, services (including support services), and related resources. The term "information technology" does not include any equipment that is acquired by a Federal contractor incidental to a Federal contract. The term "information technology" does not include national security systems as defined in the Clinger-Cohen Act of 1996 (40 U.S.C. 1452).",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Technology",
+	"definitionContent":"Critical Information Technology sector functions support the sector’s ability to produce and provide high-assurance information technolgoy (IT) products and services for a variety of sectors. Through the IT sector-specific plan (SSP) development process, the sector identified six critical functions: • Provide IT products and services; • Provide incident management capabilities; • Provide domain name resolution services; • provide identity management and associated trust support services; • Provide Internet-based content, information, and communications services; and • Provide Internet routing, access, and connection services. These functions are distributed across a broad network of infrastructure, are managed on a proactive basis, and are therefore able to withstand and rapidly recover from most threats. These critical Information Technoogy sector functions are provided by a combination of entities—often owners and operators and their respective associations—who provide hardware, software, IT systems, and services. IT services include development, integration, operations, communications, and security. Information Technology sector entities include the following: • Domain Name System (DNS) root and generic top-level domain operators; • Internet service providers (ISPs); • Internet backbone providers; • Internet portal and e-mail providers; • Networking hardware companies (for example, fiberoptics makers and line acceleration hardware manufacturers) and other hardware manufacturers [for example, personal computer (PC) and server manufacturers and information storage companies); • Software companies; • Security services vendors; • Communications companies that characterize themselves as having an IT role; • Edge and core service providers; • IT system integrators; and • IT security associations. In addition, Federal, State, and local governments are a component of the Information Technology sector as providers of government IT services that are designed to meet the needs of citizens, businesses, and employees. The Information Technology sector includes public and private sector entities.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Inland Water Resources",
+	"definitionContent":"The Inland Water Resources category deals with the movement and characteristics of water on or under the surface of the earth. This includes, but is not limited to, themes about rivers, lakes, wetlands, canals, glaciers, dams, wells, floods and flood hazards, streamflow, and water use. Some of the most prominent links in this category are to large databases, such as the National Hydrography Dataset (NHD). However, the category also includes many thematic datasets dealing with water issues in specific locations. There are two major sub-categories. The first, The Drainage Network, includes the NHD and digital elevation models. The second, Major Water Databases, includes the U.S. Geological Survey’s (USGS) National Water Information System (NWIS) and U.S. Environmental Protection Agency’s (EPA) Storage and Retrieval (STORET) database.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"International Boundaries",
+	"definitionContent":"International boundary data include both textual information to describe, and geographic information system (GIS) digital cartographic data to depict, both land and maritime international boundaries, other lines of separation, limits, zones, enclaves and exclaves, and special areas between States and dependencies.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Inventory/Evaluate",
+	"definitionContent":"The creation and publication of a detailed list of data assets and data gaps (both internal and external) as they relate to business-driven user needs (stage 2 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Law Enforcement Statistics",
+	"definitionContent":"Law enforcement statistics describe the occurrence of events (including incidences, offenses, and arrests) that are geospatially located and related to ordinance and statutory violations, and the individuals involved in those occurrences. Also included are data related to deployment of law enforcement resources and performance measures. Note, DOJ will not release the names of “individuals involved in those occurrences” unless it is already part of a public data release in the data set.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Lead Agencies (for Themes)",
+	"definitionContent":"Certain Federal agencies have lead responsibilities for coordinating the national coverage and stewardship of specific spatial data themes. The themes in the NSDI, their description, and the responsible lead for each theme are listed in OMB Circular A–16, appendix E. Lead agency responsibilities and new themes may be added or altered by recommendation of the FGDC and concurrence by the OMB.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Lead Agency Point of Contact for Data Themes",
+	"definitionContent":"Designated point of contact within the lead agency for themes who will be responsible for the development, maintenance, coordination, and dissemination of data using the National Spatial Data Clearinghouse.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Line of Sight",
+	"definitionContent":"The indirect or direct cause-and-effect relationship from a specific information technology (IT) investment to the processes it supports and, by extension, the customers it serves and the mission-related outcomes to which it contributes.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Locations and Geodetic Networks",
+	"definitionContent":"Geodetic control provides a common reference system for establishing coordinates for all geographic data. All National Spatial Data Infrastructure (NSDI) framework data and user applications data require geodetic control to accurately register spatially. The National Spatial Reference System is the fundamental geodetic control for the United States. Typical keywords are geodetic networks, survey, or control points.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Maintain",
+	"definitionContent":"Ongoing processes and procedures for data operation and maintenance to ensure that the data continue to meet business requirements (stage 5 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Manufacturing Facilities",
+	"definitionContent":"Today’s manufacturing environment has several underlying characteristics that influence its business risks, security posture, and continuity of operations. These characteristics include the following: 1. Most manufacturing enterprises are integrated into complex, interdependent supply chains. A failure in any part of the supply chain can ripple through manufacturing systems, causing cascading economic impacts; 2. Supply chains have been optimized for productivity and efficiency—such methods as just-in-time production have created some fragile supply networks that are susceptible to disruptions; 3. Manufacturers rely highly on information and communications systems; this reliance has introduced new cyber risks that could degrade, damage, or shut down operations; 4. Globalization and outsourcing has caused some U.S. manufacturers to become highly reliant on foreign sources of supply and the transcontinental transportation systems that support them; 5. Manufacturers rely heavily on electricity and fuels, sometimes with only limited power backup and fuel storage. These characteristics increase the likelihood that a disruption in an existing critical infrastructure and key resources (CI/KR) sector could have major economic consequences on the manufacturing industries. Conversely, a direct attack on or disruption of certain elements of the manufacturing industries could disrupt essential functions in some CI/KR sectors.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Mapping Services",
+	"definitionContent":"These services access vector and raster data and render them in the form of a map for display (combines access and portrayal). Independent of whether the underlying data are features (point, line, and polygon) or coverages (such as gridded digital terrain models or images), the mapping service produces data that can be directly viewed in a Web browser. Data are labeled as one or more “layers,” each of which is available in one or more “styles.”",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Maps/Cartography",
+	"definitionContent":"A graphical depiction or representation of geospatial information and related data.",
+	"definitionCategory":"Data Analysis/Data Services (DAS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Marine Boundaries",
+	"definitionContent":"Marine boundaries depict offshore waters and seabeds over which the United States has sovereignty and jurisdiction.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Metadata",
+	"definitionContent":"Data about data (often in the form of descriptive text about a digital data file).",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Metadata Services",
+	"definitionContent":"An application and supporting services for browsing, entering, transforming, integrating, and updating metadata for geospatial resources, and optionally, updating of associated geospatial resource records. (Geospatial resources include maps and data from which maps may be derived, and may include ancillary products and services. A geospatial catalog lists the various ways by which geospatial resources may be characterized and associated.)",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"National Monuments and Icons (NMI)",
+	"definitionContent":"A number of NMI assets located within the United States and its Territories (for example, Puerto Rico and the Northern Mariana Islands) are listed on the National Register of Historic Places or the List of National Historic Landmarks. The National Register of Historic Places is the Nation’s official list of cultural resources reserved for preservation. The National Historic Landmarks are significant historic places designated by the Secretary of the Interior for their exceptional value or quality in illustrating or interpreting the heritage of the United States. Currently, fewer than 2,500 historic places bear this national distinction. The criteria applied to evaluate properties for possible designation as National Historic Landmarks are delineated in the Code of Federal Regulations (36 CFR 65.4, National Historic Landmark Criteria). Through the U.S. Department of Homeland Security (DHS) and State Offices of Homeland Security, the U.S. Department of the Interior (DOI) will work at the Federal, State, tribal, and local government levels, and with the private sector, to identify other NMI assets that may not be on either list but should be considered as National Critical.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"National Spatial Data Infrastructure (NSDI)",
+	"definitionContent":"The NSDI ensures that spatial data from multiple sources (Federal, State, tribal, and local governments, academia, and the private sector) are available and easily integrated to enhance the understanding of our physical and cultural world. The NSDI reflects several key public values: ? Privacy and security ? Data accuracy ? Access for all citizens ? Protection of proprietary interests ? Interoperability of Federal information systems",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Nationally Significant",
+	"definitionContent":"Describes themes—and their datasets—that help protect and manage national infrastructure and resources or that can be used across multiple Federal, State, tribal, or local governments to meet their missions and implement their business processes.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"NGDA Dataset",
+	"definitionContent":"A geospatial dataset that has been designated as such by the FGDC Steering Committee and meets at least one of the following criteria: (1) supports mission goals of multiple Federal agencies; (2) statutorily mandated; or (3) supports Presidential priorities as expressed by Executive Order or by OMB.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"NGDA Dataset Manager",
+	"definitionContent":"Individuals who provide coordination and standards for NGDA Datasets at a national level. NGDA Dataset Managers provide information to their NGDA Theme Lead for management and reporting.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"NGDA Theme (A-16 Theme)",
+	"definitionContent":"Representations of conceptual topics describing digital spatial information for the Nation. Themes contain associated datasets (with attribute records and coordinates) that are documented, verifiable, and officially designated to meet recognized standards. A theme contains one or more datasets of geographic information to be used in common and from which other datasets can be derived. Themes are listed in OMB Circular A–16.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"NGDA Theme Lead",
+	"definitionContent":"Individuals who provide interdepartmental leadership and coordination at the NGDA Theme level. They work with component NGDA Dataset Managers to develop standards and provide guidance. The NGDA Theme Lead, or designee, chairs the NGDA Theme’s Thematic Committee and manages the annual process of providing NGDA Dataset collaboration and funding recommendations to the FGDC Steering Committee for those NGDA Datasets within their NGDA Theme. Additionally, the NGDA Theme Lead reports to the Executive NGDA Theme Champion and the FGDC Coordination Group on the NGDA Theme’s activities and investments (both current and planned).",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Nuclear Reactors, Materials and Waste",
+	"definitionContent":"A license or certificate from the U.S. Nuclear Regulatory Commission (NRC) is required before any entity is permitted to operate a civilian nuclear facility or receive risk-significant nuclear or radioactive material. Records of the formal NRC regulatory process and licensing and certificate reviews are a means of identifying the nuclear facilities and other entities that use, acquire, transport, or dispose of risk-significant nuclear or radioactive material.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Obtain",
+	"definitionContent":"Identify the mechanism(s) for the collection, purchase, conversion, transformation, sharing, exchanging, or creation of geospatial data that were selected to meet the business needs (stage 3 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Oceans and Coasts",
+	"definitionContent":"The Oceans and Coasts community Web page is organized around coastal and ocean framework data, or data needed for research, planning, and management of coastal and ocean resources. These data include, but are not limited to, bathymetry, shoreline, sea floor mapping, habitat, land cover, seismic data, fisheries, and marine boundaries. This community seeks to provide access to these data, clearinghouses, and applications; as well as information about the activities, programs, and committees that support the ocean and coastal community. The Oceans and Coast community is co-led by the Interagency Working Group on Ocean and Coastal Mapping and the FGDC’s Marine and Coastal Spatial Data Subcommittee. For more information on these efforts, refer to the “committees, programs, and organization” section of the community.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Offshore Minerals",
+	"definitionContent":"Offshore minerals include minerals occurring in submerged lands. Examples of marine minerals include oil, gas, sulfur, gold, sand and gravel, and manganese.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Orthoimage",
+	"definitionContent":"A georeferenced image prepared from a perspective photograph or other remotely-sensed data in which displacement of objects due to sensor orientation and terrain relief have been removed. It has the geometric characteristics of a map and the image qualities of a photograph.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Orthorectification",
+	"definitionContent":"The process of transforming raw imagery to an accurate orthogonal projection. Without orthorectification, scale is not constant in the image and accurate measurements of distance and direction cannot be made.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Outer Continental Shelf Submerged Lands",
+	"definitionContent":"These data include lands covered by water at any stage of the tide, as distinguished from tidelands, which are attached to the mainland or an island and cover and uncover with the tide. Tidelands presuppose a high-water line as the upper boundary, whereas submerged lands do not.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Patterns",
+	"definitionContent":"Unique combinations of architectural or design elements (for example, processes, components, and so forth) that have proven to be useful in solving recurring architectural or design problems. The naming and reuse of patterns forms the basis of a vocabulary for communicating past experience between architects and designer .",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Plats",
+	"definitionContent":"A plan showing lines and interrelationship of lines with dimensional data on lines.",
+	"definitionCategory":"Data Analysis/Data Services (DAS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Policy and Guidance Development",
+	"definitionContent":"The development of an overall vision, set of policies, implementation strategy, and set of best practices for utilizing geospatial data and technologies as effectively as possible across an enterprise.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Portfolio Management",
+	"definitionContent":"Portfolio management is the process of tracking, maintaining, expanding, and aligning assets to address and solve the business needs of an enterprise. Portfolio management approaches include a number of components:• Strategic portfolio planning;• Coordinated development and resource pooling;• Established goals and performance measures, indicating the benefits of each asset investment, and how it contributes to the overarching goals (particularly completion/renewal) of the portfolio;• Investment selection criteria; and• Processes for reviewing the health of, and return on, asset investments that inform investment decisions, redistribution of resources, management of issues and mitigation of risks to the portfolio.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Postal and Shipping",
+	"definitionContent":"Postal and Shipping sector assets include fixed assets, such as mail distribution centers and transportation hubs, as well as complex systems, such as mail collection, transportation and distribution processes, and the information technology systems that enable e?commerce. These assets must work seamlessly together to maintain continuity of sector operations and may be subject to attack or used as mechanisms to deliver attacks. Sector security occurs in the context of extremely time-sensitive and critical business processes that are fundamental to the effectiveness and efficiency of the sector’s core operations and the business operations of its customers.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Product Specification",
+	"definitionContent":"Description of a universe of discourse and a specification for mapping the universe of discourse to a dataset.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Program Management",
+	"definitionContent":"Includes a suite of activities that support the goals of the national geospatial program, including: geospatial policy and guidance development (for example, National geospatial data policy), geospatial enterprise architecture planning (for example, business process to geospatial component mapping), governance development (for example, creation of a geospatial Steering Committee and associated charter and standard operating procedures), standards development (for example, FGDC standards), and strategic planning support (for example, data acquisition planning and geospatial blueprint development).",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Program Outreach",
+	"definitionContent":"Includes such activities as training and help desk support focused on providing education and assistance to program staff for the purpose of enabling increased usage of geospatial data and tools in day-to-day business operations. Also includes support provided to internal and external customers for the purpose of facilitating use of geospatial data and tools in decisionmaking or program evaluation efforts, as well as the development of partnerships among Federal agencies or among Federal agencies and non-Federal stakeholders.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Public Health",
+	"definitionContent":"Public health themes relate to the protection, improvement, and promotion of the health and safety of all people. For example, public health databases include spatial data on mortality and natality events, infectious and notifiable diseases, incident cancer cases, behavioral risk factors, tuberculosis surveillance, hazardous substance releases and health effects, hospital statistics, and other similar data.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Public Health and Healthcare",
+	"definitionContent":"This sector is generally categorized in terms of health care, such as the following: • Companies that develop, manufacture, market, or distribute health-related products or provide health care services, such as hospitals, nursing homes, or pay for care, including public health, health care-sector-specific plans, and health maintenance organizations (HMOs); • Medical product suppliers; • Medical equipment and medical device makers; • Medical laboratories; and • Life science organizations in the fields of biotechnology, biomedical technologies, pharmaceuticals, environmental, and biomedical devices. Relationships can be described as many-to-many, with interdependencies tied to both economic and functional stability. Hospitals represent only a fraction of the total sector.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Public Land Conveyance (Patent) Records",
+	"definitionContent":"Public land conveyance data are the records that describe all past, current, and future, right, title, and interest in real property. This is a system of storage, retrieval, and dissemination of documents that describe the right, title, and interest of a parcel.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Register",
+	"definitionContent":"A set of files containing identifiers assigned to items with descriptions of the associated items.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Registry",
+	"definitionContent":"An information system on which a register is maintained.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Relationship Management",
+	"definitionContent":"The management of relationships formed by two or more organizations that share or participate in joint investments, and develop linked and common processes to increase the performance of both organizations.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Requirements Management and Planning",
+	"definitionContent":"Requirements management and planning is concerned with understanding the goals of the organization and its customers, and the transformation of these goals into potential functions and constraints.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Requirements Optimization",
+	"definitionContent":"The tactical organization of requirements to maximize the return on investment.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Requirements Prioritization",
+	"definitionContent":"The strategic organization of requirements to address business priorities.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Resource Maintenance",
+	"definitionContent":"The provision of a level of service against assets.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Service",
+	"definitionContent":"A specific type of component that is explicitly intended to be shared and reused by multiple applications, either internal or external to the organization. Also defined as a distinct part of the functionality that is provided by an entity through interfaces.",
+	"definitionCategory":"General Services (GSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Service Component",
+	"definitionContent":"Modularized service-based applications that package together and process service interfaces with associated business logic into a single cohesive conceptual module. The aim of a service component is to raise the level of abstraction in software services by modularizing synthesized service functionality and by facilitating service reuse, service extension, specialization, and service inheritance.",
+	"definitionCategory":"General Services (GSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Service-Oriented Architecture (SOA)",
+	"definitionContent":"A way of designing a system to provide services to either end-user applications or other services through published and discoverable interfaces. In many cases, services offer a better way to expose discrete business functions and, therefore, an excellent way to develop applications that support business processes.",
+	"definitionCategory":"General Services (GSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Services",
+	"definitionContent":"Automated program, interface, application, or engine that performs a defined action that can be found, invoked, and executed over the Web. A geospatial Web-based service is a service that performs an action on geospatial data or information to transform, translate, or convert it to a more usable format or to update, distribute, or integrate it into an existing database or dataset for use.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Shared Services",
+	"definitionContent":"A form of internal outsourcing that enables corporations to achieve economies of scale by creating a separate internal entity within the company to perform specific services, such as payroll, accounts payable, travel, and expense processing. A typical shared services initiative takes advantage of enterprise applications and other technological developments, enabling the company to achieve additional improvements in quality to processes, such as finance, accounting, procurement, information technology (IT), and human resources. At the core of shared services is the idea that new technologies offer businesses the opportunity to (1) make better use of scarce skills, (2) provide information and services more efficiently, and (3) reduce the cost of administration. (See also definition GSV-2, service.)",
+	"definitionCategory":"General Services (GSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Shoreline",
+	"definitionContent":"Shorelines represent the intersection of the land with the water surface. The shoreline shown on National Oceanic and Atmospheric Administration (NOAA) charts represents the line of contact between the land and a selected water elevation. In areas affected by tidal fluctuations, this line of contact is the mean high-water line.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Software",
+	"definitionContent":"Applies to all types of computers (for example, desktops, laptops, servers, and so forth) and includes operating systems, application software, database management software, software development suites, and any ongoing software maintenance and upgrades. Software can be either commercial off-the-shelf software or custom-developed software (that is, software developed by a vendor or contractor). Computer software used for geographic information systems (GIS) (see definition GEO-1) includes but is not limited to spatial database software, spatial data viewers, three-dimensional visualization software, software used for map development, and the associated software licenses and maintenance plans and contracts for this software. It does not include Web-based geospatial services (see definition GEO-6) nor software that comes loaded on or with a personal computer (PC) at the time of purchase.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Soils",
+	"definitionContent":"Soil data consist of georeferenced digital map data and associated tabular attribute data. The map data describe the spatial distribution of the various soils that cover Earth’s surface. The attribute data describe the proportionate extent of the various soils, as well as the physical and chemical characteristics of those soils. The physical and chemical properties are based on observed and measured values, as well as model-generated values. Also included are model-generated assessments of the suitability or limitations of the soils to various land uses.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Standards Development",
+	"definitionContent":"Development of common geospatial content, structure, or exchange specifications.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Strategic Planning",
+	"definitionContent":"Planning that focuses on longer range objectives and goals.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Themes",
+	"definitionContent":"Representations of conceptual topics describing digital spatial information for the Nation. Themes contain associated datasets (with attribute records and coordinates) that are documented, verifiable, and officially designated to meet recognized standards. A theme contains one or more datasets of geographic information to be used in common and from which other datasets can be derived. Themes are listed in OMB Circular A–16.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Topics",
+	"definitionContent":"The central concept for applying context to data; an aggregate of characteristics, occurrences, and roles played in associations with other topics, whose organizing principle is a single subject. A subject (an area of study) is, in the most generic sense, anything whatsoever, regardless of whether it exists or has any other specific characteristics, about which anything whatsoever may be asserted by any means whatsoever.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Transportation",
+	"definitionContent":"Transportation data are used to model the geographic locations, interconnectedness, and characteristics of the transportation system within the United States. The transportation system includes both physical and nonphysical components representing all modes of travel that allow the movement of goods and people between locations.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Transportation (Marine)",
+	"definitionContent":"The Navigation Channel Framework consists of highly accurate dimensions (geographic coordinates for channel sides, centerlines, wideners, turning basins, and river mile markers) for every Federal navigation channel maintained by U.S. Army Corps of Engineers (USACE). The Navigation Framework will provide the basis for the marine transportation theme of the geospatial data framework.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Transportation Networks",
+	"definitionContent":"Transportation data are used to model the geographic locations, interconnectedness, and characteristics of the transportation system within the United States. The transportation system includes both physical and nonphysical components representing all modes of travel that allow the movement of goods and people between locations. Typical keywords are roads, airports/airstrips, shipping routes, tunnels, nautical charts, vehicle or vessel location, aeronautical charts, or railways.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Transportation Systems",
+	"definitionContent":"The national transportation network is a large, multifaceted, interdependent mix of links, nodes, flows, processes, agreements, rules, relationships, and regulations. This complex cloud of activity must be reduced into more manageable data to be used for risk analysis. To assist stakeholders within the Transportation Systems sector in defining systems, thematic perspectives or risk views will be used. It presumed that data collected in these views will be collectively exhaustive. Instead, the risk view structure supports a scalable system analysis capability, allowing for the examination of how risk manifests in the system. Risk views are the first step in defining the boundaries of a system, establishing relationships within the system, and identifying interdependencies. The initial set of risk views includes the following: • Modal – Traditional industry delineation (that is, aviation, maritime, mass transit, highway, freight rail, and pipeline). All assets within a mode can be collectively evaluated as a system. • Geographic – All assets within a geographic boundary (for example, New York State or the city of Los Angeles). This view may be used most often by the grants and training (G&amp;T) community, and State, tribal, and local government partners. • Functional – All assets that, taken together, perform a specific function or service (for example, supplying fuel to the Northeast). This view is supply chain-focused and may be used by, for example, the U.S. Coast Guard (USCG), U.S. Customs and Border Protection (CBP), interagency hazardouse materials (HAZMAT) transportation working groups, and private sector partners. • Ownership – All assets that fall under a defined set of decision rights, recognized by Federal, State, tribal, and local governments (for example, all assets owned and operated by the New York Mass Transit Authority) can be evaluated as a system.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Update Resource Content",
+	"definitionContent":"To change content of a published asset.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Use/Evaluate",
+	"definitionContent":"The ongoing assessment, validation, and potential enhancement of data to meet user needs and business requirements (stage 6 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Utilities and Communication",
+	"definitionContent":"The Utilities and Communication category Web page was authored by the geodata.gov development team in May 2003. Typical keywords are hydroelectricity, geothermal, solar and nuclear sources of energy, water purification and distribution, sewage collection and disposal, electricity and gas distribution, data communication, telecommunication, radio, or communication networks.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Vegetation",
+	"definitionContent":"Vegetation data describe a collection of plants or plant communities with distinguishable characteristics that occupy an area of interest. Existing vegetation covers or is visible at or above the land or water surface and does not include abiotic factors that tend to describe potential vegetation.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Watershed Boundaries",
+	"definitionContent":"This theme encodes hydrologic watershed boundaries into topographically defined sets of drainage areas, organized in a nested hierarchy by size, and based on a standard hydrologic unit coding system.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Wetlands",
+	"definitionContent":"The wetlands data layer provides the classification, location, and extent of wetlands and deepwater habitats. There is no attempt to define the proprietary limits or jurisdictional wetland boundaries of any Federal, State, or local agencies.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+}
+
