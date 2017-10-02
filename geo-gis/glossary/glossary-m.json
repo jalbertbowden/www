@@ -1,4 +1,18 @@
 {
+	"definitionTitle":"Maintain",
+	"definitionContent":"Ongoing processes and procedures for data operation and maintenance to ensure that the data continue to meet business requirements (stage 5 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Manufacturing Facilities",
+	"definitionContent":"Today’s manufacturing environment has several underlying characteristics that influence its business risks, security posture, and continuity of operations. These characteristics include the following: 1. Most manufacturing enterprises are integrated into complex, interdependent supply chains. A failure in any part of the supply chain can ripple through manufacturing systems, causing cascading economic impacts; 2. Supply chains have been optimized for productivity and efficiency—such methods as just-in-time production have created some fragile supply networks that are susceptible to disruptions; 3. Manufacturers rely highly on information and communications systems; this reliance has introduced new cyber risks that could degrade, damage, or shut down operations; 4. Globalization and outsourcing has caused some U.S. manufacturers to become highly reliant on foreign sources of supply and the transcontinental transportation systems that support them; 5. Manufacturers rely heavily on electricity and fuels, sometimes with only limited power backup and fuel storage. These characteristics increase the likelihood that a disruption in an existing critical infrastructure and key resources (CI/KR) sector could have major economic consequences on the manufacturing industries. Conversely, a direct attack on or disruption of certain elements of the manufacturing industries could disrupt essential functions in some CI/KR sectors.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
 	"definitionTitle":"Map Block",
 	"definitionContent":"Map Block is an Open Map embedded into a web page.",
 	"citationURLTitle": "Glossary of Terms - GeoPlatform Concepts - GeoPlatform.gov",
@@ -9,4 +23,57 @@
 	"definitionContent":"Map Galleries are curated set of Open Maps. Galleries may be embedded into web pages.",
 	"citationURLTitle": "Glossary of Terms - GeoPlatform Concepts - GeoPlatform.gov",
 	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
-}
+},
+{
+	"definitionTitle":"Mapping Services",
+	"definitionContent":"These services access vector and raster data and render them in the form of a map for display (combines access and portrayal). Independent of whether the underlying data are features (point, line, and polygon) or coverages (such as gridded digital terrain models or images), the mapping service produces data that can be directly viewed in a Web browser. Data are labeled as one or more “layers,” each of which is available in one or more “styles.”",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Maps/Cartography",
+	"definitionContent":"A graphical depiction or representation of geospatial information and related data.",
+	"definitionCategory":"Data Analysis/Data Services (DAS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Marine Boundaries",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOC (Co-Leader)", 
+		"definitionContentListItem":"NOAA (Co-Leader)",
+		"definitionContentListItem":"DOI (Co-Leader)",
+		"definitionContentListItem":"MMS (Co-Leader)"
+	},
+	"definitionContent":"Marine boundaries depict offshore waters and seabeds over which the United States has sovereignty and jurisdiction.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Marine Boundaries",
+	"definitionContent":"Marine boundaries depict offshore waters and seabeds over which the United States has sovereignty and jurisdiction.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Metadata",
+	"definitionContent":"Information about data, such as content, source, vintage, accuracy, condition, projection, responsible party, contact phone number, method of collection, and other characteristics or descriptions.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Metadata",
+	"definitionContent":"Data about data (often in the form of descriptive text about a digital data file).",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Metadata Services",
+	"definitionContent":"An application and supporting services for browsing, entering, transforming, integrating, and updating metadata for geospatial resources, and optionally, updating of associated geospatial resource records. (Geospatial resources include maps and data from which maps may be derived, and may include ancillary products and services. A geospatial catalog lists the various ways by which geospatial resources may be characterized and associated.)",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},

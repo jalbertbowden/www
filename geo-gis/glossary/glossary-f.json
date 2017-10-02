@@ -1,0 +1,80 @@
+{
+	"definitionTitle":"Feature",
+	"definitionContent":"An abstraction of real world phenomena.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Feature Services",
+	"definitionContent":"An application and supporting services for selecting, browsing, extracting, transforming, integrating, and updating of a feature database. Assures that requestor credentials are sufficient for requested changes and that changes requested do not violate validation rules. Accesses one or more resource catalog servers.",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Federal Geographic Data Committee (FGDC)",
+	"definitionContent":"Executive Order 12906 created the Federal Geographic Data Committee (FGDC), with responsibility to coordinate the development of the NSDI across government.",
+	"definitionCategory":"",
+	"citationURLTitle":"NSDI Strategic Framework (pdf) - Approved by the FGDC December 2016",
+	"citationURL":"https://www.fgdc.gov/nsdi-plan/2017/nsdi-strategic-framework.pdf"
+},
+{
+	"definitionTitle":"Federal Land Ownership Status",
+	"definitionContent":"Federal land ownership status includes the establishment and maintenance of a system for the storage and dissemination of information describing all title, estate, or interest of the Federal Government in a parcel of real and mineral property. The ownership status system is the portrayal of title for all such Federal estates or interests in land.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Federal Land Ownership Status",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI",
+		"definitionContentListItem":"BLM"
+	},
+	"definitionContent":"Federal land ownership status includes the establishment and maintenance of a system for the storage and dissemination of information describing all title, estate or interest of the federal government in a parcel of real and mineral property. The ownership status system is the portrayal of title for all such federal estates or interests in land.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Flood Hazard",
+	"definitionContent":"National Flood Insurance Program has prepared flood hazard data (Digital Flood Insurance Rate Maps, or DFIRM) for approximately 18,000 communities. The primary information prepared for these communities is for the 1 percent annual chance (100-year) flood, and includes documentation of the boundaries and elevations of that flood.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Flood Hazards",
+	"definitionContentList": { 
+		"definitionContentListItem":"Federal Emergency Management Agency"
+	},
+	"definitionContent":"National Flood Insurance Program has prepared flood hazard data for approximately 18,000 communities. The primary information prepared for these communities is for the 1 percent annual chance (100-year) flood, and includes documentation of the boundaries and elevations of that flood.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Framework",
+	"definitionContent":"The NSDI framework is an initiative to develop a readily available set of basic geographic data. It includes the information, operational environment, and technology to provide access to these data, and the institutional setting to sustain its development.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Framework Data",
+	"definitionContent":"Seven themes of geospatial data that are used by most GIS applications (geodetic control, orthoimagery, elevation and bathymetry, transportation, hydrography, cadastral and governmental units). These data include an encoding of the geographic extent of the features and a minimal number of attributes needed to identify and describe the features.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Framework Data",
+	"definitionContent":"Seven themes of geospatial data that are used by most organizations (geodetic control, orthoimagery, elevation and bathymetry, transportation, hydrography, cadastral and governmental units). These data include an encoding of the geographic extent of the features and a minimal number of attributes needed to identify and describe the features.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Framework Data Themes",
+	"definitionContent":"Themes providing the core (most commonly used) set of base data are known as framework data; the themes are geodetic control, orthoimagery, elevation and bathymetry, transportation, hydrography, cadastral, and governmental units. Other themes of national significance are also an important part of the National Spatial Data Infrastructure (NSDI), and must be available to share with others. Additional themes may be added with the approval of the FGDC.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},

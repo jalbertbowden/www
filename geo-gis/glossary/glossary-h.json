@@ -1,0 +1,62 @@
+{
+	"definitionTitle":"Hardware",
+	"definitionContent":"Equipment acquired and maintained, including under vendor and contractor maintenance contracts, and used for geographic information systems. Such equipment includes the following: • Personal computers (PCs): desktop PCs, workstations, laptops and associated components, such as memory and memory upgrades, hard drives and other storage devices, video and sound cards, cables, keyboards, mice, monitors, and so forth; • Servers: file, print, application, Web, database, and any other types of servers and associated components, such as hard drives, backup units, memory, equipment, cables, adapters, and so forth; • Printers and scanners: printers, plotters, digital scanners, and barcode readers; • Handheld devices: global positioning system (GPS) units and personal digital assistants (PDAs); • Other storage devices: removable hard drives, zip drives, and jump drives; • Telecommunications services that specifically support geospatial information systems and program operations, including: o Cabling - purchase and (or) installation of facility wiring and related components to support data communications; o Maintenance - maintenance and repair of local area network (LAN)/wide area network (WAN) connectivity, in total or any part, including telecommunications support for network infrastructure; • Hosting: database and application hosting costs; and • Other: related components and costs not specifically mentioned above.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Homeland Security Enterprise (HSE)",
+	"definitionContent":" The Department of Homeland Security’s effort to align the disparate elements of the Department with integrated results-based operations to gain wide-ranging efficiencies that leverage the economies of scale into a single enterprise.",
+	"definitionCategory":"",
+	"citationURLTitle":"NSDI Strategic Framework (pdf) - Approved by the FGDC December 2016",
+	"citationURL":"https://www.fgdc.gov/nsdi-plan/2017/nsdi-strategic-framework.pdf"
+},
+{
+	"definitionTitle":"Housing",
+	"definitionContent":"The U.S. Department of Housing and Urban Development’s (HUD’s) database maintains geographic data on homeownership rates, including many attributes, such as HUD revitalization zones, location of various forms of housing assistance, first-time homebuyers, underserved areas, and race. Data standards have not yet been formalized.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Housing",
+	"definitionContentList": { 
+		"definitionContentListItem":"Department of Housing and Urban Development (HUD)"
+	},
+	"definitionContent":"HUD's database maintains geographic data on homeownership rates, including many attributes such as HUD revitalization zones, location of various forms of housing assistance, first-time homebuyers, underserved areas, and race. Data standards have not yet been formalized.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Human Health and Disease",
+	"definitionContent":"The Human Health and Disease category Web page was authored by the geodata.gov development team in May 2003. Human health theme relates to the protection, improvement, and promotion of the health and safety of all people. For example, public health databases include spatial data on mortality and natality events, infectious and notifiable diseases, incident cancer cases, behavioral risk factors, tuberculosis surveillance, hazardous substance releases and health effects, hospital statistics, and other similar data. Typical keywords are disease, illness, health, hygiene, substance abuse, mental health, physical health, or health care providers.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Hydrography",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI", 
+		"definitionContentListItem":"USGS"
+	},
+	"definitionCategory":"Framework Theme",
+	"definitionContent":"This data theme includes surface water features such as lakes, ponds, streams and rivers, canals, oceans, and coastlines. Each hydrography feature is assigned a permanent feature identification code (Environmental Protection Agency Reach Code) and may also be identified by a feature name. Spatial positions of features are encoded as centerlines and polygons. Also encoded is network connectivity and direction of flow.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Hydrography",
+	"definitionContent":"This theme includes surface water features, such as lakes, ponds, streams and rivers, canals, oceans, and coastlines. Each hydrography feature is assigned a permanent feature identification code (U.S. Environmental Protection Agency Reach Code) and may also be identified by a feature name. Spatial positions of features are encoded as centerlines and polygons. Also encoded is network connectivity and direction of flow.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Hydrography",
+	"definitionContent":"The scientific description and analysis of the physical conditions, boundaries, flow, and related characteristics of Earth’s surface waters. Hydrographic data typically refer to the boundaries of water bodies.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},

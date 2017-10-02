@@ -1,8 +1,44 @@
 {
+	"definitionTitle":"Watershed Boundaries",
+	"definitionContent":"This theme encodes hydrologic watershed boundaries into topographically defined sets of drainage areas, organized in a nested hierarchy by size, and based on a standard hydrologic unit coding system.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Watershed Boundaries",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI (Co-Leader)",
+		"definitionContentListItem":"USGS (Co-Leader)",
+		"definitionContentListItem":"USDA (Co-Leader)",
+		"definitionContentListItem":"NRCS (Co-Leader)"
+	},
+	"definitionContent":"This data theme encodes hydrologic, watershed boundaries into topographically defined sets of drainage areas, organized in a nested hierarchy by size, and based on a standard hydrologic unit coding system.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
 	"definitionTitle":"Web Service",
 	"definitionContent":"Web Service is an application exposed over the Internet using well-documented APIs which allow users and client applications to perform some defined set of functionality.",
 	"citationURLTitle": "Glossary of Terms - GeoPlatform Concepts - GeoPlatform.gov",
 	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
+},
+{
+	"definitionTitle":"Wetlands",
+	"definitionContent":"The wetlands data layer provides the classification, location, and extent of wetlands and deepwater habitats. There is no attempt to define the proprietary limits or jurisdictional wetland boundaries of any Federal, State, or local agencies.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Wetlands",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI",
+		"definitionContentListItem":"Fish and Wildlife Service"
+	},
+	"definitionContent":"The wetlands data layer provides the classification, location, and extent of wetlands and deepwater habitats. There is no attempt to define the proprietary limits or jurisdictional wetland boundaries of any federal, state, or local agencies.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
 },
 {
 	"definitionTitle":"WFS",

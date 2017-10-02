@@ -1,0 +1,136 @@
+
+{
+	"definitionTitle":"Image Processing System (IPS)",
+	"definitionContent":"An integrated system for collecting, storing, accessing, sharing, disseminating, integrating, manipulating, visualizing, analyzing and otherwise exploiting geospatial imagery. An IPS focuses on producing and exploiting digital orthoimagery that conveys geospatial information in raster image form. It is used widely in government, education, and business. Also, a general-purpose collection of tools for processing geospatial imagery. It normally consists of one or more applications with one or more databases. The IPS may be configured as a desktop application or as a collection of client and server components.",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Image Services",
+	"definitionContent":"Upon request, an image service provides an image of the requested layer(s) in either the specified or default rendering style(s). Typical output formats include Portable Network Graphics (PNG) format, Graphics Interchange Format (GIF), Joint Photographic Expert Group (JPEG) format, and Tagged Image File Format (TIFF).",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Imagery and Base Maps",
+	"definitionContent":"The Imagery and Base Maps category Web page was authored by the U.S. Geological Survey (USGS) and its partners in September 2004 and was last updated in April 2007. Eventually, it will consist of the following three sub-areas: orthoimagery, base maps, and other imagery. The Orthoimagery sub-channel, which is the only sub-channel currently populated, contains general information about rectified imagery, its sources, orthoimagery acquisition programs, and the access and dissemination of those data, including aerial photography, which is the source of orthoimagery. The Base Maps sub-channel category will consist of those base themes not covered by other categories. They are represented by such national datasets as the Geographic Names database and the National Land Cover Database. The Other Imagery sub-channel will consist of general information about imagery other than orthoimagery. Much of the information and data contained in this sub-channel will be satellite and other remotely sensed imagery.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Independent Establishment",
+	"definitionContent":"An independent establishment means an establishment in the Executive branch (other than the United States Postal Service or the Postal Regulatory Commission) that is not an Executive department, military department, Government corporation, or part thereof, or part of an independent establishment (5 USC § 104)",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information",
+	"definitionContent":"Any communication or representation of knowledge, such as facts, data, or opinions in any medium or form, including textual, numerical, graphic, cartographic, narrative, or audiovisual forms.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Dissemination Product",
+	"definitionContent":"Any book, paper, map, machine-readable material, audiovisual production, or other documentary material, regardless of physical form or characteristic, disseminated by an agency to the public.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Lifecycle",
+	"definitionContent":"The stages through which information passes, typically characterized as creation or collection, processing, dissemination, use, storage, and disposition.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Management",
+	"definitionContent":"The planning, budgeting, manipulating, and controlling of information throughout its lifecycle.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Processing Services Organization",
+	"definitionContent":"A discrete set of personnel, information technology, and support equipment with the primary function of providing services to more than one agency on a reimbursable basis.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Resource Management",
+	"definitionContent":"The process of managing information resources to accomplish agency missions. The term encompasses both information itself and the related resources, such as personnel, equipment, funds, and information technology.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Resources",
+	"definitionContent":"The term that includes both government information and information technology.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Systems",
+	"definitionContent":"A discrete set of information resources organized for the collection, processing, maintenance, transmission, and dissemination of information, in accordance with defined procedures, whether automated or manual.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Systems Lifecycle",
+	"definitionContent":"The phases through which an information system passes, typically characterized as initiation, development, operation, and termination.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Technology",
+	"definitionContent":"Any equipment or interconnected system or subsystem of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by an executive agency. For purposes of the preceding sentence, equipment is used by an executive agency if the equipment is either used by the executive agency directly or is used by a contractor under a contract with the executive agency which (i) requires the use of such equipment, or (ii) requires the use, to a significant extent, of such equipment in the performance of a service or the furnishing of a product. The term "information technology" includes computers, ancillary equipment, software, firmware and similar procedures, services (including support services), and related resources. The term "information technology" does not include any equipment that is acquired by a Federal contractor incidental to a Federal contract. The term "information technology" does not include national security systems as defined in the Clinger-Cohen Act of 1996 (40 U.S.C. 1452).",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Information Technology",
+	"definitionContent":"Critical Information Technology sector functions support the sector’s ability to produce and provide high-assurance information technolgoy (IT) products and services for a variety of sectors. Through the IT sector-specific plan (SSP) development process, the sector identified six critical functions: • Provide IT products and services; • Provide incident management capabilities; • Provide domain name resolution services; • provide identity management and associated trust support services; • Provide Internet-based content, information, and communications services; and • Provide Internet routing, access, and connection services. These functions are distributed across a broad network of infrastructure, are managed on a proactive basis, and are therefore able to withstand and rapidly recover from most threats. These critical Information Technoogy sector functions are provided by a combination of entities—often owners and operators and their respective associations—who provide hardware, software, IT systems, and services. IT services include development, integration, operations, communications, and security. Information Technology sector entities include the following: • Domain Name System (DNS) root and generic top-level domain operators; • Internet service providers (ISPs); • Internet backbone providers; • Internet portal and e-mail providers; • Networking hardware companies (for example, fiberoptics makers and line acceleration hardware manufacturers) and other hardware manufacturers [for example, personal computer (PC) and server manufacturers and information storage companies); • Software companies; • Security services vendors; • Communications companies that characterize themselves as having an IT role; • Edge and core service providers; • IT system integrators; and • IT security associations. In addition, Federal, State, and local governments are a component of the Information Technology sector as providers of government IT services that are designed to meet the needs of citizens, businesses, and employees. The Information Technology sector includes public and private sector entities.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Inland Water Resources",
+	"definitionContent":"The Inland Water Resources category deals with the movement and characteristics of water on or under the surface of the earth. This includes, but is not limited to, themes about rivers, lakes, wetlands, canals, glaciers, dams, wells, floods and flood hazards, streamflow, and water use. Some of the most prominent links in this category are to large databases, such as the National Hydrography Dataset (NHD). However, the category also includes many thematic datasets dealing with water issues in specific locations. There are two major sub-categories. The first, The Drainage Network, includes the NHD and digital elevation models. The second, Major Water Databases, includes the U.S. Geological Survey’s (USGS) National Water Information System (NWIS) and U.S. Environmental Protection Agency’s (EPA) Storage and Retrieval (STORET) database.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"International Boundaries",
+	"definitionContent":"International boundary data include both textual information to describe, and geographic information system (GIS) digital cartographic data to depict, both land and maritime international boundaries, other lines of separation, limits, zones, enclaves and exclaves, and special areas between States and dependencies.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"International Boundaries",
+	"definitionContentList": { 
+		"definitionContentListItem":"Department of State"
+	},
+	"definitionContent":"International boundary data include both textual information to describe, and GIS digital cartographic data to depict, both land and maritime international boundaries, other lines of separation, limits, zones, enclaves/exclaves and special areas between States and dependencies.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Inventory/Evaluate",
+	"definitionContent":"The creation and publication of a detailed list of data assets and data gaps (both internal and external) as they relate to business-driven user needs (stage 2 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+}

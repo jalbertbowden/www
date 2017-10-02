@@ -1,0 +1,86 @@
+{
+	"definitionTitle":"Banking and Finance",
+	"definitionContent":"The Banking and Finance sector may be divided into several functions: deposit and payments systems; credit and liquidity products; investment products; and risk transfer products. Various members of the Financial and Banking Information Infrastructure Committee (FBIIC) regulate each of these functions. The financial regulators, through their oversight authority, obtain a vast amount of information on institutions, critical assets and processes, and potential vulnerabilities. Sector-wide risks assessments are process-driven and address interdependence. Individual institutions also conduct their own risk assessments to identify and mitigate internal vulnerabilities and external dependencies. The Treasury Department, through collaboration and insights obtained from the members of the FBIIC, gathers sector-specific information. Although the definition of asset data is limited to the categories collected by the regulators, regulatory examinations and trade association surveys are thorough and provide adequate information for defining financial assets. General information for assets may include the following (as appropriate): • Asset name, mailing address, physical location,owner and (or) operator name; • Function or type of transaction – deposit and payments systems; credit and liquidity products, including investment and risk transfer; • Geographic region and financial center; • Number of employees; • Economic contribution – total market value of financial transactions conducted by or through the asset on a daily, weekly, monthly, and yearly basis; • International considerations; • Existing and planned protective measures; • Membership in a regional partnership or Information Sharing and Analysis Center (ISAC); • Dependence on other sectors – Communications, Energy, Information Technology, and Transportation; • Interaction with other assets (that is, other critical national assets directly and indirectly affected by the operation of each asset); • Backup capability – location and function of backup facilities (data center and business resumption); and • Substitutability – whether other industry systems or infrastructures would be able to serve the same function. Intangible assets, such as systems, databases, or networks, are linked to physical assets and locations. Systemically significant assets are stratified by their examination agency with respect to criticality to the financial services sector as a whole.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Baseline (mMritime)",
+	"definitionContent":"Baseline (maritime) represents the line from which maritime zones and limits are measured. Examples of these limits include the territorial sea, contiguous zone, and exclusive economic zone. The spatial extent of the baseline is defined as “ordinary low water,” interpreted to mean lower low water, as depicted on National Ocean Service nautical charts and (or) appropriate supplemental information.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Baseline (Maritime)",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOC (Co-Leader)",
+		"definitionContentListItem":"NOAA and DOI (Co-Leader)",
+		"definitionContentListItem":"Minerals Management Service (MMS) (Co-Leader)"
+	},
+	"definitionContent":"Baseline represents the line from which maritime zones and limits are measured. Examples of these limits include the territorial sea, contiguous zone, and exclusive economic zone. The spatial extent of the baseline is defined as \"ordinary low water,\" interpreted as mean lower low water, as depicted on National Ocean Service nautical charts and/or appropriate supplemental information.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Bathymetry",
+	"definitionContent":"The measurement of the depth of bodies of water.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Biological Resources",
+	"definitionContent":"Biological resources include data pertaining to, or descriptive of, (nonhuman) biological resources and their distributions and habitats, including data at the suborganismal (genetics, physiology, anatomy, and so forth), organismal (subspecies, species, systematics), and ecological (populations, communities, ecosystems, biomes, and so forth) levels.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Biological Resources",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI",
+		"definitionContentListItem":"U.S. Geological Survey (USGS)"
+	},
+	"definitionContent":"This dataset includes data pertaining to or descriptive of (nonhuman) biological resources and their distributions and habitats, including data at the suborganismal (genetics, physiology, anatomy, etc.), organismal (subspecies, species, systematics), and ecological (populations, communities, ecosystems, biomes, etc.) levels.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Biology and Ecology",
+	"definitionContent":"The Biology and Ecology category Web page was authored by the National Biological Information Infrastructure (NBII) knowledge management team. These data pertain to, or are descriptive of (nonhuman) biological resources and their distributions and habitats, including data at the suborganismal (genetics, physiology, anatomy, and so forth), organismal (subspecies, species, systematics), and ecological (populations, communities, ecosystems, biomes, and so forth) levels.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Budget Planning",
+	"definitionContent":"Tactical or operational financial planning.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Buildings and Facilities",
+	"definitionContent":"The facility theme includes Federal sites or entities with a geospatial location deliberately established for designated activities; a facility database might describe a factory, military base, college, hospital, powerplant, fishery, national park, office building, space command center, or prison. Facility data are submitted from several agencies because there is no one party responsible for all the facilities in the Nation and because facilities encompass a broad spectrum of activities. The FGDC promotes standardization of database structures and schemas to the extent practical.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Buildings and Facilities",
+	"definitionContentList": { 
+		"definitionContentListItem":"General Services Administration"
+	},
+	"definitionContent":"The facility theme includes federal sites or entities with a geospatial location deliberately established for designated activities; a facility database might describe a factory, military base, college, hospital, power plant, fishery, national park, office building, space command center, or prison. Facility data is submitted from several agencies, since there is no one party responsible for all the facilities in the Nation, and facilities encompass a broad spectrum of activities. The FGDC promotes standardizing on database structures and schemas to the extent practical.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Business and Economics",
+	"definitionContent":"The Business and Economic category Webpage has been managed since June 2004 by Professor Grant Thrall of the University of Florida, and a team representing the American Real Estate Society (ARESnet.org). If you are new to this site, one might first check out the collection of links on Downloadable Data—Featured Real Estate and Business Geography. Metadata there includes keywords that one can use to query with the Geospatial One-Stop (GOS) search engine. Typical keywords are income, wage, production, labor, revenue, commerce, housing, office, retail, unemployment, industry, population.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+}

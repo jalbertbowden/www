@@ -1,6 +1,89 @@
 {
+	"definitionTitle":"A–16 NGDA Portfolio",
+	"definitionContent":"A group of NGDA Themes, each of which is comprised of related NGDA Datasets selected from a much larger and continually changing universe of geospatial datasets. Only a select subset of these will rise to the significance required for NGDA Dataset designation as recommended by the relevant NGDA Theme Lead, concurred on by the FGDC Coordination Group, and designated by the FGDC Steering Committee.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"A-16 Stakeholder Community",
+	"definitionContent":"A group of individuals and (or) agencies that affect or are affected by A–16 themes and associated datasets. This group is composed of Federal agency partners, including State, tribal, and local governments, the private and nonprofit sectors, academia, and the public at-large.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Access",
+	"definitionContent":"Making data produced known and retrievable to the community through documentation and discovery mechanisms so the users can meet their business requirements (stage 4 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Acquisition Planning",
+	"definitionContent":"The process by which all acquisition-related disciplines of an acquisition program are developed, coordinated, and integrated into a comprehensive plan for executing the program and meeting the stated requirements within the cost and schedule boundaries.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Administrative and Political Boundaries",
+	"definitionContent":"The Administrative and Political Boundaries channel accommodates the voluminous universe of geospatial boundary types, including governmental unit boundaries, statistical tabulation boundaries, marine boundaries, and administrative areas. Examples of administrative and political boundaries include State and county boundaries, voting districts, Federally owned and managed lands, local tax districts, school districts, flood zones, empowerment and enterprise zones, American Indian trust lands, and minor civil divisions. The administrative and political boundaries channel is maintained by the U.S. Census Bureau.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
 	"definitionTitle":"AGOL",
 	"definitionContent":"ArcGIS Online is a geographic information system (GIS) for working with maps and geographic information.",
 	"citationURLTitle": "Glossary of Terms - Miscellaneous Terms - GeoPlatform.gov",
 	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
-}
+},
+{
+	"definitionTitle":"Agriculture and Farming",
+	"definitionContent":"The Agriculture and Farming category Web page was authored by the geodata.gov development team in May 2003.Typical keywords are agriculture, irrigation, aquaculture, plantation, crops, herding, pests, diseases, or livestock.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Agriculture and Food",
+	"definitionContent":"The Agriculture and Food sector comprises systems of individual assets that are closely dependent upon each other. Because of its complexity, the sector has struggled to identify its most critical assets, systems, networks, and functions. Although the sector understands its individual systems and basic interrelationships, the challenge has been to understand the complexities and interdependencies across the farm-to-table continuum on national and regional scales. The Agriculture and Food sector has extensive, open, widely dispersed, diverse, and complex interdependent systems; therefore, the physical asset-based approach may not fit the Agriculture and Food sector.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Analog",
+	"definitionContent":"Of, relating to, or being a device in which data are represented by variable measurable physical quantities. In this Circular, refers to \"paper\" maps.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Annual Reporting",
+	"definitionContent":"The submission of progress reports on the NSDI that are made by theme lead agencies to the FGDC to fulfill the yearly reporting requirements of OMB Circular A–16",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Archive",
+	"definitionContent":"Required retention of data and the data’s retirement into long-term storage (stage 7 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Asset Lifecycle Management",
+	"definitionContent":"The management of an asset (both data and services assets) covering all phases of acquisition, operation, and logistics support of an item, beginning with concept definition and continuing through disposal of the asset.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Atmosphere and Climate",
+	"definitionContent":"Climate data describe the spatial and temporal characteristics of Earth’s atmosphere/hydrosphere/land surface system. These data represent both model-generated and observed (either in situ or remotely sensed) environmental information, which can be summarized to describe surface, near surface, and atmospheric conditions over a range of scales. Typical keywords are cloud cover, weather, climate, atmospheric conditions, climate change, atmosphere, air, sky, or precipitation.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},

@@ -1,0 +1,17 @@
+{
+	"definitionTitle":"Vegetation",
+	"definitionContent":"Vegetation data describe a collection of plants or plant communities with distinguishable characteristics that occupy an area of interest. Existing vegetation covers or is visible at or above the land or water surface and does not include abiotic factors that tend to describe potential vegetation.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Vegetations",
+	"definitionContentList": { 
+		"definitionContentListItem":"USDA",
+		"definitionContentListItem":"U.S. Forest Service"
+	},
+	"definitionContent":"Vegetation data describe a collection of plants or plant communities with distinguishable characteristics that occupy an area of interest. Existing vegetation covers or is visible at or above the land or water surface and does not include abiotic factors that tend to describe potential vegetation.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+}

@@ -1,0 +1,21 @@
+{
+	"definitionTitle":"Update Resource Content",
+	"definitionContent":"To change content of a published asset.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Use/Evaluate",
+	"definitionContent":"The ongoing assessment, validation, and potential enhancement of data to meet user needs and business requirements (stage 6 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Utilities and Communication",
+	"definitionContent":"The Utilities and Communication category Web page was authored by the geodata.gov development team in May 2003. Typical keywords are hydroelectricity, geothermal, solar and nuclear sources of energy, water purification and distribution, sewage collection and disposal, electricity and gas distribution, data communication, telecommunication, radio, or communication networks.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+}

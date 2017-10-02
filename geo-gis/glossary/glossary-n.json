@@ -1,6 +1,96 @@
 {
+	"definitionTitle":"National Geospatial Data Assets (NGDA)",
+	"definitionContent":" OMB Circular A -16 Supplemental Guidance established the concept that geospatial data is a capital asset and laid the foundation for a portfolio management approach. NGDA Datasets are assets that have been designated by the Federal Geographic Data Committee (FGDC) Steering Committee and meet at least one of the following criteria:",
+	"definitionContentList":
+		{
+			"definitionContentListItem":"supports mission goals of multiple Federal agencies;",
+			"definitionContentListItem":"statutorily mandated;",
+			"definitionContentListItem":"supports Presidential priorities as expressed by Executive Order or by OMB."
+		},
+	"definitionCategory":"",
+	"citationURLTitle":"NSDI Strategic Framework (pdf) - Approved by the FGDC December 2016",
+	"citationURL":"https://www.fgdc.gov/nsdi-plan/2017/nsdi-strategic-framework.pdf"
+}, 
+{
 	"definitionTitle":"NGDA",
 	"definitionContent":"National Geospatial Data Asset is a geospatially-empowered dataset, data object, or data product managed by the United States Federal Government.",
 	"citationURLTitle": "Glossary of Terms - Miscellaneous Terms - GeoPlatform.gov",
 	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
-}
+},
+{
+	"definitionTitle":"NGDA Dataset",
+	"definitionContent":"A geospatial dataset that has been designated as such by the FGDC Steering Committee and meets at least one of the following criteria: (1) supports mission goals of multiple Federal agencies; (2) statutorily mandated; or (3) supports Presidential priorities as expressed by Executive Order or by OMB.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"NGDA Dataset Manager",
+	"definitionContent":"Individuals who provide coordination and standards for NGDA Datasets at a national level. NGDA Dataset Managers provide information to their NGDA Theme Lead for management and reporting.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"NGDA Theme (A-16 Theme)",
+	"definitionContent":"Representations of conceptual topics describing digital spatial information for the Nation. Themes contain associated datasets (with attribute records and coordinates) that are documented, verifiable, and officially designated to meet recognized standards. A theme contains one or more datasets of geographic information to be used in common and from which other datasets can be derived. Themes are listed in OMB Circular A–16.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"NGDA Theme Lead",
+	"definitionContent":"Individuals who provide interdepartmental leadership and coordination at the NGDA Theme level. They work with component NGDA Dataset Managers to develop standards and provide guidance. The NGDA Theme Lead, or designee, chairs the NGDA Theme’s Thematic Committee and manages the annual process of providing NGDA Dataset collaboration and funding recommendations to the FGDC Steering Committee for those NGDA Datasets within their NGDA Theme. Additionally, the NGDA Theme Lead reports to the Executive NGDA Theme Champion and the FGDC Coordination Group on the NGDA Theme’s activities and investments (both current and planned).",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"National Monuments and Icons (NMI)",
+	"definitionContent":"A number of NMI assets located within the United States and its Territories (for example, Puerto Rico and the Northern Mariana Islands) are listed on the National Register of Historic Places or the List of National Historic Landmarks. The National Register of Historic Places is the Nation’s official list of cultural resources reserved for preservation. The National Historic Landmarks are significant historic places designated by the Secretary of the Interior for their exceptional value or quality in illustrating or interpreting the heritage of the United States. Currently, fewer than 2,500 historic places bear this national distinction. The criteria applied to evaluate properties for possible designation as National Historic Landmarks are delineated in the Code of Federal Regulations (36 CFR 65.4, National Historic Landmark Criteria). Through the U.S. Department of Homeland Security (DHS) and State Offices of Homeland Security, the U.S. Department of the Interior (DOI) will work at the Federal, State, tribal, and local government levels, and with the private sector, to identify other NMI assets that may not be on either list but should be considered as National Critical.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"National Spatial Data Infrastructure (NSDI)",
+	"definitionContent":" Executive Order 12906 established the National Spatial Data Infrastructure (NSDI) as “the technology, policies, standards, and human resources necessary to acquire, process, store, distribute, and improve the utilization of geospatial data.”",
+	"definitionCategory":"",
+	"citationURLTitle":"NSDI Strategic Framework (pdf) - Approved by the FGDC December 2016",
+	"citationURL":"https://www.fgdc.gov/nsdi-plan/2017/nsdi-strategic-framework.pdf"
+},
+{
+	"definitionTitle":"National Spatial Data Infrastructure (NSDI)",
+	"definitionContent":"The NSDI ensures that spatial data from multiple sources (Federal, State, tribal, and local governments, academia, and the private sector) are available and easily integrated to enhance the understanding of our physical and cultural world. The NSDI reflects several key public values: ? Privacy and security ? Data accuracy ? Access for all citizens ? Protection of proprietary interests ? Interoperability of Federal information systems",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"National Spatial Data Infrastructure",
+	"definitionContent":"The technology, policies, standards, human resources, and related activities necessary to acquire, process, distribute, use, maintain, and preserve spatial data (e.g., information and process discovery, publishing data, publishing symbol libraries, query filtering, data fusing, Earth imaging, photogrammetry, location processing, and spatial analysis).",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"National System of Geospatial-Intelligence (NSG)",
+	"definitionContent":" Executive Order 12333 established the Director of the National Geospatial-Intelligence Agency as the Functional Manager for Geospatial Intelligence (GEOINT). The Director established the NSG to contribute to the overall advancement of the GEOINT function. The NSG can be viewed as an integrated, collaborative community of GEOINT professionals embedded with our operational and national partners to meet their warfighting and intelligence needs.",
+	"definitionCategory":"",
+	"citationURLTitle":"NSDI Strategic Framework (pdf) - Approved by the FGDC December 2016",
+	"citationURL":"https://www.fgdc.gov/nsdi-plan/2017/nsdi-strategic-framework.pdf"
+}, 
+{
+	"definitionTitle":"Nationally Significant",
+	"definitionContent":"Describes themes—and their datasets—that help protect and manage national infrastructure and resources or that can be used across multiple Federal, State, tribal, or local governments to meet their missions and implement their business processes.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Nuclear Reactors, Materials and Waste",
+	"definitionContent":"A license or certificate from the U.S. Nuclear Regulatory Commission (NRC) is required before any entity is permitted to operate a civilian nuclear facility or receive risk-significant nuclear or radioactive material. Records of the formal NRC regulatory process and licensing and certificate reviews are a means of identifying the nuclear facilities and other entities that use, acquire, transport, or dispose of risk-significant nuclear or radioactive material.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+

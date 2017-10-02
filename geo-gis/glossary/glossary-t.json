@@ -1,0 +1,68 @@
+{
+	"definitionTitle":"Technology",
+	"definitionContent":"The scientific method and material used to achieve a commercial or industrial objective. Jargon for \"software,\" \"hardware,\" \"protocol,\" or something technical in nature.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Themes",
+	"definitionContent":"Representations of conceptual topics describing digital spatial information for the Nation. Themes contain associated datasets (with attribute records and coordinates) that are documented, verifiable, and officially designated to meet recognized standards. A theme contains one or more datasets of geographic information to be used in common and from which other datasets can be derived. Themes are listed in OMB Circular A–16.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Topics",
+	"definitionContent":"The central concept for applying context to data; an aggregate of characteristics, occurrences, and roles played in associations with other topics, whose organizing principle is a single subject. A subject (an area of study) is, in the most generic sense, anything whatsoever, regardless of whether it exists or has any other specific characteristics, about which anything whatsoever may be asserted by any means whatsoever.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Transportation",
+	"definitionContent":"Transportation data are used to model the geographic locations, interconnectedness, and characteristics of the transportation system within the United States. The transportation system includes both physical and nonphysical components representing all modes of travel that allow the movement of goods and people between locations.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Transportations",
+	"definitionContentList": { 
+		"definitionContentListItem":"Department of Transportation", 
+		"definitionContentListItem":"Bureau of Transportation Statistics"
+	},
+	"definitionCategory":"Framework Theme",
+	"definitionContent":"Transportation data are used to model the geographic locations, interconnectedness, and characteristics of the transportation system within the United States. The transportation system includes both physical and non-physical components representing all modes of travel that allow the movement of goods and people between locations.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Transportation (Marine)s",
+	"definitionContentList": { 
+		"definitionContentListItem":"USACE"
+	},
+	"definitionContent":"The Navigation Channel Framework consists of highly accurate dimensions (geographic coordinates for channel sides, centerlines, wideners, turning basins, and River Mile Markers) for every federal navigation channel maintained by USACE. The Navigation Framework will provide the basis for the marine transportation theme of the geospatial data framework.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Transportation (Marine)",
+	"definitionContent":"The Navigation Channel Framework consists of highly accurate dimensions (geographic coordinates for channel sides, centerlines, wideners, turning basins, and river mile markers) for every Federal navigation channel maintained by U.S. Army Corps of Engineers (USACE). The Navigation Framework will provide the basis for the marine transportation theme of the geospatial data framework.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Transportation Networks",
+	"definitionContent":"Transportation data are used to model the geographic locations, interconnectedness, and characteristics of the transportation system within the United States. The transportation system includes both physical and nonphysical components representing all modes of travel that allow the movement of goods and people between locations. Typical keywords are roads, airports/airstrips, shipping routes, tunnels, nautical charts, vehicle or vessel location, aeronautical charts, or railways.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Transportation Systems",
+	"definitionContent":"The national transportation network is a large, multifaceted, interdependent mix of links, nodes, flows, processes, agreements, rules, relationships, and regulations. This complex cloud of activity must be reduced into more manageable data to be used for risk analysis. To assist stakeholders within the Transportation Systems sector in defining systems, thematic perspectives or risk views will be used. It presumed that data collected in these views will be collectively exhaustive. Instead, the risk view structure supports a scalable system analysis capability, allowing for the examination of how risk manifests in the system. Risk views are the first step in defining the boundaries of a system, establishing relationships within the system, and identifying interdependencies. The initial set of risk views includes the following: • Modal – Traditional industry delineation (that is, aviation, maritime, mass transit, highway, freight rail, and pipeline). All assets within a mode can be collectively evaluated as a system. • Geographic – All assets within a geographic boundary (for example, New York State or the city of Los Angeles). This view may be used most often by the grants and training (G&amp;T) community, and State, tribal, and local government partners. • Functional – All assets that, taken together, perform a specific function or service (for example, supplying fuel to the Northeast). This view is supply chain-focused and may be used by, for example, the U.S. Coast Guard (USCG), U.S. Customs and Border Protection (CBP), interagency hazardouse materials (HAZMAT) transportation working groups, and private sector partners. • Ownership – All assets that fall under a defined set of decision rights, recognized by Federal, State, tribal, and local governments (for example, all assets owned and operated by the New York Mass Transit Authority) can be evaluated as a system.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+}

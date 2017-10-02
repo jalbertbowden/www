@@ -1,0 +1,110 @@
+{
+	"definitionTitle":"Earth Cover",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI", 
+		"definitionContentListItem":"USGS"
+	},
+	"definitionContent":"The Earth Cover theme uses a hierarchical classification system based on observable form and structure, as opposed to function or use. This system transitions from generalized to more specific and detailed class divisions, and provides a framework within which multiple land cover and land use classification systems can be cross-referenced. This system is applicable everywhere on the surface of the Earth. This theme differs from the Vegetation and Wetlands themes, which provide additional detail.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Earth Cover",
+	"definitionContent":"The Earth cover theme uses a hierarchical classification system based on observable form and structure, as opposed to function or use. This system transitions from generalized to more specific and detailed class divisions and provides a framework within which multiple land cover and land use classification systems can be cross-referenced. This system is applicable everywhere on the surface of Earth. This theme differs from the Vegetation and Wetlands themes, which provide additional detail.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Elevation and Derived Products",
+	"definitionContent":"The Elevation and Derived Products category Web page was authored by the U.S. Geological Survey and its partners in June 2004. These data contain georeferenced digital representations of terrestrial surfaces (natural or manmade) or bathymetric data, and their height above or below a reference datum surface. Data may be encapsulated in an evenly spaced grid (raster form) or may be randomly spaced (triangular irregular network, hypsography, and single points). The elevation points can have varying horizontal and vertical resolution and accuracy.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Elevation Bathymetric",
+	"definitionContent":"Bathymetric data for inland and intercoastal waterways are highly accurate bathymetric sounding information collected to ensure that Federal navigation channels are maintained to their authorized depths. Bathymetric survey activities support the Nation’s critical nautical charting program. These data are also used to create electronic navigational charts. The bathymetric sounding data support the elevation layer of the geospatial data framework.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Elevation Bathymetric",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOC (Co-Leader)",
+		"definitionContentListItem":"NOAA (U.S. waters outside channels) (Co-Leader)",
+		"definitionContentListItem":"US Army Corps of Engineers (USACE) (inland waterways) (Co-Leader)"
+	},
+	"definitionCategory":"Framework Theme",
+	"definitionContent":"The bathymetric data for Inland and Intercoastal waterways is highly accurate bathymetric sounding information collected to ensure that federal navigation channels are maintained to their authorized depths. Bathymetric survey activities support the Nation's critical nautical charting program. This data is also used to create Electronic Navigational Charts. The bathymetric sounding data supports the elevation layer of the geospatial data framework.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Elevation Terrestrial",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI",
+		"definitionContentListItem":"USGS"
+	},
+	"definitionCategory":"Framework Theme",
+	"definitionContent":"This data contains georeferenced digital representations of terrestrial surfaces, natural or manmade, which describe vertical position above or below a datum surface. Data may be encapsulated in an evenly spaced grid (raster form) or randomly spaced (triangular irregular network, hypsography, single points). The elevation points can have varying horizontal and vertical resolution and accuracy.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Elevation Terrestrial",
+	"definitionContent":"These data contain georeferenced digital representations of terrestrial surfaces, natural or manmade, that describe vertical position above or below a datum surface. Data may be encapsulated in an evenly spaced grid (raster form) or may be randomly spaced (triangular irregular network, hypsography, and single points). The elevation points can have varying horizontal and vertical resolution and accuracy.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Emergency Services",
+	"definitionContent":"The Emergency Services System (ESS) consists of assets, systems, and networks that perform preparedness, prevention, response, and recovery functions so critical to protecting communities, saving lives, protecting property, and recovering essential community services in the wake of a disaster, that their incapacitation or destruction would have a debilitating impact on the Nation’s security, public health and safety, and psychological or moral well-being. Once nationally critical infrastructure and key resources (CI/KR) have been identified, assessed, and protected, the ESS will also address those CI/KR that are important at State, regional, tribal, and local levels. ESS assets, systems, networks, and functions embody physical, cyber, and human aspects or elements, as detailed below: • Physical CI/KR elements - An ESS facility may require specialized protection due to its unique or specialized characteristics. These can include anything that—if lost, stolen, released, damaged, compromised, or exploited—could cause an adverse effect or would be difficult to replace. Examples include: – Equipment. Unique devices, parts, or pieces of equipment; these include the key elements of communications systems; – Conveyances. Aircraft, vessels, or ground transportation vehicles housed within an ESS facility and used to carry out critical functions; – Materials. Critical items used in providing emergency service functions; and – Records. Documents in electronic or nonelectronic media. • Cyber CI/KR elements. These include cyber assets (for example, hardware and software components), systems (for example, a set of cyber assets that interact to perform a particular function), and networks (for example, interconnected assets and systems that store, process, or communicate information), as well as the information contained in them. Cyber CI/KR elements may be identified individually or included as a cyber element of a facility or asset, system, or network, and typically fulfill one of the following three roles: – Access control. Allowing only authorized personnel and visitors physical access to defined areas of a facility; – Control. Used to monitor and control sensitive processes and physical functions. Most communications systems fall within this role; – Warning and alert. Used for alerting and notification purposes to pass critical information that triggers protection and response actions. • Human elements or positions. These include positions staffed within ESS facilities that represent unique knowledge, skills, authorities, or roles, the absence of which could cause undesirable consequences. In general, the human aspect is best captured within the system or functional dimension of the assets, systems, networks, and functions continuum. They both serve as part of a system and help to perform or carry out critical functions. Categories of positions that support continuity of operations at all levels of government and functioning of the ESS include the following: – Strategic positions. Held by individuals and must be identified, assessed, and prioritized for protection to ensure continuity of essential government operations; and – Operational positions. Responsible for operating CI/KR systems, whose impairment could result in either cessation or takeover of operations, or whose compromise would make recovery from an attack more difficult (for example, law enforcement officials, HAZMAT experts, bomb squad members).",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Energy (except Nuclear Power)",
+	"definitionContent":"Broadly speaking, Homeland Security Presidential Directive 7 (HSPD–7) defines the energy sector as the Nation’s electric system (excluding nuclear powerplants and hydroelectric dams), natural gas system, and petroleum and petroleum product systems. These energy systems are highly interdependent (for example, natural gas is a significant fuel for electric generation) and are critical for other infrastructure sectors, including Communications, Drinking Water and Water Treatment Systems, Chemical, Information Technology, and Transportation Systems. Each of these interdependent energy systems consists of many individual assets, which in some cases may be highly important, but their importance varies dramatically depending on such factors as the time of day, the time of year, and system conditions. From a reliability and security perspective, however, systems are the critical characteristic of the energy sector. The Energy sector has identified six general asset or system characteristics that are important for evaluating the vulnerabilities of Energy sector infrastructure and for developing risk management programs: • Physical and location attributes – assist the Energy sector to develop consequence, vulnerability, and protective strategies; • Cyber attributes - help monitor and control the energy systems; • Volumetric or throughput attributes – define the extent of the damage, depending on the utilized capacity of the system, or points where the system may be capacity constrained; • Temporal/Load profile attributes – temporal or time-dependent dimension affected by the season of the year or the time of day; • Human attributes - include highly trained and skilled personnel who are key factors in a comprehensive Energy sector security plan; and • Importance of asset or system to the energy network – factors that impact the ability of power generation assets to function properly.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Enterprise Architecture",
+	"definitionContent":"The explicit description and documentation of the current and desired relationships among business and management processes and information technology.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Enterprise Architecture Planning",
+	"definitionContent":"The development of a framework in which one describes and justifies investments of personnel, data, and applications within an enterprise. Enterprise architecture planning is a practice used to identify geospatial capabilities across an enterprise to address consistency, functional capabilities, and performance in order to leverage geospatial investments.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Environment and Conservation",
+	"definitionContent":"The Environment and Conservation category Web page was authored by the geodata.gov development team in May 2003, and will be maintained by the U.S. Environmental Protection Agency. Typical keywords are environment, pollution, waste storage, waste treatment, environmental impact assessment, environment, conservation, meteorology, land use, remediation, nature, EIA, monitoring, risk, nature reserves, landscape, natural resources, environmental risk, heritage, water quality, and habitat.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Executive Agency",
+	"definitionContent":"An Executive department, a Government corporation, and an independent establishment (5 USC § 105)",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Executive Theme Champions",
+	"definitionContent":"A member of the Senior Executive Service or a senior level individual designated by a Theme Lead Agency’s SAOGI, who advocates for, raises awareness of, and promotes the implementation of a NGDA Theme and its NGDA Datasets. An Executive NGDA Theme Champion provides recommendations to, and advises the SAOGI on, important matters relative to the NGDA Theme’s role in the NGDA Portfolio.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},

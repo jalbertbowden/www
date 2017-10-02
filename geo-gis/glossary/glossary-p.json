@@ -1,0 +1,108 @@
+{
+	"definitionTitle":"Patterns",
+	"definitionContent":"Unique combinations of architectural or design elements (for example, processes, components, and so forth) that have proven to be useful in solving recurring architectural or design problems. The naming and reuse of patterns forms the basis of a vocabulary for communicating past experience between architects and designer .",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Plats",
+	"definitionContent":"A plan showing lines and interrelationship of lines with dimensional data on lines.",
+	"definitionCategory":"Data Analysis/Data Services (DAS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Policy and Guidance Development",
+	"definitionContent":"The development of an overall vision, set of policies, implementation strategy, and set of best practices for utilizing geospatial data and technologies as effectively as possible across an enterprise.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Portfolio Management",
+	"definitionContent":"Portfolio management is the process of tracking, maintaining, expanding, and aligning assets to address and solve the business needs of an enterprise. Portfolio management approaches include a number of components:• Strategic portfolio planning;• Coordinated development and resource pooling;• Established goals and performance measures, indicating the benefits of each asset investment, and how it contributes to the overarching goals (particularly completion/renewal) of the portfolio;• Investment selection criteria; and• Processes for reviewing the health of, and return on, asset investments that inform investment decisions, redistribution of resources, management of issues and mitigation of risks to the portfolio.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Postal and Shipping",
+	"definitionContent":"Postal and Shipping sector assets include fixed assets, such as mail distribution centers and transportation hubs, as well as complex systems, such as mail collection, transportation and distribution processes, and the information technology systems that enable e?commerce. These assets must work seamlessly together to maintain continuity of sector operations and may be subject to attack or used as mechanisms to deliver attacks. Sector security occurs in the context of extremely time-sensitive and critical business processes that are fundamental to the effectiveness and efficiency of the sector’s core operations and the business operations of its customers.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Preserve",
+	"definitionContent":"The process of saving and storing data or records. May also refer to the place where data or information is kept.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Product Specification",
+	"definitionContent":"Description of a universe of discourse and a specification for mapping the universe of discourse to a dataset.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Program Management",
+	"definitionContent":"Includes a suite of activities that support the goals of the national geospatial program, including: geospatial policy and guidance development (for example, National geospatial data policy), geospatial enterprise architecture planning (for example, business process to geospatial component mapping), governance development (for example, creation of a geospatial Steering Committee and associated charter and standard operating procedures), standards development (for example, FGDC standards), and strategic planning support (for example, data acquisition planning and geospatial blueprint development).",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Program Outreach",
+	"definitionContent":"Includes such activities as training and help desk support focused on providing education and assistance to program staff for the purpose of enabling increased usage of geospatial data and tools in day-to-day business operations. Also includes support provided to internal and external customers for the purpose of facilitating use of geospatial data and tools in decisionmaking or program evaluation efforts, as well as the development of partnerships among Federal agencies or among Federal agencies and non-Federal stakeholders.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Proven Practices",
+	"definitionContent":"Methods and activities that are \"tried and true\" including, but not limited to \"best practice.\"",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Public Health",
+	"definitionContent":"Public health themes relate to the protection, improvement, and promotion of the health and safety of all people. For example, public health databases include spatial data on mortality and natality events, infectious and notifiable diseases, incident cancer cases, behavioral risk factors, tuberculosis surveillance, hazardous substance releases and health effects, hospital statistics, and other similar data.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Public Healths",
+	"definitionContentList": { 
+		"definitionContentListItem":"Department of Health and Human Services"
+	},
+	"definitionContent":"Public health themes relate to the protection, improvement and promotion of the health and safety of all people. For example, public health databases include spatial data on mortality and natality events, infectious and notifiable diseases, incident cancer cases, behavioral risk factor and tuberculosis surveillance, hazardous substance releases and health effects, hospital statistics and other similar data.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Public Health and Healthcare",
+	"definitionContent":"This sector is generally categorized in terms of health care, such as the following: • Companies that develop, manufacture, market, or distribute health-related products or provide health care services, such as hospitals, nursing homes, or pay for care, including public health, health care-sector-specific plans, and health maintenance organizations (HMOs); • Medical product suppliers; • Medical equipment and medical device makers; • Medical laboratories; and • Life science organizations in the fields of biotechnology, biomedical technologies, pharmaceuticals, environmental, and biomedical devices. Relationships can be described as many-to-many, with interdependencies tied to both economic and functional stability. Hospitals represent only a fraction of the total sector.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Public Land Conveyance (Patent) Records",
+	"definitionContent":"Public land conveyance data are the records that describe all past, current, and future, right, title, and interest in real property. This is a system of storage, retrieval, and dissemination of documents that describe the right, title, and interest of a parcel.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Public Land Conveyance (Patent) Recordss",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI", 
+		"definitionContentListItem":"BLM"
+	},
+	"definitionContent":"Public land conveyance data are the records that describe all past, current, and future, right, title, and interest in real property. This is a system of storage, retrieval and dissemination of documents describing the right, title, and interest of a parcel.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+}

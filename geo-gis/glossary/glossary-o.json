@@ -1,4 +1,42 @@
 {
+	"definitionTitle":"Obtain",
+	"definitionContent":"Identify the mechanism(s) for the collection, purchase, conversion, transformation, sharing, exchanging, or creation of geospatial data that were selected to meet the business needs (stage 3 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Oceans and Coasts",
+	"definitionContent":"The Oceans and Coasts community Web page is organized around coastal and ocean framework data, or data needed for research, planning, and management of coastal and ocean resources. These data include, but are not limited to, bathymetry, shoreline, sea floor mapping, habitat, land cover, seismic data, fisheries, and marine boundaries. This community seeks to provide access to these data, clearinghouses, and applications; as well as information about the activities, programs, and committees that support the ocean and coastal community. The Oceans and Coast community is co-led by the Interagency Working Group on Ocean and Coastal Mapping and the FGDC’s Marine and Coastal Spatial Data Subcommittee. For more information on these efforts, refer to the “committees, programs, and organization” section of the community.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Offshore Minerals",
+	"definitionContent":"Offshore minerals include minerals occurring in submerged lands. Examples of marine minerals include oil, gas, sulfur, gold, sand and gravel, and manganese.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Offshore Minerals",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI",
+		"definitionContentListItem":"MMS"
+	},
+	"definitionContent":"Offshore minerals include minerals occurring in submerged lands. Examples of marine minerals include oil, gas, sulfur, gold, sand and gravel, and manganese.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"OMB Circular A-16",
+	"definitionContent":" The Executive Branch guidance document that provides direction for federal agencies that produce, maintain, or use spatial data either directly or indirectly in the fulfillment of their mission and provides for improvements in the coordination and use of spatial data. The Circular also describes effective and economical use and management of spatial data assets in the digital environment for the benefit of the Federal Government and the Nation. OMB issued Supplemental Guidance to A-16 in 2010 that established the concept that geospatial data is a capital asset and outlined a portfolio management approach.",
+	"definitionCategory":"",
+	"citationURLTitle":"NSDI Strategic Framework (pdf) - Approved by the FGDC December 2016",
+	"citationURL":"https://www.fgdc.gov/nsdi-plan/2017/nsdi-strategic-framework.pdf"
+},
+{
 	"definitionTitle":"OMB Circular A-16 Themes",
 	"definitionContent":"OMB Circular A-16 Themes is a circular providing direction for federal agencies that produce, maintain or use spatial data either directly or indirectly in the fulfillment of their mission.",
 	"citationURLTitle": "Glossary of Terms - Miscellaneous Terms - GeoPlatform.gov",
@@ -9,4 +47,35 @@
 	"definitionContent":"Open Map is a GeoPlatform map object which contains resource information, such as layers and features, and metadata describing the map.",
 	"citationURLTitle": "Glossary of Terms - GeoPlatform Concepts - GeoPlatform.gov",
 	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
+},
+{
+	"definitionTitle":"Orthoimage",
+	"definitionContent":"A georeferenced image prepared from a perspective photograph or other remotely-sensed data in which displacement of objects due to sensor orientation and terrain relief have been removed. It has the geometric characteristics of a map and the image qualities of a photograph.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Orthorectification",
+	"definitionContent":"The process of transforming raw imagery to an accurate orthogonal projection. Without orthorectification, scale is not constant in the image and accurate measurements of distance and direction cannot be made.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Outer Continental Shelf Submerged Lands",
+	"definitionContent":"These data include lands covered by water at any stage of the tide, as distinguished from tidelands, which are attached to the mainland or an island and cover and uncover with the tide. Tidelands presuppose a high-water line as the upper boundary, whereas submerged lands do not.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Outer Continental Shelf Submerged Lands",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI", 
+		"definitionContentListItem":"MMS"
+	},
+	"definitionContent":"This data includes lands covered by water at any stage of the tide, as distinguished from tidelands, which are attached to the mainland or an island and cover and uncover with the tide. Tidelands presuppose a high-water line as the upper boundary; whereas submerged lands do not.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
 }

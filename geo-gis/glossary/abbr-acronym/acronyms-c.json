@@ -1,4 +1,22 @@
 {
+	"definitionAcronym":"CCD",
+	"definitionAcronymDefinition":"Census County Division",
+	"citationURLTitle": "Appendix 2: Glossary of Terms and Acronyms - Governmental Units, and Administrative and Statistical Boundaries - 2016-10-01",
+	"citationURL":"https://cms.geoplatform.gov/sites/default/files/a16govunits/GOV_UNITS_THEME_Strategic_Plan_FINAL.pdf"
+},
+{
+	"definitionAcronym":"CDBG",
+	"definitionAcronymDefinition":"Community Development Block Grant",
+	"citationURLTitle": "Appendix 2: Glossary of Terms and Acronyms - Governmental Units, and Administrative and Statistical Boundaries - 2016-10-01",
+	"citationURL":"https://cms.geoplatform.gov/sites/default/files/a16govunits/GOV_UNITS_THEME_Strategic_Plan_FINAL.pdf"
+},
+{
+	"definitionAcronym":"CDP",
+	"definitionAcronymDefinition":"Census Designated Place",
+	"citationURLTitle": "Appendix 2: Glossary of Terms and Acronyms - Governmental Units, and Administrative and Statistical Boundaries - 2016-10-01",
+	"citationURL":"https://cms.geoplatform.gov/sites/default/files/a16govunits/GOV_UNITS_THEME_Strategic_Plan_FINAL.pdf"
+},
+{
 	"definitionAcronym":"CFO",
 	"definitionAcronymDefinition":"Chief Financial Officer",
 	"citationURLTitle":"Appendix A. Acronyms - Geospatial Line of Business - OMB Circular A-16 Supplemental Guidance 2010-11-10",
@@ -29,6 +47,12 @@
 	"citationURL":"https://cms.geoplatform.gov/sites/default/files/document_library/omb-circular-a16-supplemental-guidance.pdf"
 },
 {
+	"definitionAcronym":"CSDGM",
+	"definitionAcronymDefinition":"Content Standard for Digital Geospatial Metadata",
+	"citationURLTitle": "Appendix 2: Glossary of Terms and Acronyms - Governmental Units, and Administrative and Statistical Boundaries - 2016-10-01",
+	"citationURL":"https://cms.geoplatform.gov/sites/default/files/a16govunits/GOV_UNITS_THEME_Strategic_Plan_FINAL.pdf"
+},
+{
 	"definitionAcronym":"CUI",
 	"definitionAcronymDefinition":"Controlled, Unclassified Information",
 	"citationURLTitle": "Glossary of Abbreviations and Terms - National Spatial Data Infrastructure Strategic Plan 2014-2016",
@@ -39,4 +63,4 @@
 	"definitionAcronymDefinition":"Current Year (in reference to the Federal Budget process)",
 	"citationURLTitle":"Appendix A. Acronyms - Geospatial Line of Business - OMB Circular A-16 Supplemental Guidance 2010-11-10",
 	"citationURL":"https://cms.geoplatform.gov/sites/default/files/document_library/omb-circular-a16-supplemental-guidance.pdf"
-},
+}

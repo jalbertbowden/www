@@ -1,6 +1,55 @@
 {
+	"definitionTitle":"Register",
+	"definitionContent":"A set of files containing identifiers assigned to items with descriptions of the associated items.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Registry",
+	"definitionContent":"An information system on which a register is maintained.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
 	"definitionTitle":"Registry",
 	"definitionContent":"Registry is a GeoPlatform service which manages resources and metadata.",
 	"citationURLTitle": "Glossary of Terms - GeoPlatform Concepts - GeoPlatform.gov",
 	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
+},
+{
+	"definitionTitle":"Relationship Management",
+	"definitionContent":"The management of relationships formed by two or more organizations that share or participate in joint investments, and develop linked and common processes to increase the performance of both organizations.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Requirements Management and Planning",
+	"definitionContent":"Requirements management and planning is concerned with understanding the goals of the organization and its customers, and the transformation of these goals into potential functions and constraints.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Requirements Optimization",
+	"definitionContent":"The tactical organization of requirements to maximize the return on investment.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Requirements Prioritization",
+	"definitionContent":"The strategic organization of requirements to address business priorities.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Resource Maintenance",
+	"definitionContent":"The provision of a level of service against assets.",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
 }

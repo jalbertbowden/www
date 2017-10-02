@@ -1,6 +1,121 @@
 {
+	"definitionTitle":"Service",
+	"definitionContent":"A specific type of component that is explicitly intended to be shared and reused by multiple applications, either internal or external to the organization. Also defined as a distinct part of the functionality that is provided by an entity through interfaces.",
+	"definitionCategory":"General Services (GSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Service Component",
+	"definitionContent":"Modularized service-based applications that package together and process service interfaces with associated business logic into a single cohesive conceptual module. The aim of a service component is to raise the level of abstraction in software services by modularizing synthesized service functionality and by facilitating service reuse, service extension, specialization, and service inheritance.",
+	"definitionCategory":"General Services (GSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Service-Oriented Architecture (SOA)",
+	"definitionContent":"A way of designing a system to provide services to either end-user applications or other services through published and discoverable interfaces. In many cases, services offer a better way to expose discrete business functions and, therefore, an excellent way to develop applications that support business processes.",
+	"definitionCategory":"General Services (GSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Services",
+	"definitionContent":"Automated program, interface, application, or engine that performs a defined action that can be found, invoked, and executed over the Web. A geospatial Web-based service is a service that performs an action on geospatial data or information to transform, translate, or convert it to a more usable format or to update, distribute, or integrate it into an existing database or dataset for use.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Shared Services",
+	"definitionContent":"A form of internal outsourcing that enables corporations to achieve economies of scale by creating a separate internal entity within the company to perform specific services, such as payroll, accounts payable, travel, and expense processing. A typical shared services initiative takes advantage of enterprise applications and other technological developments, enabling the company to achieve additional improvements in quality to processes, such as finance, accounting, procurement, information technology (IT), and human resources. At the core of shared services is the idea that new technologies offer businesses the opportunity to (1) make better use of scarce skills, (2) provide information and services more efficiently, and (3) reduce the cost of administration. (See also definition GSV-2, service.)",
+	"definitionCategory":"General Services (GSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
 	"definitionTitle":"Shapefile",
 	"definitionContent":"Shapefile is a simple, nontopological format for storing the geometric location and attribute information of geographic features. Geographic features in a shapefile can be represented by points, lines, or polygons (areas).",
 	"citationURLTitle": "Glossary of Terms - GeoPlatform Concepts - GeoPlatform.gov",
 	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
+},
+{
+	"definitionTitle":"Shoreline",
+	"definitionContent":"Shorelines represent the intersection of the land with the water surface. The shoreline shown on National Oceanic and Atmospheric Administration (NOAA) charts represents the line of contact between the land and a selected water elevation. In areas affected by tidal fluctuations, this line of contact is the mean high-water line.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Shorelines",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOC",
+		"definitionContentListItem":"NOAA"
+	},
+	"definitionContent":"Shorelines represent the intersection of the land with the water surface. The shoreline shown on NOAA Charts represents the line of contact between the land and a selected water elevation. In areas affected by tidal fluctuations, this line of contact is the mean high water line.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Software",
+	"definitionContent":"Applies to all types of computers (for example, desktops, laptops, servers, and so forth) and includes operating systems, application software, database management software, software development suites, and any ongoing software maintenance and upgrades. Software can be either commercial off-the-shelf software or custom-developed software (that is, software developed by a vendor or contractor). Computer software used for geographic information systems (GIS) (see definition GEO-1) includes but is not limited to spatial database software, spatial data viewers, three-dimensional visualization software, software used for map development, and the associated software licenses and maintenance plans and contracts for this software. It does not include Web-based geospatial services (see definition GEO-6) nor software that comes loaded on or with a personal computer (PC) at the time of purchase.",
+	"definitionCategory":"Information (INF)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Soils",
+	"definitionContent":"Soil data consist of georeferenced digital map data and associated tabular attribute data. The map data describe the spatial distribution of the various soils that cover Earth’s surface. The attribute data describe the proportionate extent of the various soils, as well as the physical and chemical characteristics of those soils. The physical and chemical properties are based on observed and measured values, as well as model-generated values. Also included are model-generated assessments of the suitability or limitations of the soils to various land uses.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Soils",
+	"definitionContentList": { 
+		"definitionContentListItem":"USDA", 
+		"definitionContentListItem":"NRCS"
+	},
+	"definitionContent":"Soil data consist of georeferenced digital map data and associated tabular attribute data. The map data describe the spatial distribution of the various soils that cover the Earth's surface. The attribute data describe the proportionate extent of the various soils as well as the physical and chemical characteristics of those soils. The physical and chemical properties are based on observed and measured values, as well as model-generated values. Also included are model-generated assessments of the suitability or limitations of the soils to various land uses.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Spatial Data",
+	"definitionContent":"Information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the Earth. This information may be derived from remote sensing, mapping, charting, surveying technologies, GPS, or statistical data, among other sources.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Spatial Data Standards",
+	"definitionContent":"Descriptions of objects, features, or other geographically located items that are collected, automated, or affected by activities or functions of agencies, and may be structured in a model.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Standards",
+	"definitionContent":"Documented agreements containing technical specifications or other precise criteria to be used consistently as rules, guidelines, or definitions of characteristics to ensure that materials, products, processes, or services are fit for their purposes.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Standards Development",
+	"definitionContent":"Development of common geospatial content, structure, or exchange specifications.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Strategic Planning",
+	"definitionContent":"Planning that focuses on longer range objectives and goals.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
 }
+
+
+
+
+
+
+

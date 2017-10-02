@@ -1,0 +1,121 @@
+{
+	"definitionTitle":"Dams",
+	"definitionContent":"Information parameters relevant to the Dams sector include sector assets’ physical structures, personnel needs, cyber infrastructure, and protective measures. The complexity of dam functions dictates the importance of these elements.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data",
+	"definitionContent":"Factual information, especially information organized for analysis or used to reason or make decisions. In Computer Science, numerical or other information represented in a form suitable for processing by computer.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Data Acquisition",
+	"definitionContent":"Activities and costs associated with the purchase or lease of geospatial datasets from commercial, governmental, or nongovernmental entities, including States, tribes, local governments, other Federal agencies, and nongovernmental organizations for use in geospatial information systems and software.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data and (or) Spatial Analysis",
+	"definitionContent":"Analysis of geospatial data for the purpose of developing a targeted geospatial product or answering a specific programmatic question; for example, analysis of geospatial data for the purpose of developing a fact sheet and associated maps on permitted outfalls within a mile of a priority watershed in New Jersey. Data and (or) spatial analyses are usually done after the initial data processing and distribution are complete.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Collection",
+	"definitionContent":"Activities and costs associated with the collection of new geospatial data that is, data not available commercially or from other governmental or nongovernmental entities for use in geospatial information systems and software. Includes costs associated with data development and with joining a data consortium that collects or develops new data.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Distribution",
+	"definitionContent":"Any dissemination of data for use, manipulation, or integration into a geospatial information system or application that is not specifically part of a Web-based geospatial service (as defined in definition DSV?1, services). Can include a wide variety of formats and mechanisms, including electronic data interchange (EDI), Extensible Markup Language (XML), File Transfer Protocol (FTP) sites, Web sites, data marts and data warehouses, CD-ROMs, and DVDs. Can also include a variety of file types, including shapefiles, coverages, personal geodatabases, spreadsheets, and relational database files. The types of data disseminated may include raster, vector, and tabular data.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data End Users",
+	"definitionContent":"Individuals and agencies who use data after the dataset has been fully developed; the intended users of the data.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Layer",
+	"definitionContent":"Visual representation of a geographic dataset in any digital map environment; a slice of geographic reality in a particular area.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Processing",
+	"definitionContent":"Any computer process that converts geospatial data into information. Applies defined operations to a set of geospatial data inputs and generates new information that answers a spatial question. Geoprocessing tools range from common geographic information system (GIS) operations, such as overlay, buffer, and data management, to more advanced operations for raster processing, topology, and schema definition. Data processing is usually automated and electronic in nature, and occurs prior to usage. Conversion of source files from one format to another [for example, conversion of existing non-GIS hard copy materials or electronic files, such as engineering or computer-aided design (CAD) drawings, site maps, and aerial photographs, into digital inputs and outputs, or from a spreadsheet file to a database (.dbf) file] would fall under the data processing category, as would geocoding.",
+	"definitionCategory":"Data Services (DSV)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Stewards",
+	"definitionContent":"Data Stewards manage that part of a NGDA Dataset that their organization contributes to a seamless national dataset. They work with the NDGA Dataset Managers in providing coordination support, implementing needed changes to data, informing and cooperating with stakeholders, performing field work, ensuring data standards are followed, and performing data maintenance. Data Stewards are often not Federal employees, coming from other levels of government, academia, or the private sector.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Data Theme",
+	"definitionContent":"Electronic records and coordinates for a topic or subject, such as elevation, vegetation, or hydrography. In this Circular, data theme refers to a Geographic Information System (GIS), or location-based data theme.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Datasets",
+	"definitionContent":"Actual logical and physical representations of geographic features.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Defense Industrial Base (DIB)",
+	"definitionContent":"The DIB is a large, diverse, complex, interdependent, hierarchical, and free-flowing collection of asset owners and operators governed by various regulations, laws, treaties, and precedents. The U.S. Department of Defense (DoD) and the U.S. Census Bureau estimate that the DIB is composed of hundreds of thousands of worldwide Government and private sector sites, with capabilities to perform research and development, design, production, delivery, and maintenance of military weapon systems, subsystems, components, and parts to meet military requirements. Unlike other infrastructure sectors, the DIB is defined not based primarily on the type of goods and services it produces, but rather on who the customer is for these goods and services. It includes companies that perform under direct contract with the DoD, the subcontractors of these companies, and companies that provide incidental materials and services to either the DoD or the contractors. The DoD collects the following information on potential critical DIB assets: Contractor and Government entity code, name, street address, city, State, subject matter experts, facility security officers, and facility security officer contact information; Sales, employment, capacity utilization, square footage; Products, functions, production rates; Programs, components, and subsystems; Prime contractors, subcontractors, and critical subcontractors (first and second tier, selection criteria, products, and services); Business overview (for example, privately or publicly held, non-U.S. owned); Financial information; and Critical technologies. Once an asset is determined to be critical, the DOD collects the following additional information: Longitude and latitude; Buildings or other structures where industry manufactures or stores critical items; Dependencies (that is, the services and support that an asset requires to function) that a sectors asset has on other assets in the same sector and dependencies between assets from different sectors; Continuity and redundancy, including backups built into the asset (alternative sources of supply and backup production facilities); Impact on sector in cases of loss or failure (for example, economic, public health and welfare, public psyche, national security); Existing protective actions (for example, fencing, biometrics, firewalls); and Exposure to known foreign intelligence threat, such as treaty compliance regimes.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Define",
+	"definitionContent":"Characterization of data requirements based upon business-driven user needs (stage 1 of the geospatial data lifecycle).",
+	"definitionCategory":"GIS Needs Assessment (GNA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Digital Orthoimagery",
+	"definitionContent":"This dataset contains georeferenced images of Earth’s surface, collected by a sensor, in which image object displacement has been removed for sensor distortions and orientation, and terrain relief. For very large surface areas, an Earth curvature correction may be applied. Digital orthoimages encode the optical electromagnetic spectrum as discrete values modeled in an array of georeferenced pixels. Digital orthoimages have the geometric characteristics of a map and the image qualities of a photograph.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Digital Ortho Imagery",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI",
+		"definitionContentListItem":"USGS"
+	},
+	"definitionCategory":"Framework Theme",
+	"definitionContent":"This dataset contains georeferenced images of the Earth's surface, collected by a sensor in which image object displacement has been removed for sensor distortions and orientation, and terrain relief. For very large surface areas, an Earth curvature correction may be applied. Digital orthoimages encode the optical electromagnetic spectrum as discrete values modeled in an array of georeferenced pixels. Digital orthoimages have the geometric characteristics of a map, and image qualities of a photograph.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Drinking Water and Waste Treatment Systems",
+	"definitionContent":"Drinking water and wastewater assets are defined as entire utilities for purposes of identification, prioritization, and coordination in the water sector. The water sector is composed of a diverse set of drinking water and wastewater utilities. Characteristics of these utilities useful for defining sector infrastructure information are available in databases maintained by the U.S. Environmental Protection Agency (EPA). Owners and operators are responsible for conducting risk assessments of their utilities to identify components (for example, pumps, generators, and supervisory control and data acquisition systems) the loss or damage of which, whether owing to manmade or natural events, could adversely affect the utility’s operation, threaten public health or the environment, or have significant economic impacts. Critical water sector infrastructure is owned and operated predominantly by the public sector (that is, local governments). The EPA, the U.S. Department of Homeland Security (DHS), and water sector owners and operators and security partners work together to develop robust threat, vulnerability, and consequence information to help water sector utilities identify their most critical components.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},

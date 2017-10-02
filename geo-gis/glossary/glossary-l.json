@@ -1,0 +1,44 @@
+{
+	"definitionTitle":"Law Enforcement Statistics",
+	"definitionContentList": { 
+		"definitionContentListItem":"Department of Justice"
+	},
+	"definitionContent":"Law enforcement statistics describe the occurrence of events (including incidences, offenses and arrests) geospatially located, related to ordinance and statutory violations and the individuals involved in those occurrences. Also included are data related to deployment of law enforcement resources and performance measures.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Law Enforcement Statistics",
+	"definitionContent":"Law enforcement statistics describe the occurrence of events (including incidences, offenses, and arrests) that are geospatially located and related to ordinance and statutory violations, and the individuals involved in those occurrences. Also included are data related to deployment of law enforcement resources and performance measures. Note, DOJ will not release the names of “individuals involved in those occurrences” unless it is already part of a public data release in the data set.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Lead Agencies (for Themes)",
+	"definitionContent":"Certain Federal agencies have lead responsibilities for coordinating the national coverage and stewardship of specific spatial data themes. The themes in the NSDI, their description, and the responsible lead for each theme are listed in OMB Circular A–16, appendix E. Lead agency responsibilities and new themes may be added or altered by recommendation of the FGDC and concurrence by the OMB.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Lead Agency Point of Contact for Data Themes",
+	"definitionContent":"Designated point of contact within the lead agency for themes who will be responsible for the development, maintenance, coordination, and dissemination of data using the National Spatial Data Clearinghouse.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Line of Sight",
+	"definitionContent":"The indirect or direct cause-and-effect relationship from a specific information technology (IT) investment to the processes it supports and, by extension, the customers it serves and the mission-related outcomes to which it contributes.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Locations and Geodetic Networks",
+	"definitionContent":"Geodetic control provides a common reference system for establishing coordinates for all geographic data. All National Spatial Data Infrastructure (NSDI) framework data and user applications data require geodetic control to accurately register spatially. The National Spatial Reference System is the fundamental geodetic control for the United States. Typical keywords are geodetic networks, survey, or control points.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+}

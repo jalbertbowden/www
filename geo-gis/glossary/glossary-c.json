@@ -1,0 +1,179 @@
+{
+	"definitionTitle":"Cadastral",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI",
+		"definitionContentListItem":"Bureau of Land Management (BLM)"
+	},
+	"definitionCategory":"Framework Theme",
+	"definitionContent":"Cadastral data describe the geographic extent of past, current, and future right, title, and interest in real property, and the framework to support the description of that geographic extent. The geographic extent includes survey and description frameworks such as the Public Land Survey System, as well as parcel-by-parcel surveys and descriptions.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Cadastral",
+	"definitionContent":"Cadastral data describe the geographic extent of past, current, and future right, title, and interest in real property, and the framework to support the description of that geographic extent. The geographic extent includes survey and description frameworks, such as the Public Land Survey System, as well as parcel-by-parcel surveys and descriptions.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cadastral",
+	"definitionContent":"The Cadastral category Web page is maintained by the FGDC Subcommittee for Cadastral Data. Cadastral data describe the geographic extent of past, current, and future right, title, and interest in real property, and the framework to support the description of that geographic extent. The geographic extent includes survey and description frameworks, such as the Public Land Survey System, as well as parcel-by-parcel surveys and descriptions. Offshore Cadastre is the land management system used on the Outer Continental Shelf. It extends from the baseline to the extent of U.S. jurisdiction. Existing coverage is currently limited to the conterminous United States and portions of Alaska. Maximum extent of U.S. jurisdiction is not yet mathematically calculated.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cadastral (Offshore)",
+	"definitionContent":"Offshore cadastre is the land management system used on the Outer Continental Shelf. It extends from the baseline to the extent of U.S. jurisdiction. Existing coverage is currently limited to the conterminous United States and portions of Alaska. The maximum extent of U.S. jurisdiction is not yet mathematically calculated.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cadastral (Offshore)",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI",
+		"definitionContentListItem":"MMS"
+	},
+	"definitionCategory":"Framework Theme",
+	"definitionContent":"Offshore Cadastre is the land management system used on the Outer Continental Shelf. It extends from the baseline to the extent of United States jurisdiction. Existing coverage is currently limited to the conterminous United States and portions of Alaska. Maximum extent of United States jurisdiction is not yet mathematically calculated.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Cadastral Data",
+	"definitionContent":"The data representing the cadastre.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cadastre",
+	"definitionContent":"A public record, survey, or map of the value, extent, and ownership of land as a basis of taxation.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Catalog",
+	"definitionContent":"A collection of entries, each of which describes and points to a feature collection or a service (often used as synonym for register).",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Chemical",
+	"definitionContent":"Information regarding Chemical sector infrastructure for inclusion in the National Asset Database (NADB) includes the following: • Regulated chemicals produced or stored onsite; • Annual production quantity of regulated chemicals; • Quantity of regulated chemicals stored onsite; • Existance of an U.S. Environmental Protection Agency (EPA) risk management plan (RMP); • Regulated chemicals transported; • Quantity of regulated chemicals transported; • Facility security officer designated under MTSA regulations (where applicable); and • Facility emergency coordinator as identified to the local emergency planning committee (LEPC) and the State emergency response commission (SERC) pursuant to EPCRA section 303 (where applicable). The U.S. Department of Homeland Security (DHS) works with sector security partners through the Communications Government Coordinating Council (CGCC) and the Communications sector Coordinating Council (CSCC) to identify what other data fields are required to accomplish critical infrastructure and key resources (CI/KR) protection activities in the Chemical sector using a risk-informed approach. Some potential data fields include: • Dependencies and interdependencies (for example, the energy supply needed by chemical facilities, facilities requiring chemicals for wastewater treatment); • Primary area of industry end products (for example, organic, inorganic, and agricultural); • Other areas of industry end products (for example, organic, inorganic, and agricultural); • Region or service area (for example, Midwest, South, international); • Membership in the Chemical Information Sharing and Analysis Center (ISAC) or a chemical industry association; • Names of companies that provide the facility with hazardous materials transport services; • Continuity and redundancy to include backups built into the asset; • Impact on sectors (both Chemical and other CI/KR sectors) in case of loss or failure; • Existing protective measures; • Population distribution in the area surrounding the facility; • Terrain (vegetation, elevation) in the area surrounding the facility; • Land use in the area surrounding the facility; • Imagery and spatial data of the area surrounding the facility; • Structures and lines of sight to the facility; • Other critical assets in the area surrounding the facility; and • Access controls for the facility.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Clearinghouse",
+	"definitionContent":"A distributed network of data producers, managers, and users linked electronically, such as over the Internet. Through the Clearinghouse, users can use a single interface to search and access metadata and/or data for the themes they seek. The Clearinghouse includes the sites across the country where the metadata and data are stored, usually at the site of the producer or intermediary.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Climate",
+	"definitionContentList": { 
+		"definitionContentListItem":"Department of Agriculture (USDA) (Co-leader)",
+		"definitionContentListItem":"Natural Resources Conservation Service (NRCS) (Co-leader)",
+		"definitionContentListItem":"DOC",
+		"definitionContentListItem":"NOAA"
+	},
+	"definitionContent":"Climate data describe the spatial and temporal characteristics of the Earth's atmosphere/hydrosphere/land surface system. These data represent both model-generated and observed (either in situ or remotely sensed) environmental information, which can be summarized to describe surface, near surface and atmospheric conditions over a range of scales.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Climate",
+	"definitionContent":"Climate data describe the spatial and temporal characteristics of Earth’s atmosphere/hydrosphere/land surface system. These data represent both model-generated and observed (either in situ or remotely sensed) environmental information, which can be summarized to describe surface, near surface, and atmospheric conditions over a range of scales.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Commercial Facilities",
+	"definitionContent":"Several of the Commercial Facilities sub-sectors have identified the following attributes of interest for commercial facilities: • Facility location – general geographic situation (for example, financial district, industrial park); • Facility proximity – proximity to high-risk enterprises (for example, adjacency to an iconic landmark or important Federal building); • Facility size – height, footprint, number of floors, public areas; • Facility type – purpose or use of the facility (for example, office building, stadium, hotel, amusement park); • Facility functions – types of events held in the facility (for example, sporting events, political conventions, controversial exhibitions); and • Facility value – iconic and economic status of the facility (for example,.historical status, height, owner, tenants, clientele). The Commercial Facilities sector-specific agencies (SSAs) will work with each sub-sector to help identify and refine the categories of information sought for different commercial facility asset types. The types of information sought for inclusion in the National Asset Database (NADB) will then be updated accordingly.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Common Operating Picture (COP)",
+	"definitionContent":"A single identical display of relevant information shared by more than one organization. A COP facilitates collaborative planning and assists all echelons to achieve situational awareness.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Communications",
+	"definitionContent":"The complexity of sector assets, indepth corporate security programs, technology, and the numerous systems that make up the communications infrastructure help reduce the likelihood of a significant national-level network failure. For example, resiliency is achieved through the technology and redundancy employed in designing networks, and by encouraging customers to employ diverse primary and backup communications capabilities. Communications network architects employ technology and protocols (for example, Synchronous Optical Network (SONET) rings, and routing protocols), creating effective “self-healing” networks, and helping to mitigate risk at the design stage. Sector owners and operators focus on ensuring overall network reliability, maintaining “always on” capabilities for customers, and quickly restoring capabilities following a disruption. Data parameters for the sector will be defined primarily by the architecture elements of assets, systems, networks, and functions. Architectural elements in the Communications sector include the following: • Assets – shared assets and systems owned and operated by multiple companies Includes facilities in which equipment is collocated and systems shared by network operators, and equipment is owned and operated by the end user or located at the end user’s facility. Customers include individuals, organizations, businesses, and government. • Systems – signaling and control systems that exchange information about establishing a connection and control the management of the network; these systems access, primarily, the local portion of the network t end users to the backbone that enables users to send or receive communications. Access includes equipment and systems, such as Public Switched Telephone Network (PSTN) switches, Asynchronous Transfer Mode (ATM) switches, video servers for video on demand, and Internet Protocol (IP) routers for Internet service providers (ISPs). • Networks – core network/Internet backbone elements of the communications network that represent high-capacity network elements that servicing service regional, national, and international connectivity. • Functions – as defined in the National Infrastructure Protection Plan (NIPP), service, process, capability, or operations performed by specific infrastructure assets, systems, or networks.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Community Of Interest (COI)",
+	"definitionContent":"Group of individuals and (or) agencies that exchange information in pursuit of common goals, missions, or business processes.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Community of Practice (CoP)",
+	"definitionContent":"A group of individuals and (or) agency geospatial practitioners who promote collaboration of people and efforts around a common issue, topic, goal, or objective.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Coverage",
+	"definitionContent":"A function to return values from its range for any direct position within its spatial, temporal, or spatiotemporal domain (for example, include a raster image or a digital elevation model or a satellite image). See also feature (ISO 19123:2005(E)).",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cultural and Demographic Statistics",
+	"definitionContent":"These geospatially referenced data describe the characteristics of people; the nature of the structures in which they live and work; the economic and other activities they pursue; the facilities they use to support their health, recreational, and other needs; the environmental consequences of their presence; and the boundaries, names, and numeric codes of geographic entities used to report the information collected.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cultural Resources",
+	"definitionContent":"Cultural resources include historic places, such as districts, sites, buildings, and structures of significance in history, architecture, engineering, or culture. Cultural resources also encompass prehistoric features, as well as historic landscapes.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Cultural Resources",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI",
+		"definitionContentListItem":"National Park Service"
+	},
+	"definitionContent":"The cultural resources theme includes historic places such as districts, sites, buildings, and structures of significance in history, architecture, engineering, or culture. Cultural resources also encompass prehistoric features as well as historic landscapes.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Cultural and Demographic Statistics",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOC",
+		"definitionContentListItem":"U.S. Census Bureau (USCB)"
+	},
+	"definitionContent":"These geospatially referenced data describe the characteristics of people, the nature of the structures in which they live and work, the economic and other activities they pursue, the facilities they use to support their health, recreational and other needs, the environmental consequences of their presence, and the boundaries, names and numeric codes of geographic entities used to report the information collected.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Culture, Society and Demographics",
+	"definitionContent":"The Cultural, Society, and Demographic channel is maintained by the U.S. Census Bureau. Because it is the largest and most diverse of the Geospatial One-Stop (GOS) channels, the information has been subdivided into a number of sub-channels. Examples of information available through this channel include archeological sites, crime statistics, population statistics, housing characteristics, and information on education, tribal populations and welfare.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},

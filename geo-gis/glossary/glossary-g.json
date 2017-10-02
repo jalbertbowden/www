@@ -1,3 +1,86 @@
+
+{
+	"definitionTitle":"Gazetteer Services",
+	"definitionContent":"A service that provides the ability to determine the geospatial coordinates for a place, given the place name or attributes. This function accesses a database of geographic place names, together with their geographic locations and other descriptive information.",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geo-analytical Services",
+	"definitionContent":"A Web service that computes a geographic function for a specified geographic input. For example, the TotalWaters Web service computes the amount of stream miles and lake acres within a user?defined bounding box.",
+	"definitionCategory":"GIS Services (GIS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geocoding",
+	"definitionContent":"The process of identifying the geographic location of a postal address—a subset of georeferencing.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geodetic Control",
+	"definitionContent":"Geodetic control provides a common reference system for establishing coordinates for all geographic data. All NSDI framework data and users’ applications data require geodetic control to accurately register spatial data. The National Spatial Reference System is the fundamental geodetic control for the United States.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geodetic Control",
+	"definitionContent":"Geodetic control surveys are usually performed to establish a basic control network (framework of known point locations) from which supplemental surveying and mapping work is performed. Geodetic network surveys are distinguished by use of redundant, interconnected, permanently monumented control points that comprise the framework for the National Spatial Reference System (NSRS) or are often incorporated into the NSRS.",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geodetic Control",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOC",
+		"definitionContentListItem":"NOAA"
+	},
+	"definitionCategory":"Framework Theme",
+	"definitionContent":"Geodetic control provides a common reference system for establishing coordinates for all geographic data. All NSDI framework data and users' applications data require geodetic control to accurately register spatial data. The National Spatial Reference System is the fundamental geodetic control for the United States.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Geographic Information",
+	"definitionContent":"Coordinate and attribute data for location-based features, usually in the categories of point (e.g., a well), line (e.g., a road), polygon (e.g., a forest), cell (e.g., a raster-based \"rectangle\"), or coordinates (e.g., the latitude-longitude of a point on the ground).",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Geographic Information System",
+	"definitionContent":"A computer system for the input, editing, storage, retrieval, analysis, synthesis, and output of location-based information. GIS may refer to hardware and software, or include data.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Geographic Information System",
+	"definitionContent":"A system for the storage, retrieval, analysis, display, and maintenance of geographic information.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geographic Names",
+	"definitionContent":"This dataset contains data or information on geographic place names deemed official for Federal use by the U.S. Board on Geographic Names pursuant to Public Law 80-242. Geographic names information includes both the official place name (current, historical, and aliases) and the locative direct (that is, geographic coordinates) and indirect (that is, State and County where the place is located) geospatial identifiers; place names are categorized as populated places, schools, reservoirs, parks, streams, valleys, and ridges.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geographic Names",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI", 
+		"definitionContentListItem":"USGS"
+	},
+	"definitionContent":"This dataset contains data or information on geographic place names deemed official for federal use by the U.S. Board on Geographic Names as pursuant to Public Law 80-242. Geographic Names information includes both the official place name (current, historical, and aliases) and locative direct (i.e., geographic coordinates) and indirect (i.e., State and County where place is located) geospatial identifiers and categorized as populated places, schools, reservoirs, parks, streams, valleys, and ridges.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
 {
 	"definitionTitle":"GeoJSON",
 	"definitionContent":"Geographic JavaScrip Object Notation is an open standard format for encoding collections of simple geographical features along with their non-spatial attributes using JavaScript Object Notation.",
@@ -5,8 +88,175 @@
 	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
 },
 {
+	"definitionTitle":"Geologic",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOI", 
+		"definitionContentListItem":"USGS"
+	},
+	"definitionContent":"The geologic spatial data theme includes all geologic mapping information and related geoscience spatial data (including associated geophysical, geochemical, geochronologic, and paleontologic data) that can contribute to the National Geologic Map Database as pursuant to Public Law 106-148.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
+},
+{
+	"definitionTitle":"Geologic",
+	"definitionContent":"The geologic spatial theme includes all geologic mapping information and related geoscience spatial data (including associated geophysical, geochemical, geochronologic, and paleontologic data) that can contribute to the National Geologic Map Database pursuant to Public Law 106-148.",
+	"definitionCategory":"NSDI Data Themes (NDT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geology and Geophysical",
+	"definitionContent":"The Geological and Geophysical category Web page was authored by the geodata.gov development team in May 2003. The geologic spatial theme includes all geologic mapping information and related geoscience spatial data (including associated geophysical, geochemical, geochronologic, and paleontologic data) that can contribute to the National Geologic Map Database pursuant to Public Law 106-148. Offshore minerals include minerals that occur in submerged lands. Examples of marine minerals include oil, gas, sulfur, gold, sand and gravel, and manganese. Soil data consist of georeferenced digital map data and associated tabular attribute data. The map data describe the spatial distribution of the various soils that cover Earth’s surface. The attribute data describe the proportionate extent of the various soils, as well as the physical and chemical characteristics of those soils. The physical and chemical properties are based on observed and measured values, as well as model-generated values.",
+	"definitionCategory":"Geospatial One-Stop (GOS) Data Communities – (GOS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Georeference",
+	"definitionContent":"A set of datums by which the location of each point can be uniquely identified.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Georeferencing",
+	"definitionContent":"The process of identifying the geographic location of a piece of information. A common example is finding the latitude and longitude of a postal address, which is usually called geocoding (a subset of georeferencing).",
+	"definitionCategory":"FEA Geospatial Profile Ver. 2 Appendix B: Glossary of Terms (FEA)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Information Infrastructure (GII)",
+	"definitionContent":" The Department of Homeland Security GII is operated by HSE users nationwide as a Secure But Unclassified, reliable platform for geospatial visualization, analysis, and collaboration on diverse sets of mission-critical geospatial information. The GII is federated with Geoplatform.gov to provide HSE users the ability to seamlessly leverage unclassified geospatial content registered within Geoplatform.gov for analysis and shared situational awareness. Together, Geoplatform.gov and the DHS GII are core components of the NSDI, enabling national geospatial information sharing required to plan, rehearse, and execute missions to protect and secure the Homeland.",
+	"definitionCategory":"",
+	"citationURLTitle":"NSDI Strategic Framework (pdf) - Approved by the FGDC December 2016",
+	"citationURL":"https://www.fgdc.gov/nsdi-plan/2017/nsdi-strategic-framework.pdf"
+},
+{
+	"definitionTitle":"Geospatial Interoperability Reference Architecture (GIRA)",
+	"definitionContent":" An oversight framework for executive leadership to manage geospatial program and acquisition decisions and to provide technical architecture guidance on the design and implementation of interoperable geospatial solutions. ",
+	"definitionCategory":"",
+	"citationURLTitle":"NSDI Strategic Framework (pdf) - Approved by the FGDC December 2016",
+	"citationURL":"https://www.fgdc.gov/nsdi-plan/2017/nsdi-strategic-framework.pdf"
+},
+{
+	"definitionTitle":"Geospatial Platform (GeoPlatform.gov)",
+	"definitionContent":" A strategic national resource that provides a suite of well-managed, highly available, and trusted geospatial data, services, and applications for use by Federal agencies—and their State, local, Tribal, and regional partners to meet their mission needs and the broader needs of the Nation.",
+	"definitionCategory":"",
+	"citationURLTitle":"NSDI Strategic Framework (pdf) - Approved by the FGDC December 2016",
+	"citationURL":"https://www.fgdc.gov/nsdi-plan/2017/nsdi-strategic-framework.pdf"
+},
+{
+	"definitionTitle":"Geospatial Product Development",
+	"definitionContent":"Development of output from geospatial software, including both digital and hardcopy formats. Geospatial products may include maps (hard or soft copy), digital data, compact discs, charts, or other secondary products derived from geospatial input.",
+	"definitionCategory":"Data Analysis/Data Services (DAS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Data",
+	"definitionContent":"Information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the Earth. This information may be derived from, among other things, remote sensing, mapping, and surveying technologies. Statistical data may be included in this definition at the discretion of the collecting agency.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Geospatial Data",
+	"definitionContent":"Data with implicit or explicit reference to a location relative to the Earth’s surface; Spatial data are geographically referenced features that are described by geographic positions and attributes in an analog or computer-readable (digital) form.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Information",
+	"definitionContent":"Information concerning phenomena implicitly or explicitly associated with a location relative to the Earth’s surface.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Information System",
+	"definitionContent":"An information system dealing with information concerning phenomena associated with a location relative to the Earth’s surface.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Portfolio",
+	"definitionContent":"Geospatial assets that can be brought to bear to address an issue. These assets include funding, data, infrastructure, hardware, software, applications, personnel, services, and products.",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Service",
+	"definitionContent":"A service that transforms and manages geospatial information and presents the information to users.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Service Component",
+	"definitionContent":"A component or service that has geospatial data or information as a primary input or output.",
+	"definitionCategory":"Geospatial (GEO)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Geospatial Services",
+	"definitionContent":"A collection of operations, accessible through an interface that allows a user to evoke a behavior of value to the user.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
 	"definitionTitle":"GIS",
 	"definitionContent":"Geographic/Geospatial Information System is a computer system for providing access to and management of geospatial information.",
 	"citationURLTitle": "Glossary of Terms - Miscellaneous Terms - GeoPlatform.gov",
 	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
+},
+{
+	"definitionTitle":"Global Positioning System",
+	"definitionContent":"A satellite-based system deployed to determine locations on the Earth's surface. It is commonly used for surveying, mapping, and navigation on land and water.",
+	"citationURLTitle": "Appendix D: Informative Definitions - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appd"
+},
+{
+	"definitionTitle":"Governance",
+	"definitionContent":"The people, policies, and processes that provide the framework within which managers make decisions and take actions to optimize outcomes related to their spheres of responsibility.",
+	"definitionCategory":"Program Management (PMT)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Government Corporation",
+	"definitionContent":"(1) “Government corporation” means a corporation owned or controlled by the Government of the United States; and (2) “Government controlled corporation” does not include a corporation owned by the Government of the United States (5 USC § 103)",
+	"definitionCategory":"A–16 Data Themes (A–16)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Government Facilities (GFS)",
+	"definitionContent":"The GFS categorization structure captures the different types of facilities and associated elements that represent the entire sector. Although government facilities may be categorized based on type of ownership or facility security level, four sector-wide categorization based on a facility’s predominant use maximizes risk reduction opportunities among similar facilities. The predominant use of a facility is the main function or purpose of the building based on its contents and functions. Four security levels were established in the U.S. Department of Justice (DOJ) vulnerability assessment report and adopted by the Interagency Security Committee and are applicable to Federal facilities. Five predominant use categories for buildings, structures, and land were established as part of the Federal Real Property Profile by the Federal Real Property Council.",
+	"definitionCategory":"Department of Homeland Security Homeland Security Presidential Directive 7 Sectors (DHS)",
+	"citationURLTitle": "Lexicon of Geospatial Terminology",
+	"citationURL": "https://www.fgdc.gov/policyandplanning/a-16/lexicon-of-geospatial-terminology"
+},
+{
+	"definitionTitle":"Governmental Units",
+	"definitionContent":"These data describe, by a consistent set of rules and semantic definitions, the official boundary of Federal, State, tribal, or local governments as certified by responsible officials of each government and reported to the U.S. Census Bureau for the purpose of reporting the Nation’s official statistics.",
+	"definitionCategory":"NSDI Data Themes (NDT)"
+},
+{
+	"definitionTitle":"Governmental Units",
+	"definitionContentList": { 
+		"definitionContentListItem":"DOC",
+		"definitionContentListItem":"USCB"
+	},
+	"definitionCategory":"Framework Theme",
+	"definitionContent":"These data describe, by a consistent set of rules and semantic definitions, the official boundary of federal, state, local, and tribal governments as reported/certified to the U.S. Census Bureau by responsible officials of each government for purposes of reporting the Nation's official statistics.",
+	"citationURLTitle": "Appendix E: NSDI Data Themes, Definitions, and Lead Agencies - OMB Circular No. A-16 Revised &#124; whitehouse.gov",
+	"citationURL": "https://www.whitehouse.gov/omb/circulars_a016_rev/#appe"
 }
+
+
+
+
+
