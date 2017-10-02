@@ -3,25 +3,26 @@
 [Highlights](https://www.data.gov/highlights)  
 
 
-[https://www.data.gov/feed/](https://www.data.gov/feed/)
+[Data.gov Catalogue Service for the Web (CSW) API Gist](https://gist.github.com/kalxas/5ab6237b4163b0fdc930)  
 
-Meta - The Data.gov Blog - Data.gov
-(https://www.data.gov/meta/
-)
-<meta property="og:url" content="https://www.data.gov/meta/" />
 
-https://www.data.gov/issue/
-https://www.data.gov/issues/
-https://www.data.gov/metrics
-https://www.data.gov/data-request/
-https://www.data.gov/privacy-policy
-https://www.data.gov/impact/
-https://www.data.gov/applications
-https://www.data.gov/developers/
+[Feed](https://www.data.gov/feed/)
+
+[Meta - The Data.gov Blog - Data.gov](https://www.data.gov/meta/)  
+&#60;meta property="og:url" content="https://www.data.gov/meta/" /&#62;
+
+[Issue](https://www.data.gov/issue/)  
+[Issues](https://www.data.gov/issues/)  
+[Metrics](https://www.data.gov/metrics)  
+[Data Request](https://www.data.gov/data-request/)  
+[Privacy Policy](https://www.data.gov/privacy-policy)  
+[Impact](https://www.data.gov/impact/)  
+[Applications](https://www.data.gov/applications)  
+[Developers](https://www.data.gov/developers/)  
 
 [Full Privacy Impact of data.gov](https://www.gsa.gov/portal/getMediaData?mediaId=124938)
 
-https://www.data.gov/developers/open-source
+[Open Source](https://www.data.gov/developers/open-source)  
 
 [Contributing to Data.gov with GitHub 101]https://github.com/GSA/data.gov/wiki/Contributing-to-Data.gov-with-GitHub-101
 
@@ -42,15 +43,15 @@ https://www.data.gov/developers/open-source
 
 [Cities.Data.gov](http://Cities.Data.gov)  
 redirects to
-https://www.data.gov/cities/
+[](https://www.data.gov/cities/)  
 
 [Counties.Data.gov](http://Counties.Data.gov)  
 redirects to
-https://www.data.gov/counties/
+[](https://www.data.gov/counties/)  
 
 [States.Data.gov](http://States.Data.gov)  
 redirects to 
-https://www.data.gov/states
+[](https://www.data.gov/states)  
 
 
 
