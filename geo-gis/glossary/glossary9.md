@@ -4,3 +4,5 @@ DHS Geospatial Information Infrastructure (GII):https://gii.dhs.gov/
 
  Build geospatial tradecraft and standardize operating procedures across the Federal, State,
 Local, Tribal, and Territorial (FSLTT) spectrum
+
+GIRA- Geospatial Interoperability Reference Architecture

@@ -1,0 +1,12 @@
+{
+	"definitionTitle":"OMB Circular A-16 Themes",
+	"definitionContent":"OMB Circular A-16 Themes is a circular providing direction for federal agencies that produce, maintain or use spatial data either directly or indirectly in the fulfillment of their mission.",
+	"citationURLTitle": "Glossary of Terms - Miscellaneous Terms - GeoPlatform.gov",
+	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
+},
+{
+	"definitionTitle":"Open Map",
+	"definitionContent":"Open Map is a GeoPlatform map object which contains resource information, such as layers and features, and metadata describing the map.",
+	"citationURLTitle": "Glossary of Terms - GeoPlatform Concepts - GeoPlatform.gov",
+	"citationURL": "https://www.geoplatform.gov/glossary-of-terms/"
+}
