@@ -1,12 +1,15 @@
 # Wikimedia  
 
-## ![Wikimedia Toolforge]()  
+## ![Wikimedia Toolforge](https://raw.githubusercontent.com/jalbertbowden/www/master/img/wikimedia-toolforge-x256.png)  
 ## [Wikimedia Toolforge](https://tools.wmflabs.org/)  
 
 ## Wikimedia Commons  
 [Wikimedia Commons](https://commons.wikimedia.org/)  
 [Commons:Featured Pictures (FP)](https://commons.wikimedia.org/wiki/Commons:FP)  
 [RSS Feed - Commons:Featured Pictures (FP)](https://tools.wmflabs.org/catfood/catfood.php?category=Featured_pictures_on_Wikimedia_Commons)  
+
+## [Wikitech](https://wikitech.wikimedia.org/wiki/Main_Page)  
+Wikitech is the home of documentation related to the technical projects and infrastructure maintained by the Wikimedia Foundation. This includes production systems, the Wikimedia Cloud Services computing infrastructure (virtual private server (VPS)), the Toolforge hosting environment (platform as a service (PaaS)), and many other technical projects such as the Beta cluster which is used to validate new software before deployment to the production cluster.  
 
 ## [Meta-Wiki](https://meta.wikimedia.org/)  
 Meta-Wiki is the global community site for Wikimedia Projects and the Wikimedia Movement in general. Meta-Wiki's discussions range from coordination and documentation to planning and analysis of future Wikimedia activities.  
