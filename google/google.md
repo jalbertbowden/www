@@ -33,6 +33,7 @@
 Google Alerts. An Alert can watch the news, the web, or both. It can also watch Google Groups.  
 [Create an Alert](https://support.google.com/websearch/answer/4815696?visit_id=1-636382471081197713-147093414&hl=en&rd=1)  
 
+## [A Google A Day](http://www.agoogleaday.com/)   
 
 ## [AMP - Accelerated Mobile Pages](https://www.ampproject.org/)  
 [YouTube Account](https://www.youtube.com/channel/UCXPBsjgKKG2HqsKBhWA4uQw)  
