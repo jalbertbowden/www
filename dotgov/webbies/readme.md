@@ -5,7 +5,7 @@ Celebrating the best and the worst of dotgov over the years.
 ## Not-Webbies
 
 ### vcfw.er.usgs.gov/metaweb  
-![Welcome to MetaWebber]http://web.archive.org/web/20041028234847/http://vcfw.er.usgs.gov/pubs/metaweb/
+![Welcome to MetaWebber](http://web.archive.org/web/20041028234847/http://vcfw.er.usgs.gov/pubs/metaweb/
 http://web.archive.org/web/20041029000847im_/http://vcfw.er.usgs.gov/pubs/metaweb/welcome.gif)  
 []()  
 [MetaWebber](http://web.archive.org/web/20041029023240/http://vcfw.er.usgs.gov/pubs/metaweb/metaweb.htm)  
