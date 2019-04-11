@@ -11,3 +11,5 @@
 [https://web-beta.archive.org/web/20080115201604im_/http://www.epa.gov/enviro/gif/ef_EF.gif](https://web-beta.archive.org/web/20080115201604im_/http://www.epa.gov/enviro/gif/ef_EF.gif)  
 [http://www.nws.noaa.gov/images/xml_logo_new.gif](http://www.nws.noaa.gov/images/xml_logo_new.gif)  
 [https://maps.ngdc.noaa.gov/viewers/images/yellownew.gif](https://maps.ngdc.noaa.gov/viewers/images/yellownew.gif)  
+[www.loc.gov/marc/images/yelnew.gif](http://www.loc.gov/marc/images/yelnew.gif)  
+[www.loc.gov/marc/images/update.gif](http://www.loc.gov/marc/images/update.gif)  
