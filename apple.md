@@ -23,3 +23,6 @@ OR
 ## <code>.ssh</code> Config  
 To view all hidden files/folders, type: <pre><code>ls -la</code></pre>.  
 [Generating a New <code>.ssh</code> Key Config for GitHub](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)  
+
+## View Hidden Files (MORE)  
+Press <code>command</code>+<code>shift</code>+<code>.</code> to view hidden files and folders from Mac OS X Finder prompt.  
