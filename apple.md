@@ -19,3 +19,6 @@
 `defaults write com.apple.finder AppleShowAllFiles true; killall Finder`  
 OR  
 `defaults write com.apple.finder AppleShowAllFiles YES`
+
+## <code>.ssh</code> Config  
+To view all hidden files/folders, type: <pre><code>ls -la</code></pre>
