@@ -16,4 +16,6 @@
 
 ## Snippets  
 [See Hidden Files/Folders](https://appleinsider.com/articles/18/07/27/how-to-see-hidden-files-and-folders-in-macos)  
-`defaults write com.apple.finder AppleShowAllFiles true; killall Finder`
+`defaults write com.apple.finder AppleShowAllFiles true; killall Finder`  
+OR  
+`defaults write com.apple.finder AppleShowAllFiles YES`
