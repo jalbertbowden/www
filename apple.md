@@ -26,3 +26,10 @@ To view all hidden files/folders, type: <pre><code>ls -la</code></pre>.
 
 ## View Hidden Files (MORE)  
 Press <code>command</code>+<code>shift</code>+<code>.</code> to view hidden files and folders from Mac OS X Finder prompt.  
+
+## Change Screenshots Directory  
+Create directory that you want screenshots to be in; make sure you can see this directory in finder and that it is in grid view.  
+From terminal, enter <code>defaults write com.apple.screencapture location </code>.  
+**Note**: make sure you enter the above line with the trailing space!  
+Drag the desired directory from Finder into terminal to get the directory's complete path; hit enter.  
+[Change Mac's Default Screenshot Directory](https://www.laptopmag.com/articles/change-macs-default-screenshot-directory)  
