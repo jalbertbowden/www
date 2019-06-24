@@ -21,4 +21,5 @@ OR
 `defaults write com.apple.finder AppleShowAllFiles YES`
 
 ## <code>.ssh</code> Config  
-To view all hidden files/folders, type: <pre><code>ls -la</code></pre>
+To view all hidden files/folders, type: <pre><code>ls -la</code></pre>.  
+[Generating a New <code>.ssh</code> Key Config for GitHub](https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent#generating-a-new-ssh-key)  
