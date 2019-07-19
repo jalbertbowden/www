@@ -1,5 +1,8 @@
 # Python - www  
 
+## Code Snippets  
+### Python 3 SimpleHTTPServer <code>python3 -m http.server</code>  
+
 ### [<code>slack_inviter.py</code>](https://github.com/jalbertbowden/www/blob/master/python/slack_inviter.py)  
 [source](https://gist.github.com/jalbertbowden/65fa2bff62b76695ac0e797b91f16d1b)  
 
