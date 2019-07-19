@@ -1,4 +1,6 @@
 # Dotgov Icons  
+
+## New Icons in use by Dotgov
 [https://maps.ngdc.noaa.gov/viewers/images/yellownew.gif](https://maps.ngdc.noaa.gov/viewers/images/yellownew.gif)  
 [https://graphical.weather.gov/staticimages/new.gif](https://graphical.weather.gov/staticimages/new.gif)  
 [https://web-beta.archive.org/web/20061003161059im_/http://www.epa.gov/superfund/pics/acrobat.gif](https://web-beta.archive.org/web/20061003161059im_/http://www.epa.gov/superfund/pics/acrobat.gif)  
@@ -13,3 +15,4 @@
 [https://maps.ngdc.noaa.gov/viewers/images/yellownew.gif](https://maps.ngdc.noaa.gov/viewers/images/yellownew.gif)  
 [www.loc.gov/marc/images/yelnew.gif](http://www.loc.gov/marc/images/yelnew.gif)  
 [www.loc.gov/marc/images/update.gif](http://www.loc.gov/marc/images/update.gif)  
+[https://graphical.weather.gov/staticimages/new.gif](https://graphical.weather.gov/staticimages/new.gif)  
