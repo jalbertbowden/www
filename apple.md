@@ -1,5 +1,8 @@
 # [Apple](https://apple.com/)  
 
+## Apple Community  
+[Mac Open Web](https://macopenweb.com/): a collection of open and indie Mac, iOS, and web apps that help promote the open web.  
+
 ## Sub Domains  
 [Bug Report](https://bugreport.apple.com/web/)  
 
