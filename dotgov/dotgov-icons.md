@@ -16,4 +16,6 @@
 [www.loc.gov/marc/images/yelnew.gif](http://www.loc.gov/marc/images/yelnew.gif)  
 [www.loc.gov/marc/images/update.gif](http://www.loc.gov/marc/images/update.gif)  
 [https://graphical.weather.gov/staticimages/new.gif](https://graphical.weather.gov/staticimages/new.gif)  
+
+![web.sba.gov New Icon.](https://raw.githubusercontent.com/jalbertbowden/www/master/dotgov/icons/icon-new-web.sba.gov-library-images-new.gif)  
 [https://web.sba.gov/library/images/new.gif](https://web.sba.gov/library/images/new.gif)  
