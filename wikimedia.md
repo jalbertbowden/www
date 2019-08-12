@@ -2,6 +2,7 @@
 
 ## ![Wikimedia Toolforge](https://raw.githubusercontent.com/jalbertbowden/www/master/img/wikimedia-toolforge-x256.png)  
 ## [Wikimedia Toolforge](https://tools.wmflabs.org/)  
+[Wikimedia OTRS release generator](https://tools.wmflabs.org/relgen/)  
 
 ## Wikimedia Commons  
 [Wikimedia Commons](https://commons.wikimedia.org/)  
